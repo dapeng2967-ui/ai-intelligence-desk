@@ -7,9 +7,18 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
 
 jobs:
   update:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -24,3 +33,15 @@ jobs:
           git add data/daily.json
           git diff --cached --quiet || git commit -m "Refresh daily AI brief"
           git push
+      - uses: actions/configure-pages@v5
+      - name: Build static site
+        run: |
+          mkdir -p _site/data
+          cp index.html app.js app.css manifest.json service-worker.js _site/
+          cp data/daily.json _site/data/
+          touch _site/.nojekyll
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - id: deployment
+        uses: actions/deploy-pages@v4
