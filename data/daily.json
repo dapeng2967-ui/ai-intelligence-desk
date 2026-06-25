@@ -1,30 +1,30 @@
 {
   "label": "今日 AI 精选 · 自动筛选，原始来源已附",
-  "date": "2026 年 6 月 25 日",
-  "updatedAt": "2026-06-25 21:38（北京时间）",
+  "date": "2026 年 6 月 26 日",
+  "updatedAt": "2026-06-26 07:02（北京时间）",
   "title": "今天，不用刷完 AI 世界。只看 4 件值得你知道的事。",
   "summary": "覆盖新能力、AI 产品、软硬结合与创作实践。先从标题发现信号，再回到原始来源和亲手体验建立判断。",
   "briefs": [
     {
-      "id": "新能力-20260625",
+      "id": "新能力-20260626",
       "section": "新能力",
       "badge": "模型 / Agent",
       "time": "5–7 分钟",
       "relevance": "能力趋势",
-      "title": "80%代码由Claude合并，Anthropic内部人员点破Agent真相：「Close the Loop」 - 光通信Pro",
-      "happened": "光通信Pro 的近期报道：80%代码由Claude合并，Anthropic内部人员点破Agent真相：「Close the Loop」 光通信Pro",
+      "title": "Claude Code 工程一号位亲自给 Agent 热潮降温：狂烧 Token 时代已过，现在该算 ROI 了 - Infoq.cn",
+      "happened": "Infoq.cn 的近期报道：Claude Code 工程一号位亲自给 Agent 热潮降温：狂烧 Token 时代已过，现在该算 ROI 了 Infoq.cn",
       "fact": "先把它当作一项待验证的新能力：打开原始来源，确认它的可用地区、输入输出、价格与限制，而不是只看演示效果。",
       "boundary": "模型发布、基准分数和产品可用性不是一回事；真实任务的稳定性、速度和成本都值得单独验证。",
       "relevanceText": "它可能改变你对“AI 现在能做到什么”的判断，也可能成为下一个可亲手测试的工具。",
       "tryTitle": "10 分钟：把这条新闻变成能力判断",
       "prompt": "基于下面这条 AI 新闻，不要复述新闻。请帮我判断：新增的真实能力是什么、它在什么条件下才有价值、最可能失败的地方、我能用哪个小任务亲自测试它。\n\n【粘贴新闻】",
       "source": {
-        "name": "光通信Pro",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDNmZCZDYySG5DRjI2dEk2WkRXRUphRU9LZkJBS0ZlMkJFRVAyZkU4dnl4RTFLZjVha0xzNjk3Z2JZYjBzWnAtNTNYekdsdVdjOUlsTGp3?oc=5"
+        "name": "Infoq.cn",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoSVd3YVFhVFZGNWp5TXo5aVluWVJUYi1KeEZYLTJGNTRaNW9XcERuTWZWWU1rT3Fyel96ZW8wakxTMW96RnV5MGVTT3JiMEE4LUw1XzNJVk55dnZ3dVE?oc=5"
       }
     },
     {
-      "id": "AI 产品-20260625",
+      "id": "AI 产品-20260626",
       "section": "AI 产品",
       "badge": "产品模式 / 体验",
       "time": "5–7 分钟",
@@ -42,7 +42,7 @@
       }
     },
     {
-      "id": "创作与生活-20260625",
+      "id": "创作与生活-20260626",
       "section": "创作与生活",
       "badge": "影像 / 通用实践",
       "time": "5–7 分钟",
