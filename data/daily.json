@@ -1,7 +1,7 @@
 {
   "label": "今日 AI 精选 · 自动筛选，原始来源已附",
   "date": "2026 年 6 月 25 日",
-  "updatedAt": "2026-06-25 11:25（北京时间）",
+  "updatedAt": "2026-06-25 21:38（北京时间）",
   "title": "今天，不用刷完 AI 世界。只看 4 件值得你知道的事。",
   "summary": "覆盖新能力、AI 产品、软硬结合与创作实践。先从标题发现信号，再回到原始来源和亲手体验建立判断。",
   "briefs": [
@@ -11,16 +11,16 @@
       "badge": "模型 / Agent",
       "time": "5–7 分钟",
       "relevance": "能力趋势",
-      "title": "Claude Code 修了几个小 bug，却揭开了 Agent 落地的大麻烦 - 雷峰网",
-      "happened": "雷峰网 的近期报道：Claude Code 修了几个小 bug，却揭开了 Agent 落地的大麻烦 雷峰网",
+      "title": "80%代码由Claude合并，Anthropic内部人员点破Agent真相：「Close the Loop」 - 光通信Pro",
+      "happened": "光通信Pro 的近期报道：80%代码由Claude合并，Anthropic内部人员点破Agent真相：「Close the Loop」 光通信Pro",
       "fact": "先把它当作一项待验证的新能力：打开原始来源，确认它的可用地区、输入输出、价格与限制，而不是只看演示效果。",
       "boundary": "模型发布、基准分数和产品可用性不是一回事；真实任务的稳定性、速度和成本都值得单独验证。",
       "relevanceText": "它可能改变你对“AI 现在能做到什么”的判断，也可能成为下一个可亲手测试的工具。",
       "tryTitle": "10 分钟：把这条新闻变成能力判断",
       "prompt": "基于下面这条 AI 新闻，不要复述新闻。请帮我判断：新增的真实能力是什么、它在什么条件下才有价值、最可能失败的地方、我能用哪个小任务亲自测试它。\n\n【粘贴新闻】",
       "source": {
-        "name": "雷峰网",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZS2xsbE9USXkzcUk2MTFRRmpMblpPTmZEU1EyWldZNjM0UU1sdXo0Z2tUaktKdmJ0YVFjRGtFMG5WbFkyOW1pXzltQUhUV2pCMWlPczJ6UDgwRnNwczU2cXVuRVhxVWpGQWc?oc=5"
+        "name": "光通信Pro",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDNmZCZDYySG5DRjI2dEk2WkRXRUphRU9LZkJBS0ZlMkJFRVAyZkU4dnl4RTFLZjVha0xzNjk3Z2JZYjBzWnAtNTNYekdsdVdjOUlsTGp3?oc=5"
       }
     },
     {
