@@ -1,0 +1,10 @@
+{
+  "name": "AI 情报台",
+  "short_name": "AI 情报台",
+  "description": "持续了解、体验与沉淀 AI 能力的个人情报系统",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b1020",
+  "theme_color": "#0b1020",
+  "lang": "zh-CN"
+}
