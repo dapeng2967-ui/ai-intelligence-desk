@@ -1,69 +1,63 @@
 {
-  "label": "今日 AI 精选 · 来自官方发布与可信行业来源",
-  "date": "2026 年 6 月 24 日",
-  "updatedAt": "2026-06-24 08:00（启动版）",
+  "label": "今日 AI 精选 · 自动筛选，原始来源已附",
+  "date": "2026 年 6 月 25 日",
+  "updatedAt": "2026-06-25 11:25（北京时间）",
   "title": "今天，不用刷完 AI 世界。只看 4 件值得你知道的事。",
-  "summary": "覆盖新能力、产品模式、AI 硬件和马上能试的工具。每条都先解释真实能力，再说边界和你可以做什么。",
+  "summary": "覆盖新能力、AI 产品、软硬结合与创作实践。先从标题发现信号，再回到原始来源和亲手体验建立判断。",
   "briefs": [
     {
-      "id": "omni-video-20260624",
+      "id": "新能力-20260625",
       "section": "新能力",
-      "badge": "多模态 / 视频",
-      "time": "7 分钟",
-      "relevance": "与你相关",
-      "title": "AI 正从“理解多种输入”走向“用多种素材一起创作视频”",
-      "happened": "Google 在 I/O 2026 发布 Gemini Omni，主张可把文字、图片、视频等参考素材组合起来生成或编辑视频；首批能力聚焦视频创作与编辑。",
-      "fact": "值得关注的不是“又会生成视频”，而是输入可以混用：一段真实素材、一个参考画面和一段文字，可以共同成为创作指令。",
-      "boundary": "生成得像，不等于它理解真实事件；动作细节、真实素材与合成内容的边界、版权与标识仍要靠产品设计约束。",
-      "relevanceText": "对运动影像的启发：拍摄后的高光再创作正在变得可做；但产品不应把 AI 改写的片段伪装成用户真实拍到的经历。",
-      "tryTitle": "10 分钟体验：让 AI 给真实素材提出“非伪造”的高光包装建议",
-      "prompt": "我有一段真实拍摄的运动视频。请不要虚构或补造其中没有发生的动作。请基于我提供的素材描述，给出：1）三个高光片段的筛选标准；2）每段可用的标题与字幕；3）哪些编辑是安全的包装，哪些会改变事实、必须明确标识为 AI 生成。",
-      "source": { "name": "Google I/O 2026：Gemini Omni", "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/" }
+      "badge": "模型 / Agent",
+      "time": "5–7 分钟",
+      "relevance": "能力趋势",
+      "title": "Claude Code 修了几个小 bug，却揭开了 Agent 落地的大麻烦 - 雷峰网",
+      "happened": "雷峰网 的近期报道：Claude Code 修了几个小 bug，却揭开了 Agent 落地的大麻烦 雷峰网",
+      "fact": "先把它当作一项待验证的新能力：打开原始来源，确认它的可用地区、输入输出、价格与限制，而不是只看演示效果。",
+      "boundary": "模型发布、基准分数和产品可用性不是一回事；真实任务的稳定性、速度和成本都值得单独验证。",
+      "relevanceText": "它可能改变你对“AI 现在能做到什么”的判断，也可能成为下一个可亲手测试的工具。",
+      "tryTitle": "10 分钟：把这条新闻变成能力判断",
+      "prompt": "基于下面这条 AI 新闻，不要复述新闻。请帮我判断：新增的真实能力是什么、它在什么条件下才有价值、最可能失败的地方、我能用哪个小任务亲自测试它。\n\n【粘贴新闻】",
+      "source": {
+        "name": "雷峰网",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZS2xsbE9USXkzcUk2MTFRRmpMblpPTmZEU1EyWldZNjM0UU1sdXo0Z2tUaktKdmJ0YVFjRGtFMG5WbFkyOW1pXzltQUhUV2pCMWlPczJ6UDgwRnNwczU2cXVuRVhxVWpGQWc?oc=5"
+      }
     },
     {
-      "id": "proactive-agent-20260624",
-      "section": "产品模式",
-      "badge": "Agent / 主动服务",
-      "time": "6 分钟",
+      "id": "AI 产品-20260625",
+      "section": "AI 产品",
+      "badge": "产品模式 / 体验",
+      "time": "5–7 分钟",
       "relevance": "产品必看",
-      "title": "AI 产品的下一步，不只是等你提问，而是提前准备并建议下一步",
-      "happened": "Gemini 展示了 Daily Brief 这类主动式助手：在用户授权连接邮箱、日历和任务后，提前整理一天的重点并提出建议。",
-      "fact": "这代表一种产品模式变化：AI 的价值不止在回答，而在跨信息源归纳、排序、提醒和提出下一步。",
-      "boundary": "主动服务很容易变成打扰或越权。没有清楚的连接范围、预览、关闭入口和错误修正机制，用户不会把重要信息交给它。",
-      "relevanceText": "对手机 OS、相机和硬件都很有价值：系统级 AI 的核心问题变成“何时适合主动，何时必须沉默”。",
-      "tryTitle": "10 分钟拆解：设计一个不会冒犯用户的主动式建议",
-      "prompt": "请以运动相机为例，设计一个“主动提醒用户整理周末素材”的 AI 功能。输出：触发条件、用户看到的第一句话、它能读取的数据范围、用户能否拒绝或修改、哪些情况下绝对不应该打扰用户。请像产品经理一样写，不要只给营销文案。",
-      "source": { "name": "Google：Gemini App 的主动式帮助", "url": "https://blog.google/innovation-and-ai/products/gemini-app/next-evolution-gemini-app/" }
+      "title": "China’s Huawei Launches HarmonyOS 6 With Over 80 AI Agents - 一财全球Yicai Global",
+      "happened": "一财全球Yicai Global 的近期报道：China’s Huawei Launches HarmonyOS 6 With Over 80 AI Agents 一财全球Yicai Global",
+      "fact": "把它拆成具体的用户任务、触发时机、AI 输入与用户可见结果，才能看出它是新体验，还是旧功能换了说法。",
+      "boundary": "产品宣传常常只呈现一次成功路径；要继续追问用户能否理解、纠正、关闭和信任这个功能。",
+      "relevanceText": "这类产品案例可以直接训练你的 AI 功能需求和交互判断，不限于任何单一行业。",
+      "tryTitle": "10 分钟：拆一个 AI 产品功能",
+      "prompt": "请把这条 AI 产品新闻拆成：用户是谁、原来的任务是什么、AI 替用户做了哪一步、用户如何纠正它、失败时会发生什么。最后指出一个值得借鉴的产品机制。\n\n【粘贴新闻】",
+      "source": {
+        "name": "一财全球Yicai Global",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORHBXdFZGUkUtS284Z0NHX2lLM0kwRzE5dXpDOEpvYWxKWDNTbXQ4MnlPeVhUUDFjMjA1SGJPWnRVdFlpbVUwbmxtTnc5blZqSS1OaHVuY3BKaERzc3VSV0R6a0M0YWhkNW5YSnJLQVBib1pxMk03a1V1SV9RdXFfNkJNTUlmQ1RnTWxvRHU4WGJUdmhS?oc=5"
+      }
     },
     {
-      "id": "agent-build-20260624",
-      "section": "实操工具",
-      "badge": "AI 编程 / Agent",
-      "time": "6 分钟",
+      "id": "创作与生活-20260625",
+      "section": "创作与生活",
+      "badge": "影像 / 通用实践",
+      "time": "5–7 分钟",
       "relevance": "今天就能试",
-      "title": "“让 AI 做事”正在从对话框，进入可持续运行的工作流",
-      "happened": "新的开发平台正在把模型的推理、工具调用、代码执行和隔离环境串起来，目标是让 Agent 能完成多步骤任务，而不是只给出建议。",
-      "fact": "对产品经理，重要的变化是：可以先用自然语言把流程、界面与规则做成原型，再逐步补上真实数据和模型。",
-      "boundary": "Agent 不是无人值守的可靠员工。它需要给定范围、工具权限、检查点与人工确认；涉及发布、删除、消费或隐私信息时尤其如此。",
-      "relevanceText": "这正是你可以实践的方向：把一个模糊产品想法变成可点击、可讨论的 Demo，而不是等完整研发资源。",
-      "tryTitle": "10 分钟体验：把一个想法交给 AI 编程工具做成页面",
-      "prompt": "请帮我生成一个手机优先的网页原型，主题是“AI 旅行素材整理助手”。页面需要：导入素材、AI 正在分析的状态、推荐的 3 个片段及理由、用户可以删除/调整/重新生成、清楚标识哪些是 AI 建议。只使用 HTML、CSS、JavaScript；不要接入真实账号或上传功能。",
-      "source": { "name": "Google：Agent-first 开发工具更新", "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-developer-highlights/" }
-    },
-    {
-      "id": "hardware-os-20260624",
-      "section": "AI 硬件",
-      "badge": "软硬结合 / 语音",
-      "time": "6 分钟",
-      "relevance": "硬件视角",
-      "title": "硬件里的 AI 竞争，开始从“加一个助手”转向“理解设备上下文”",
-      "happened": "Google 正把 Gemini 引入搭载 Google 系统的车机，以更自然的对话处理导航、媒体和车辆相关问题，并让它可基于车主手册回答设备问题。",
-      "fact": "真正有价值的不是把聊天机器人塞进硬件，而是让它理解设备状态、可执行能力、说明书和当前场景，并在正确时机给出可控帮助。",
-      "boundary": "车机、相机等设备场景里，语音识别准确不等于操作安全。每一项动作都要评估误触发、确认成本、离线能力和失败后的恢复方式。",
-      "relevanceText": "你可以借它反推运动相机：什么能力可以自然对话，什么能力只能让用户确认后执行？",
-      "tryTitle": "10 分钟思考：给相机找一个“设备上下文”用法",
-      "prompt": "把“相机说明书问答”升级为真正懂设备上下文的 AI 助手。请列出它需要知道的设备状态、可以回答的问题、绝不能自行执行的操作、回答时应如何引用官方依据，以及离线时如何降级。",
-      "source": { "name": "Google：Gemini 进入车机", "url": "https://blog.google/products-and-platforms/platforms/android/cars-with-google-built-in-gemini-tips-2026/" }
+      "title": "Seedance 2.0: ByteDance's New AI Video Generator Inject New Life to China's AI App Stocks - International Business Times UK",
+      "happened": "International Business Times UK 的近期报道：Seedance 2.0: ByteDance's New AI Video Generator Inject New Life to China's AI App Stocks International Business Times UK",
+      "fact": "创作类 AI 最适合拿真实素材亲测：它能否保留意图、节省步骤、给出新方向，以及最终结果是否仍然像你自己。",
+      "boundary": "“生成得漂亮”不等于内容真实、可商用或符合你的审美；素材权利和 AI 生成标识不能省略。",
+      "relevanceText": "它既可以成为影像产品的灵感，也可以直接服务你的旅行、运动记录和个人兴趣。",
+      "tryTitle": "10 分钟：用真实素材体验一次 AI 创作",
+      "prompt": "我想用 AI 围绕这个真实素材做一个小作品：____。请给我三种差异明显的方向，并分别说清 AI 可以辅助的部分、我必须亲自决定的部分，以及一个十分钟内就能开始的第一步。",
+      "source": {
+        "name": "International Business Times UK",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc19mdHBFbFNvdjFyVTNsSW0ySWR5MzdNU0ZDSDdMcXNFX0l5ek1qMjV2SDVSNWwwUHloSmx6czFaVk1ESzN2aGY5dy02cm1yd2poWDVyR0hoNVNNNDQ0aGVMc0ZTY3NoSDQ1NEllME9VdnBiYTBIMlJHZmdJdWZxMGJ1b0ZoUnVTd216NHZPSTRFdVZOM1d0MTVvNTl6R0Ztb1dkRW1NaFlaeXVXVTdWVTlWeGtEZWs?oc=5"
+      }
     }
   ]
 }
