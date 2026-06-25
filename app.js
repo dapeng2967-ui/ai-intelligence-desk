@@ -240,7 +240,7 @@ function todayPage() {
   </section>
   <section class="section"><div class="section-heading"><h2>你关心什么，我就筛什么</h2><p>可随时调整</p></div>${interestChips()}</section>
   <section class="section pace-card"><div><span class="small-label">今天的 30 分钟</span><h2>先扫一遍，再挑一个真的去试。</h2></div><div class="pace-steps"><span><b>5'</b>快速扫读</span><span><b>10'</b>深读 1–2 条</span><span><b>10'</b>马上试</span><span><b>5'</b>记下一句判断</span></div></section>
-  <section class="section"><div class="section-heading"><h2>今日精选</h2><p>4 条 · 不是资讯洪流</p></div><div class="brief-list">${issue.briefs.map(briefCard).join("")}</div></section>
+  <section class="section"><div class="section-heading"><h2>今日精选</h2><p>${issue.briefs.length} 条 · 不是资讯洪流</p></div><div class="brief-list">${issue.briefs.map(briefCard).join("")}</div></section>
   <section class="section note-capture"><div><span class="small-label">把今天留下来</span><h2>你看到的哪一项能力，可能对工作、生活或兴趣有用？</h2><p>不必写长文，一句自己的判断就足够。它会进入“我的库”。</p></div><textarea id="daily-note" placeholder="例如：运动影像里的 AI 不应该替用户杜撰高光，但可以大胆帮助用户找回和包装真实瞬间。"></textarea><div class="button-row"><button class="button" type="button" data-action="save-note">保存这条判断</button><a class="button secondary" href="#library">去看我的库</a></div></section>`;
 }
 

@@ -1,4 +1,4 @@
-const CACHE_NAME = "ai-intelligence-desk-v3";
+const CACHE_NAME = "ai-intelligence-desk-v4";
 const ASSETS = ["./", "./index.html", "./app.css", "./app.js", "./manifest.json"];
 
 self.addEventListener("install", (event) => {
