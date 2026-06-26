@@ -4,7 +4,8 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
     <meta name="theme-color" content="#0b1020" />
-    <meta name="description" content="面向产品经理的 AI 情报、能力理解与实操平台" />
+    <meta name="description" content="面向产品经理的每日 AI 情报流：快讯、判断、边界与产品启发" />
+    <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
     <link rel="manifest" href="./manifest.json" />
     <link rel="stylesheet" href="./app.css" />
     <title>AI 情报台</title>
@@ -12,24 +13,17 @@
   <body>
     <div class="app-shell">
       <header class="topbar">
-        <a class="brand" href="#today" aria-label="返回今日学习">
+        <a class="brand" href="./index.html" aria-label="返回今日 AI 情报">
           <span class="brand-mark">AI</span>
           <span>
             <strong>AI 情报台</strong>
-            <small>你的持续学习系统</small>
+            <small>每天 30 分钟看懂 AI 变化</small>
           </span>
         </a>
-        <button id="resetData" class="icon-button" type="button" aria-label="重置本地学习记录" title="重置本地学习记录">↺</button>
+        <button class="button small secondary" type="button" data-action="refresh-live">刷新</button>
       </header>
 
       <main id="app" class="main-content" tabindex="-1"></main>
-
-      <nav class="bottom-nav" aria-label="主导航">
-        <a href="#today" data-route="today"><span>◉</span><b>今日精选</b></a>
-        <a href="#capabilities" data-route="capabilities"><span>⌁</span><b>能力发现</b></a>
-        <a href="#try" data-route="try"><span>✦</span><b>马上试</b></a>
-        <a href="#library" data-route="library"><span>▣</span><b>我的库</b></a>
-      </nav>
     </div>
 
     <template id="toastTemplate"><div class="toast" role="status"></div></template>

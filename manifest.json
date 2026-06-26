@@ -1,7 +1,7 @@
 {
   "name": "AI 情报台",
   "short_name": "AI 情报台",
-  "description": "持续了解、体验与沉淀 AI 能力的个人情报系统",
+  "description": "面向产品经理的每日 AI 情报流：快讯、判断、边界与产品启发",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#0b1020",
