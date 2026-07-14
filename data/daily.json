@@ -2,7 +2,7 @@
   "version": 2,
   "label": "AI Daily Brief",
   "date": "2026 年 7 月 14 日",
-  "updatedAt": "2026-07-14 03:21（北京时间）",
+  "updatedAt": "2026-07-14 10:21（北京时间）",
   "title": "今天值得关注的 AI 情报",
   "summary": "先扫快讯，再看重点判断。内容覆盖海外模型与产品、AI 编程、影像创作、AI 硬件和中文科技媒体信号。",
   "signals": [
@@ -97,16 +97,16 @@
       "askDev": "哪些信息必须端侧处理？哪些可以上云？延迟预算是多少？误识别会造成什么后果？离线时如何降级？"
     },
     {
-      "id": "20260714-06-刚刚windows梦中神机来了把你的",
+      "id": "20260714-06-最良心去水印工具实测千问动态水印完美",
       "category": "中文观察",
       "badge": "中文媒体",
-      "title": "刚刚，Windows“梦中神机”来了，把你的PC变成Agent工位",
+      "title": "最良心去水印工具实测：千问动态水印完美去除，还能处理本地文件",
       "source": {
-        "name": "36 Kr",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE50WlVXTVJ6Q3JmSUYyLWhfR1BRSEpSLXpOa1lPRTR5b2NkcTNDNDBxYzhpa1plZ2NjZ0tvd2M4OGVLeC1RUmpLRFVOVkpOZw?oc=5"
+        "name": "手机网易网",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtRkgxaWNHR0k4S0NET3ZlWW1iLVJKYVlld1hBS1JsTXVwSVhCLXdhcjJ3dFRlMl85VkxuVzJXc1FVNFIzXzdJSGE2LXFHZ01LYVA2cmJjSllxZ1czRnI3TjZR?oc=5"
       },
-      "publishedAt": "2026-06-02 15:00",
-      "score": 77,
+      "publishedAt": "2026-07-09 17:09",
+      "score": 78,
       "oneLine": "中文媒体能补足国内模型、应用和产业落地信息，适合用来观察本土生态节奏。",
       "judgment": "中文报道的价值在于案例密度和本土产品动态，但需要区分事实、转述和营销包装。",
       "capability": "国内模型和应用正在快速迭代，尤其在多模态、视频生成、办公、智能硬件和企业服务上竞争明显。",
@@ -115,15 +115,15 @@
       "askDev": "这个能力是否已有国内可用 API/SDK？可用性、成本、合规和私有化方案如何？"
     },
     {
-      "id": "20260714-07-artificialintellig",
+      "id": "20260714-07-introducingmusespa",
       "category": "模型/新能力",
       "badge": "模型迭代",
-      "title": "Artificial Intelligence - AI Update, July 10, 2026: AI News and Views From the Past Week",
+      "title": "Introducing Muse Spark 1.1",
       "source": {
-        "name": "MarketingProfs",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM21vRndhZ1NEWHkyd19CN1lPdVRIZk1lNlhMV0otcEhKU3ZuQnlNa0lLWFdadjJrd1FLSXA3OE1aRExnMk8tbTNHYXdjMDE4OThJX0pRQU9QRXRsQUtNMzZfdGlYSks4TFN4emR1ME9kQ09VZXB4QnFOYTNGc0VId0FyNmctbVpxNTdhTlkzU1RkUVZGek1obzhHbDUwcS15MFZTUzVJeWdrSUFXTWE0?oc=5"
+        "name": "AI at Meta",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZaGZQS2RfV05tSHU3dGRuRGFXNFd2UzNkYkJuR2tiSUg4X3RtT0UxV1VlTjNvSkZWcVUtU0NNUDJPVUo5WW5RMFR6Z055Y0dhZ1EyaG1SeGIxZlMtWFFmZTMyc2paYmxFLXE1TlBlaEg?oc=5"
       },
-      "publishedAt": "2026-07-11 02:53",
+      "publishedAt": "2026-07-09 22:36",
       "score": 97,
       "oneLine": "这类动态的重点是模型能力边界是否变化：更会推理、更会用工具、更懂多模态，还是成本/速度发生变化。",
       "judgment": "模型新闻不要只看名字和榜单，要追问它新增了哪类真实任务能力，以及是否已经可用、可稳定复现。",
@@ -151,16 +151,16 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20260714-09-美团旗下ai浏览器tabbit上架鸿",
+      "id": "20260714-09-geminisparkgoogles",
       "category": "AI 产品",
       "badge": "应用更新",
-      "title": "美团旗下AI浏览器Tabbit上架鸿蒙端，华为账号一键登录+服务卡片让浏览体验更便捷",
+      "title": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
       "source": {
-        "name": "中华网",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aU1oyREM5elFTTUt1NEtnRXVuSkRoR19kSDdSTlM5Q2dCSWFLTmJDSlg1amFhUm5MTUpCdENFS1pWal9xd3VsVU9rSk93dS13N2E2cWZaT011bGUzOUxOMHpZZHRIb1FPWjRibw?oc=5"
+        "name": "TechCrunch",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTDVKblBucGxXMUtkNXZjWk5raElhdjZsUUE5SFZqcGVsU1k0RDJHd1lMZjQ2YTIyeEFWT2l2dmV5UDY0TFB3RmZwWm02X00ySm5iSFlJSUxGbUFweGdEX3FwTjRlNUJsU0tORERWUTRtSmlQVzBLakFLX2FabGJtRUdaWFhxX1RZYzFBdlJtd2ZUOXQzX3dGcV9vT1REQQ?oc=5"
       },
-      "publishedAt": "2026-07-13 16:29",
-      "score": 107,
+      "publishedAt": "2026-07-01 15:00",
+      "score": 105,
       "oneLine": "AI 应用更新的核心不是“加了 AI”，而是它替用户完成了哪一步、在什么时机介入、用户如何控制。",
       "judgment": "产品经理要看的是任务链路是否真的变短，而不是宣传里的一次成功演示。",
       "capability": "AI 正在进入搜索、写作、设计、会议、浏览器和办公流，把理解、生成、调用工具组合成体验。",
@@ -205,15 +205,15 @@
       "askDev": "哪些信息必须端侧处理？哪些可以上云？延迟预算是多少？误识别会造成什么后果？离线时如何降级？"
     },
     {
-      "id": "20260714-12-小云雀vs万镜一刻聊聊字节与阿里的内",
+      "id": "20260714-12-刚刚windows梦中神机来了把你的",
       "category": "中文观察",
       "badge": "中文媒体",
-      "title": "小云雀vs万镜一刻，聊聊字节与阿里的内容Agent一番战",
+      "title": "刚刚，Windows“梦中神机”来了，把你的PC变成Agent工位",
       "source": {
-        "name": "36 Kr",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBDUGxMekFoXzh3VngwOWFzX2RwUVBYRmdidmljTEh4UV9kS2dKR1lmcHJYM3JGbkYwdURWWE1EZkIxSDh4dUF5ZktBdllNdw?oc=5"
+        "name": "36Kr",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE50WlVXTVJ6Q3JmSUYyLWhfR1BRSEpSLXpOa1lPRTR5b2NkcTNDNDBxYzhpa1plZ2NjZ0tvd2M4OGVLeC1RUmpLRFVOVkpOZw?oc=5"
       },
-      "publishedAt": "2026-06-12 15:00",
+      "publishedAt": "2026-06-02 15:00",
       "score": 77,
       "oneLine": "中文媒体能补足国内模型、应用和产业落地信息，适合用来观察本土生态节奏。",
       "judgment": "中文报道的价值在于案例密度和本土产品动态，但需要区分事实、转述和营销包装。",
@@ -223,15 +223,15 @@
       "askDev": "这个能力是否已有国内可用 API/SDK？可用性、成本、合规和私有化方案如何？"
     },
     {
-      "id": "20260714-13-introducingmusespa",
+      "id": "20260714-13-metareleaseslatest",
       "category": "模型/新能力",
       "badge": "模型迭代",
-      "title": "Introducing Muse Spark 1.1",
+      "title": "Meta releases latest update of AI model Muse Spark as tech giant accelerates AI push under Alexandr Wang",
       "source": {
-        "name": "AI at Meta",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZaGZQS2RfV05tSHU3dGRuRGFXNFd2UzNkYkJuR2tiSUg4X3RtT0UxV1VlTjNvSkZWcVUtU0NNUDJPVUo5WW5RMFR6Z055Y0dhZ1EyaG1SeGIxZlMtWFFmZTMyc2paYmxFLXE1TlBlaEg?oc=5"
+        "name": "Fortune",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbjRuMjVVRlFnX2I2Z24tUmlTb19BQ01HeUI0OHpBc1dFaThsX2E1THdmakl0TDAwbWZXcHVKbUZ6Y29WdGc1WGRLYmxod2hWNHhPYXFMV3RTaVFmR1ZtSUlJSWlITzhsTWtOZmtSMnRQQkxLeUJpdU9SOE5pazc0N05WdHJEMHFfY1BhbktHTG1ZTmNFZGxfMDJacllBR3QwRkJYSE5BQUo2eXRZMk02LVN3?oc=5"
       },
-      "publishedAt": "2026-07-09 22:36",
+      "publishedAt": "2026-07-10 00:54",
       "score": 97,
       "oneLine": "这类动态的重点是模型能力边界是否变化：更会推理、更会用工具、更懂多模态，还是成本/速度发生变化。",
       "judgment": "模型新闻不要只看名字和榜单，要追问它新增了哪类真实任务能力，以及是否已经可用、可稳定复现。",
@@ -259,16 +259,16 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20260714-15-geminisparkgoogles",
+      "id": "20260714-15-introducingmicroso",
       "category": "AI 产品",
       "badge": "应用更新",
-      "title": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
+      "title": "Introducing Microsoft Scout: Your always-on personal agent",
       "source": {
-        "name": "TechCrunch",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTDVKblBucGxXMUtkNXZjWk5raElhdjZsUUE5SFZqcGVsU1k0RDJHd1lMZjQ2YTIyeEFWT2l2dmV5UDY0TFB3RmZwWm02X00ySm5iSFlJSUxGbUFweGdEX3FwTjRlNUJsU0tORERWUTRtSmlQVzBLakFLX2FabGJtRUdaWFhxX1RZYzFBdlJtd2ZUOXQzX3dGcV9vT1REQQ?oc=5"
+        "name": "Microsoft",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV05vaTgybEpsRVBhZGFEai12SHFkYWZiZjRSR1VaMXFJckxYRnU5MHc2Q3QzTVFqVklRb21qck80M0I0VEZQQjBKS2tuQ2l6bURRQ2NhYkwwTnQya3d5OGsyMTU1V3gtd3ZtZ2F4b3JFTXdoY0N1YXJ4eUthalkyTUg3N2RaR3NzYVZyNEZlRkRMUUROMmV3c1ctN3htRklTdmdTeTVLOFQxNmhwOVNJU2k5WFNfbFNJWWhVSQ?oc=5"
       },
-      "publishedAt": "2026-07-01 15:00",
-      "score": 105,
+      "publishedAt": "2026-06-02 15:00",
+      "score": 99,
       "oneLine": "AI 应用更新的核心不是“加了 AI”，而是它替用户完成了哪一步、在什么时机介入、用户如何控制。",
       "judgment": "产品经理要看的是任务链路是否真的变短，而不是宣传里的一次成功演示。",
       "capability": "AI 正在进入搜索、写作、设计、会议、浏览器和办公流，把理解、生成、调用工具组合成体验。",
@@ -313,16 +313,16 @@
       "askDev": "哪些信息必须端侧处理？哪些可以上云？延迟预算是多少？误识别会造成什么后果？离线时如何降级？"
     },
     {
-      "id": "20260714-18-微信ai全网最细体验我又爱上了刷朋友",
+      "id": "20260714-18-小云雀vs万镜一刻聊聊字节与阿里的内",
       "category": "中文观察",
       "badge": "中文媒体",
-      "title": "微信AI全网最细体验，我又爱上了刷朋友圈",
+      "title": "小云雀vs万镜一刻，聊聊字节与阿里的内容Agent一番战",
       "source": {
-        "name": "36 Kr",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9taTJFb2ptWWE0cDJXNHhqWFdhUVN6d0NsaUtaZ05QckhqRThhUVV4cVRnZmZJRkVPdWxJRERWS0UyVGhrR043RENEZzJrdw?oc=5"
+        "name": "36Kr",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBDUGxMekFoXzh3VngwOWFzX2RwUVBYRmdidmljTEh4UV9kS2dKR1lmcHJYM3JGbkYwdURWWE1EZkIxSDh4dUF5ZktBdllNdw?oc=5"
       },
-      "publishedAt": "2026-06-23 15:00",
-      "score": 68,
+      "publishedAt": "2026-06-12 15:00",
+      "score": 77,
       "oneLine": "中文媒体能补足国内模型、应用和产业落地信息，适合用来观察本土生态节奏。",
       "judgment": "中文报道的价值在于案例密度和本土产品动态，但需要区分事实、转述和营销包装。",
       "capability": "国内模型和应用正在快速迭代，尤其在多模态、视频生成、办公、智能硬件和企业服务上竞争明显。",
@@ -421,25 +421,7 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20260714-24-introducingmicroso",
-      "category": "AI 产品",
-      "badge": "应用更新",
-      "title": "Introducing Microsoft Scout: Your always-on personal agent",
-      "source": {
-        "name": "Microsoft",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV05vaTgybEpsRVBhZGFEai12SHFkYWZiZjRSR1VaMXFJckxYRnU5MHc2Q3QzTVFqVklRb21qck80M0I0VEZQQjBKS2tuQ2l6bURRQ2NhYkwwTnQya3d5OGsyMTU1V3gtd3ZtZ2F4b3JFTXdoY0N1YXJ4eUthalkyTUg3N2RaR3NzYVZyNEZlRkRMUUROMmV3c1ctN3htRklTdmdTeTVLOFQxNmhwOVNJU2k5WFNfbFNJWWhVSQ?oc=5"
-      },
-      "publishedAt": "2026-06-02 15:00",
-      "score": 99,
-      "oneLine": "AI 应用更新的核心不是“加了 AI”，而是它替用户完成了哪一步、在什么时机介入、用户如何控制。",
-      "judgment": "产品经理要看的是任务链路是否真的变短，而不是宣传里的一次成功演示。",
-      "capability": "AI 正在进入搜索、写作、设计、会议、浏览器和办公流，把理解、生成、调用工具组合成体验。",
-      "boundary": "如果用户不能理解输入范围、不能修改结果、不能拒绝主动建议，AI 功能很容易变成打扰或不可信。",
-      "pmInsight": "拆解竞品时用四问：用户任务是什么、AI 替哪一步、失败怎么纠正、隐私和成本怎么交代。",
-      "askDev": "这个功能依赖哪些用户数据？结果如何解释？用户能否编辑/撤回？成本是否支持高频使用？"
-    },
-    {
-      "id": "20260714-25-anthropicclaude已承担",
+      "id": "20260714-24-anthropicclaude已承担",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "Anthropic：Claude 已承担 95% 的内部数据分析查询工作",
@@ -457,7 +439,7 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20260714-26-anthropic推出claudes",
+      "id": "20260714-25-anthropic推出claudes",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "Anthropic推出Claude Sonnet 5 低成本落地智能体能力- AI",
@@ -475,7 +457,7 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20260714-27-全球第一位ai哲学家在谷歌deepm",
+      "id": "20260714-26-全球第一位ai哲学家在谷歌deepm",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "全球第一位AI哲学家，在谷歌DeepMind的9年：为AGI安全奔走",
@@ -493,15 +475,33 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20260714-28-最聪明的ai未必是最优秀的ai交",
+      "id": "20260714-27-中国加强ai服务整治约14万项应用被",
+      "category": "AI 产品",
+      "badge": "应用更新",
+      "title": "中国加强AI服务整治 约1.4万项应用被清退",
+      "source": {
+        "name": "디지털투데이",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUnNCVjRJdEZtYUJYdHJ4d2V4WUdwMjk3aHRtSnlMcDczM3VsNmVpRW56VUlOLVBZcnE4dVM3VzRLY0J5eUdfWVZzVDRqQzYydHcxNkJOR2szU05NLUlNVmZjczQwNmFMSUw0aTNxU3E5RkRaYWhLSlJiRUd6NjdVSF9fQ0hrYmtZRTZEaEJTOHR6ZlVCMU9lOUdMZWNoenQ0S05LTmFBQ0g1THo2WS1IY3dZOUNmb3VsN1JONzFPVDg?oc=5"
+      },
+      "publishedAt": "2026-07-07 09:00",
+      "score": 97,
+      "oneLine": "AI 应用更新的核心不是“加了 AI”，而是它替用户完成了哪一步、在什么时机介入、用户如何控制。",
+      "judgment": "产品经理要看的是任务链路是否真的变短，而不是宣传里的一次成功演示。",
+      "capability": "AI 正在进入搜索、写作、设计、会议、浏览器和办公流，把理解、生成、调用工具组合成体验。",
+      "boundary": "如果用户不能理解输入范围、不能修改结果、不能拒绝主动建议，AI 功能很容易变成打扰或不可信。",
+      "pmInsight": "拆解竞品时用四问：用户任务是什么、AI 替哪一步、失败怎么纠正、隐私和成本怎么交代。",
+      "askDev": "这个功能依赖哪些用户数据？结果如何解释？用户能否编辑/撤回？成本是否支持高频使用？"
+    },
+    {
+      "id": "20260714-28-exclusivebeijingis",
       "category": "模型/新能力",
       "badge": "模型迭代",
-      "title": "最“聪明”的AI未必是最优秀的AI交�...",
+      "title": "EXCLUSIVE: Beijing is looking at curbing overseas access to China's top AI models, sources say",
       "source": {
-        "name": "手机网易网",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pZFM3c1NSbE9hLXFndXdoemUtLXEwYV9tUXB4UHYyNXhqYXc0V2dwRDdpM1ZaNnVyWWNDRndDRlpFandKbUlWRm5JcF95RnVVN0NYRVFJc2w4aUNGOEIwTGhB?oc=5"
+        "name": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWk5sbnFqSktyYjJZYUZWOVFQYTc0YldVbnhfWmlOQmFpYkF0RENrUXlwQ1lyZ1F2bzVJalFrRE5yZzhwdUZpQU55bjFiTS1jVlFfWmFxMG01TVpQcmZfOU1fdkw0WEo0bmtra3ZoMmNFWG5vUU9PZ3dXNHFaUDI0RHRWWS05bGdQRUZ3OE81dE00UkZzOUJOOVRHMGtzZENOXzJGd19TNEV2MzJkazFiZlljUmJJZ0Uy?oc=5"
       },
-      "publishedAt": "2026-07-10 20:17",
+      "publishedAt": "2026-07-09 15:00",
       "score": 97,
       "oneLine": "这类动态的重点是模型能力边界是否变化：更会推理、更会用工具、更懂多模态，还是成本/速度发生变化。",
       "judgment": "模型新闻不要只看名字和榜单，要追问它新增了哪类真实任务能力，以及是否已经可用、可稳定复现。",
@@ -588,7 +588,7 @@
       "badge": "模型迭代",
       "title": "40 天不睡、5 人死磕，DeepMind主管爆Gemini大战DeepSeek惨烈内幕，聊普通程序员的转型之路",
       "source": {
-        "name": "36 Kr",
+        "name": "36Kr",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE81YVhEYlowWWJyX3RNdXg1dHFJUXhPdDRDeGM5OXNFZVlPa0d1bEZ0dXZ4MDNJUkFJbng0cnVYVFBLU2xrR3RYOGtpLTRDdw?oc=5"
       },
       "publishedAt": "2026-06-23 15:00",
@@ -606,7 +606,7 @@
       "badge": "开发工具",
       "title": "SpaceX吞下Cursor，马斯克狂补Coding：AI大战新重点定了",
       "source": {
-        "name": "36 Kr",
+        "name": "36Kr",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1qa2pFNWNmRk9tckdoSXFBclpONlIyQkRfWk42blQ3LUQtQkNFQ1JiT0E1NGRJYTJ3cndRXzBNbFU0OVVCdFllR19aRENYdw?oc=5"
       },
       "publishedAt": "2026-06-17 15:00",
