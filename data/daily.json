@@ -2,7 +2,7 @@
   "version": 2,
   "label": "AI Daily Brief",
   "date": "2026 年 7 月 15 日",
-  "updatedAt": "2026-07-15 03:16（北京时间）",
+  "updatedAt": "2026-07-15 10:15（北京时间）",
   "title": "今天值得关注的 AI 情报",
   "summary": "先扫快讯，再看重点判断。内容覆盖海外模型与产品、AI 编程、影像创作、AI 硬件和中文科技媒体信号。",
   "signals": [
@@ -123,7 +123,7 @@
         "name": "OpenAI",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE40Q1E3OTFDdThXbzQ4Z2tvLWswMHI0c1RzYnF6VXJ0UmVrSldQRGdPajNBNE1BQ2c2aXlLUlZ0N3BQOHN2Nm5Bdkhpd21MdmRRdklRTFAwVQ?oc=5"
       },
-      "publishedAt": "2026-07-09 15:00",
+      "publishedAt": "2026-07-08 00:00",
       "score": 112,
       "oneLine": "这类动态的重点是模型能力边界是否变化：更会推理、更会用工具、更懂多模态，还是成本/速度发生变化。",
       "judgment": "模型新闻不要只看名字和榜单，要追问它新增了哪类真实任务能力，以及是否已经可用、可稳定复现。",
@@ -331,7 +331,25 @@
       "askDev": "这个能力是否已有国内可用 API/SDK？可用性、成本、合规和私有化方案如何？"
     },
     {
-      "id": "20260715-19-cursor最新动态最新更新与发布说",
+      "id": "20260715-19-codex72的用户不写代码基模公司",
+      "category": "AI 编程",
+      "badge": "开发工具",
+      "title": "Codex 72%的用户不写代码，基模公司开始押注通用 Agent",
+      "source": {
+        "name": "智源社区",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE01NlotYk9rMGY1M0JLVjRiaTk0T19XVGpsUnpyVG8yekdTNXo4ZmtmLVRtdWhGcTRRZUV1WWQtMVBPN0NMYml0YQ?oc=5"
+      },
+      "publishedAt": "2026-06-05 15:00",
+      "score": 105,
+      "oneLine": "AI 编程工具继续从代码补全走向任务执行：理解目标、改文件、跑验证、解释过程会变成基本能力。",
+      "judgment": "这类更新最值得产品经理关注，因为它能把需求讨论更快变成可演示原型；但也会放大错误执行、权限和验收问题。",
+      "capability": "能力边界正在从“写一段代码”推进到“处理一个小任务”。真正要看的是它是否能稳定读懂上下文、定位文件、修改后自检。",
+      "boundary": "不能把它当成无人值守研发。复杂架构、隐私数据、生产发布、删除操作仍需要明确权限、检查点和人工确认。",
+      "pmInsight": "你可以开始把 PRD 写成可执行任务：目标、输入、验收条件、失败回退，而不是只写页面和功能点。",
+      "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
+    },
+    {
+      "id": "20260715-20-cursor最新动态最新更新与发布说",
       "category": "AI 编程",
       "badge": "开发工具",
       "title": "Cursor 最新动态 — 最新更新与发布说明",
@@ -349,7 +367,7 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20260715-20-googleantigravity2",
+      "id": "20260715-21-googleantigravity2",
       "category": "AI 编程",
       "badge": "开发工具",
       "title": "Google Antigravity 2.0: Agent-First, $100 AI Plan [2026]",
@@ -367,7 +385,7 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20260715-21-胡彦斌你以后vibecoding不用",
+      "id": "20260715-22-胡彦斌你以后vibecoding不用",
       "category": "AI 编程",
       "badge": "开发工具",
       "title": "胡彦斌，你以后Vibe Coding 不用抱电脑了",
@@ -385,7 +403,7 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20260715-22-metareleaseslatest",
+      "id": "20260715-23-metareleaseslatest",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "Meta releases latest update of AI model Muse Spark as tech giant accelerates AI push under Alexandr Wang",
@@ -403,7 +421,7 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20260715-23-metasmusespark11ap",
+      "id": "20260715-24-metasmusespark11ap",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "Meta's Muse Spark 1.1 API pricing squeezes OpenAI and Anthropic as the AI price war heats up",
@@ -421,7 +439,7 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20260715-24-anthropicclaude已承担",
+      "id": "20260715-25-anthropicclaude已承担",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "Anthropic：Claude 已承担 95% 的内部数据分析查询工作",
@@ -439,7 +457,7 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20260715-25-anthropic推出claudes",
+      "id": "20260715-26-anthropic推出claudes",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "Anthropic推出Claude Sonnet 5 低成本落地智能体能力- AI",
@@ -457,7 +475,7 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20260715-26-最聪明的ai未必是最优秀的ai交",
+      "id": "20260715-27-最聪明的ai未必是最优秀的ai交",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "最“聪明”的AI未必是最优秀的AI交�...",
@@ -475,33 +493,15 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20260715-27-openai将codex整合进cha",
+      "id": "20260715-28-codex能远控windows了程序",
       "category": "AI 编程",
       "badge": "开发工具",
-      "title": "OpenAI将Codex整合进ChatGPT，打造面向知识工作者的AI执行平台",
-      "source": {
-        "name": "虎嗅网",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4xWlVyakFsQ1NGMDNqMTlFbGFHcnFibkZDTkg0cGVzQkR6UzEwNTU3UkdnaDQwNlVhSGdUV0R5cHFzMm9kbmVwVTBfbV9GMDM0Q3B2aw?oc=5"
-      },
-      "publishedAt": "2026-06-03 15:00",
-      "score": 96,
-      "oneLine": "AI 编程工具继续从代码补全走向任务执行：理解目标、改文件、跑验证、解释过程会变成基本能力。",
-      "judgment": "这类更新最值得产品经理关注，因为它能把需求讨论更快变成可演示原型；但也会放大错误执行、权限和验收问题。",
-      "capability": "能力边界正在从“写一段代码”推进到“处理一个小任务”。真正要看的是它是否能稳定读懂上下文、定位文件、修改后自检。",
-      "boundary": "不能把它当成无人值守研发。复杂架构、隐私数据、生产发布、删除操作仍需要明确权限、检查点和人工确认。",
-      "pmInsight": "你可以开始把 PRD 写成可执行任务：目标、输入、验收条件、失败回退，而不是只写页面和功能点。",
-      "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
-    },
-    {
-      "id": "20260715-28-实操指南codexcli0132升级",
-      "category": "AI 编程",
-      "badge": "开发工具",
-      "title": "实操指南：Codex CLI 0.132升级+移动端远程控制+Triggers 自动修复流水线配置",
+      "title": "Codex 能远控 Windows 了，程序员真正要补的是任务值班表",
       "source": {
         "name": "51CTO",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFByXzl0ckN4M0w1bXFCbHozdUpuaXhTd2lHWndGUWJwUGhUS0xzX3REc0ZtbVI0WE9ZMXFWby1wN0xYVnVuQTJ2ZWNoRzZQdw?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtNXhGQmNJQktHajVUVzFvLUwxZjFEel9FLVM2YjZZODEwN2g2OTUtREhuMDB2QldkVlh1cWM2M1BWNks2WWdZcjNraC03bWJ1UUZB?oc=5"
       },
-      "publishedAt": "2026-06-12 15:00",
+      "publishedAt": "2026-06-03 15:00",
       "score": 96,
       "oneLine": "AI 编程工具继续从代码补全走向任务执行：理解目标、改文件、跑验证、解释过程会变成基本能力。",
       "judgment": "这类更新最值得产品经理关注，因为它能把需求讨论更快变成可演示原型；但也会放大错误执行、权限和验收问题。",
@@ -601,22 +601,22 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20260715-34-vscodeagentshitsta",
-      "category": "AI 产品",
-      "badge": "应用更新",
-      "title": "VS Code Agents Hit Stable: Air-Gapped BYOK Unlocks Enterprise AI Coding",
+      "id": "20260715-34-developersaretesti",
+      "category": "AI 编程",
+      "badge": "开发工具",
+      "title": "Developers are testing life after GitHub Copilot changes its billing",
       "source": {
-        "name": "Tech Times",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZlhFRUdxdlRWbUNxS3VGX3g2c0JCUm1TZnJqQzVlQmdHcGxyTkpRVWRid3B5YmpyaXhNQm1TQ182R2MzRUFoNzVqeFByRjFveERvbU1yWkVUYW1qMGVjYWJNT3RJcmEyQUcybmxXMWw1Z0tLZEVjekwtWWNmYUZvVFhJcUVIdGh2MW4xOGlOcHNMaGotSzdUZEx0Snh0dm1aSnVHUWhzaUZTRWxpaW5TamlJUjh5aFZuWmFmVnJ4TUljblU?oc=5"
+        "name": "Startup Fortune",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOY3JLS0I5OGdJTTVzVXc4R3ZJeGd6OGkyQ2h5WGc2YUhHbzVrcER6NW13QlJLWmJJSlZuekk4OUIxVDU4bGdIdVo4b0p1ZDlwcFotbDZNZFQtSkc5SWItNHBkbDBuQTZpc1RybkFGMHJ1VjVMOWJzc054T3o3QWJxMXBnMjZiNGR6X2hoRW5hWVpoTGxhRy1mcS10akQ?oc=5"
       },
-      "publishedAt": "2026-06-08 15:00",
+      "publishedAt": "2026-06-02 15:00",
       "score": 93,
-      "oneLine": "AI 应用更新的核心不是“加了 AI”，而是它替用户完成了哪一步、在什么时机介入、用户如何控制。",
-      "judgment": "产品经理要看的是任务链路是否真的变短，而不是宣传里的一次成功演示。",
-      "capability": "AI 正在进入搜索、写作、设计、会议、浏览器和办公流，把理解、生成、调用工具组合成体验。",
-      "boundary": "如果用户不能理解输入范围、不能修改结果、不能拒绝主动建议，AI 功能很容易变成打扰或不可信。",
-      "pmInsight": "拆解竞品时用四问：用户任务是什么、AI 替哪一步、失败怎么纠正、隐私和成本怎么交代。",
-      "askDev": "这个功能依赖哪些用户数据？结果如何解释？用户能否编辑/撤回？成本是否支持高频使用？"
+      "oneLine": "AI 编程工具继续从代码补全走向任务执行：理解目标、改文件、跑验证、解释过程会变成基本能力。",
+      "judgment": "这类更新最值得产品经理关注，因为它能把需求讨论更快变成可演示原型；但也会放大错误执行、权限和验收问题。",
+      "capability": "能力边界正在从“写一段代码”推进到“处理一个小任务”。真正要看的是它是否能稳定读懂上下文、定位文件、修改后自检。",
+      "boundary": "不能把它当成无人值守研发。复杂架构、隐私数据、生产发布、删除操作仍需要明确权限、检查点和人工确认。",
+      "pmInsight": "你可以开始把 PRD 写成可执行任务：目标、输入、验收条件、失败回退，而不是只写页面和功能点。",
+      "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
       "id": "20260715-35-metaunveilsanaiima",
