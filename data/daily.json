@@ -2,7 +2,7 @@
   "version": 2,
   "label": "AI Daily Brief",
   "date": "2026 年 7 月 18 日",
-  "updatedAt": "2026-07-18 15:45（北京时间）",
+  "updatedAt": "2026-07-18 21:10（北京时间）",
   "title": "今天值得关注的 AI 情报",
   "summary": "先扫快讯，再看重点判断。内容覆盖海外模型与产品、AI 编程、影像创作、AI 硬件和中文科技媒体信号。",
   "signals": [
@@ -52,7 +52,7 @@
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8zTVowcXhkamEydTV6VWJpQXBUTWRYbktBWmJuQ2x5Q1hRNXBjYkpxbzI2WHNJSnRnNHhabThlNUJ3OEpTeW81NGxn?oc=5"
       },
       "publishedAt": "2026-07-17 16:59",
-      "score": 107,
+      "score": 101,
       "oneLine": "AI 应用更新的核心不是“加了 AI”，而是它替用户完成了哪一步、在什么时机介入、用户如何控制。",
       "judgment": "产品经理要看的是任务链路是否真的变短，而不是宣传里的一次成功演示。",
       "capability": "AI 正在进入搜索、写作、设计、会议、浏览器和办公流，把理解、生成、调用工具组合成体验。",
@@ -61,16 +61,16 @@
       "askDev": "这个功能依赖哪些用户数据？结果如何解释？用户能否编辑/撤回？成本是否支持高频使用？"
     },
     {
-      "id": "20260718-04-metaentersaiimagem",
+      "id": "20260718-04-bestaiimagegenerat",
       "category": "影像/创作",
       "badge": "图像 / 视频",
-      "title": "Meta enters AI image model race in bid to court advertisers and subscribers",
+      "title": "Best AI Image Generators of 2026: Our Reviews of Nano Banana, ChatGPT and Adobe Firefly",
       "source": {
-        "name": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16aGRQd3BBT3JyLU13c0pvVDVXS2x5WU8xQ3dUVjE3NnVLOXhCWEw5eE94ZnBTZXRVSmVpUUNJbU0zUUVqZFVBOXE2eDRBREZ5MUtGSVBBZHhTZ2dWYnBxZ0hSY1FlUdIBa0FVX3lxTE9ZZWpjSW0xOFFlaDBha0FjLUhXWWktSWU2eUZDbVFsN3lYMTVLdll3UW1WdDFWLTdUYS1qQ0QxWmJDS0wySXJpTExiRFRpeXpCbm9tMnloblEwQXEyOE44VW1lV0lPeVJRVHVj?oc=5"
+        "name": "CNET",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZNWxfdUZFQ1lfVF93UUVIYlVucmJoMWRpQUw4Mm1mazFUM24tRVk0S0pfUkg3SDd0T0ZvYjZ1UlJkWGUyNGk5OGJhM2JLNjZENy04OGpoQXVKT1BZbmdVZ3F5c2hIQ1ZNb3VGTnZMRXlTYUREblRfcEc2LWw1QQ?oc=5"
       },
-      "publishedAt": "2026-07-07 15:00",
-      "score": 88,
+      "publishedAt": "2026-07-17 14:30",
+      "score": 92,
       "oneLine": "影像 AI 的重点正在从单次生成，转向围绕真实素材的整理、改写、包装和多版本创作。",
       "judgment": "对运动相机类产品，机会不是替用户虚构经历，而是帮用户更快找到真实高光、完成表达，并清楚标识 AI 参与部分。",
       "capability": "模型正在增强图像、视频、文字、声音之间的跨模态生成与编辑能力，适合做素材理解、风格化包装和故事板探索。",
@@ -84,7 +84,7 @@
       "badge": "端侧 / 设备",
       "title": "Cameras are getting cheaper, yet photography has become a new business for smart hardware.",
       "source": {
-        "name": "36 Kr",
+        "name": "36Kr",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TcnpnVEZCN2VZVWxlVUhoN3dSVGJxLUZCWFVodFU3bS1zX1h3V01saTFYbmQ2ODFJRFVNdV94MEI3SUZlcVVKdmt4eVJ6LXFOZndZ?oc=5"
       },
       "publishedAt": "2026-07-15 14:44",
@@ -123,7 +123,7 @@
         "name": "OpenAI",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE40Q1E3OTFDdThXbzQ4Z2tvLWswMHI0c1RzYnF6VXJ0UmVrSldQRGdPajNBNE1BQ2c2aXlLUlZ0N3BQOHN2Nm5Bdkhpd21MdmRRdklRTFAwVQ?oc=5"
       },
-      "publishedAt": "2026-07-09 15:00",
+      "publishedAt": "2026-07-08 15:00",
       "score": 112,
       "oneLine": "这类动态的重点是模型能力边界是否变化：更会推理、更会用工具、更懂多模态，还是成本/速度发生变化。",
       "judgment": "模型新闻不要只看名字和榜单，要追问它新增了哪类真实任务能力，以及是否已经可用、可稳定复现。",
@@ -169,13 +169,13 @@
       "askDev": "这个功能依赖哪些用户数据？结果如何解释？用户能否编辑/撤回？成本是否支持高频使用？"
     },
     {
-      "id": "20260718-10-introducingmuseima",
+      "id": "20260718-10-metaentersaiimagem",
       "category": "影像/创作",
       "badge": "图像 / 视频",
-      "title": "Introducing Muse Image: Image Generation Built for Your World",
+      "title": "Meta enters AI image model race in bid to court advertisers and subscribers",
       "source": {
-        "name": "Meta Store",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CNkVjdFdKWjN4T0xWTUdtU0YxZU8yUWFaMWpQV3ZpY093M0g5cmd2NXNzSXRGemNQMmZROC1FODZJVmYzOVRnYk9aSFdkdGZUZWNXREx4bmlMV2pOYWdCYVVzZDlSSEhuRS14R1h4QkhJME3SAXhBVV95cUxOSW9rd1hNVy05WW5zSlU5WVhNVi1YQUxvSnVjMm8wSVN1cmdJMVdDdDJyLVZCS2VsQWc3eEtmanNYbjNxTTBuQ0ZrbGsteXJ5WlQzUEZEUHBDMERiMFYzdGFSRERQc28yOTl4STdGU2NwcDJkY3B5SXI?oc=5"
+        "name": "CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16aGRQd3BBT3JyLU13c0pvVDVXS2x5WU8xQ3dUVjE3NnVLOXhCWEw5eE94ZnBTZXRVSmVpUUNJbU0zUUVqZFVBOXE2eDRBREZ5MUtGSVBBZHhTZ2dWYnBxZ0hSY1FlUdIBa0FVX3lxTE9ZZWpjSW0xOFFlaDBha0FjLUhXWWktSWU2eUZDbVFsN3lYMTVLdll3UW1WdDFWLTdUYS1qQ0QxWmJDS0wySXJpTExiRFRpeXpCbm9tMnloblEwQXEyOE44VW1lV0lPeVJRVHVj?oc=5"
       },
       "publishedAt": "2026-07-07 15:00",
       "score": 88,
@@ -277,13 +277,13 @@
       "askDev": "这个功能依赖哪些用户数据？结果如何解释？用户能否编辑/撤回？成本是否支持高频使用？"
     },
     {
-      "id": "20260718-16-metaunveilsanaiima",
+      "id": "20260718-16-introducingmuseima",
       "category": "影像/创作",
       "badge": "图像 / 视频",
-      "title": "Meta Unveils an A.I. Image Generator",
+      "title": "Introducing Muse Image: Image Generation Built for Your World",
       "source": {
-        "name": "The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GUUcxd0lXNnBmbUtySE1MalRjLVc2d2JMbXA1MkVrdnZGQjNIb2tFUHVqQXBWSHR3ZzF3MnVSbEh5SFZaWEJFY2EzcDdEM0gzY3pqc1ZoUkcyOV9qdmZteXJNODYzekp4LXp5WWdoMmtfa21wS3lBZg?oc=5"
+        "name": "Meta Store",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CNkVjdFdKWjN4T0xWTUdtU0YxZU8yUWFaMWpQV3ZpY093M0g5cmd2NXNzSXRGemNQMmZROC1FODZJVmYzOVRnYk9aSFdkdGZUZWNXREx4bmlMV2pOYWdCYVVzZDlSSEhuRS14R1h4QkhJME3SAXhBVV95cUxOSW9rd1hNVy05WW5zSlU5WVhNVi1YQUxvSnVjMm8wSVN1cmdJMVdDdDJyLVZCS2VsQWc3eEtmanNYbjNxTTBuQ0ZrbGsteXJ5WlQzUEZEUHBDMERiMFYzdGFSRERQc28yOTl4STdGU2NwcDJkY3B5SXI?oc=5"
       },
       "publishedAt": "2026-07-07 15:00",
       "score": 88,
@@ -516,7 +516,7 @@
       "badge": "开发工具",
       "title": "Cursor 被 SpaceX 以 600 亿美元收购，暴露 AI 应用层供应链致命风险",
       "source": {
-        "name": "虎嗅网",
+        "name": "虎嗅",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE16dTNTV1ZwMnAyYnozekYwMkZDb0VLSGlPcElDNmdKMWJTZ1JKSDcyaTNCekZ6V0hoaXJPd3h4UllhRmVnRk44UTJydkJwX19uUDVaMg?oc=5"
       },
       "publishedAt": "2026-06-16 15:00",
@@ -619,15 +619,15 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20260718-35-谷歌正经历一场漫长的失血",
+      "id": "20260718-35-诺奖得主alphafold之父投奔a",
       "category": "模型/新能力",
       "badge": "模型迭代",
-      "title": "谷歌正经历一场漫长的失血",
+      "title": "诺奖得主、AlphaFold之父投奔Anthropic！谷歌48小时连跑俩大将",
       "source": {
-        "name": "Infoq.cn",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBTYmpsZlozVVpqNDRfVmRidV9WV3dlSkYxa19TYVZGdE05Qjg4UU02ZjY1bTFuYm11TXMzRHdGejlMeFI1WlkyVGVyaVdUcWp5b243QVdKWUxub2RiaFE?oc=5"
+        "name": "创业邦",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAzcVI1aHJodF9PY3VxQklTX19xY0RFcFJ5N2kxR3BCUEQyMTVkcFZSWF9LX1pWLUJsTUczY3NFdWtEOVF6QzB3OC1Say1OX2FO?oc=5"
       },
-      "publishedAt": "2026-06-26 15:00",
+      "publishedAt": "2026-06-20 15:12",
       "score": 87,
       "oneLine": "这类动态的重点是模型能力边界是否变化：更会推理、更会用工具、更懂多模态，还是成本/速度发生变化。",
       "judgment": "模型新闻不要只看名字和榜单，要追问它新增了哪类真实任务能力，以及是否已经可用、可稳定复现。",
@@ -637,15 +637,15 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20260718-36-谷歌取消等你说完才翻译支持70语言边",
+      "id": "20260718-36-谷歌正经历一场漫长的失血",
       "category": "模型/新能力",
       "badge": "模型迭代",
-      "title": "谷歌取消「等你说完才翻译」，支持70+语言边听边译",
+      "title": "谷歌正经历一场漫长的失血",
       "source": {
-        "name": "36 Kr",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5X09EdzRXcXBQTlFkV1BJRWY1LWhjSDZRcUxOZ0NFUVVQUEFoTFR6TndkN2pkRWFiWjdtWmZlLVNOUDAxcWRCbE1qcks4eGRycm5v?oc=5"
+        "name": "Infoq.cn",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBTYmpsZlozVVpqNDRfVmRidV9WV3dlSkYxa19TYVZGdE05Qjg4UU02ZjY1bTFuYm11TXMzRHdGejlMeFI1WlkyVGVyaVdUcWp5b243QVdKWUxub2RiaFE?oc=5"
       },
-      "publishedAt": "2026-06-11 15:00",
+      "publishedAt": "2026-06-26 15:00",
       "score": 87,
       "oneLine": "这类动态的重点是模型能力边界是否变化：更会推理、更会用工具、更懂多模态，还是成本/速度发生变化。",
       "judgment": "模型新闻不要只看名字和榜单，要追问它新增了哪类真实任务能力，以及是否已经可用、可稳定复现。",
@@ -702,7 +702,7 @@
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8zTVowcXhkamEydTV6VWJpQXBUTWRYbktBWmJuQ2x5Q1hRNXBjYkpxbzI2WHNJSnRnNHhabThlNUJ3OEpTeW81NGxn?oc=5"
       },
       "publishedAt": "2026-07-17 16:59",
-      "score": 107,
+      "score": 101,
       "oneLine": "AI 应用更新的核心不是“加了 AI”，而是它替用户完成了哪一步、在什么时机介入、用户如何控制。",
       "judgment": "产品经理要看的是任务链路是否真的变短，而不是宣传里的一次成功演示。",
       "capability": "AI 正在进入搜索、写作、设计、会议、浏览器和办公流，把理解、生成、调用工具组合成体验。",
@@ -722,7 +722,7 @@
       "title": "用真实素材验证一次影像 AI 边界",
       "time": "15 分钟",
       "why": "这能帮你区分 AI 适合做素材整理/包装，还是已经越界到虚构事实。",
-      "prompt": "基于这条影像 AI 动态：Meta enters AI image model race in bid to court advertisers and subscribers\n请以运动相机素材为例，设计一个最小体验：输入是什么、AI 输出什么、哪些地方必须标识 AI 参与、用户如何撤回或修改、哪些操作绝不能默认自动执行。"
+      "prompt": "基于这条影像 AI 动态：Best AI Image Generators of 2026: Our Reviews of Nano Banana, ChatGPT and Adobe Firefly\n请以运动相机素材为例，设计一个最小体验：输入是什么、AI 输出什么、哪些地方必须标识 AI 参与、用户如何撤回或修改、哪些操作绝不能默认自动执行。"
     }
   ],
   "sourcePolicy": [
