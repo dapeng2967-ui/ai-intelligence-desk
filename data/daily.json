@@ -2,7 +2,7 @@
   "version": 2,
   "label": "AI Daily Brief",
   "date": "2026 年 7 月 21 日",
-  "updatedAt": "2026-07-21 03:41（北京时间）",
+  "updatedAt": "2026-07-21 10:30（北京时间）",
   "title": "今天值得关注的 AI 情报",
   "summary": "先扫快讯，再看重点判断。内容覆盖海外模型与产品、AI 编程、影像创作、AI 硬件和中文科技媒体信号。",
   "signals": [
@@ -79,16 +79,16 @@
       "askDev": "我们能否保留真实素材与 AI 生成素材的链路？能否让用户关闭、回退或标识 AI 修改？弱网/端侧能做哪部分？"
     },
     {
-      "id": "20260721-05-waic2026xuhuidistr",
+      "id": "20260721-05-whatoakleysaiglass",
       "category": "AI 硬件",
       "badge": "端侧 / 设备",
-      "title": "WAIC 2026 Xuhui District Ultimate Guide: Top Must-Visit Spots That Make You Obsessed Over 10086 Times",
+      "title": "What Oakley’s AI Glasses Reveal About the Next Phase of Wearable Computing",
       "source": {
-        "name": "36 Kr",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fOUdEcmFhYzBTeGE4SkdXS2xHUERzQWViUlRTNmp0U1IxNm1ERU00WXdwSzQ0cF9wU2s1cjlmNDhGME5KelhkUXhyNFRsOEJEeFhn?oc=5"
+        "name": "The AI Journal",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYW5uLTJPQkpBOURzdXJxeldZTDRIaV9jRE9iUlBSY21RQ2FZdGczN3I2TUJIdmUzVDM2djd3eXdtZV9FRzB2X1p6Zko2WWJoeDZqSDJheFRoQ1FPcWQ5STJYMkhxN1JNUVUwV1lTSFNXNUVqcW5PTnA4Q2I0UDA0dzhDNG52UW9qQUVsY3locEUtb1hVaXY1ZFhR?oc=5"
       },
-      "publishedAt": "2026-07-13 11:04",
-      "score": 84,
+      "publishedAt": "2026-07-19 05:15",
+      "score": 88,
       "oneLine": "AI 硬件的价值不在于塞一个聊天入口，而在于设备能理解状态、场景、传感器和可执行动作。",
       "judgment": "这是你软硬结合背景最该长期关注的方向：端侧、云端和设备上下文的分工，会直接决定体验是否可用。",
       "capability": "端侧模型、传感器理解、语音交互和云端复杂推理正在组合成新的设备体验。",
@@ -123,7 +123,7 @@
         "name": "OpenAI",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE40Q1E3OTFDdThXbzQ4Z2tvLWswMHI0c1RzYnF6VXJ0UmVrSldQRGdPajNBNE1BQ2c2aXlLUlZ0N3BQOHN2Nm5Bdkhpd21MdmRRdklRTFAwVQ?oc=5"
       },
-      "publishedAt": "2026-07-09 15:00",
+      "publishedAt": "2026-07-08 15:00",
       "score": 112,
       "oneLine": "这类动态的重点是模型能力边界是否变化：更会推理、更会用工具、更懂多模态，还是成本/速度发生变化。",
       "judgment": "模型新闻不要只看名字和榜单，要追问它新增了哪类真实任务能力，以及是否已经可用、可稳定复现。",
@@ -187,15 +187,15 @@
       "askDev": "我们能否保留真实素材与 AI 生成素材的链路？能否让用户关闭、回退或标识 AI 修改？弱网/端侧能做哪部分？"
     },
     {
-      "id": "20260721-11-dosmartglasseshave",
+      "id": "20260721-11-waic2026xuhuidistr",
       "category": "AI 硬件",
       "badge": "端侧 / 设备",
-      "title": "Do Smart Glasses Have a Surveillance Problem?",
+      "title": "WAIC 2026 Xuhui District Ultimate Guide: Top Must-Visit Spots That Make You Obsessed Over 10086 Times",
       "source": {
-        "name": "Vogue",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IWHBQWFJpcllEVDRlQk1hNV9kZ0VQSk1LMEtIZkNtekswVjZxUE5XNzRIMFk4a2dKXzlxNFNib1p3SWlaN1k0TlhCNWNNM1R1eWltcWNwNk12c2I4V0Z6NFVZSmJoZDhQRS1HTDVtVTdRMVp2Y285YnRCVFJRWkU?oc=5"
+        "name": "36 Kr",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fOUdEcmFhYzBTeGE4SkdXS2xHUERzQWViUlRTNmp0U1IxNm1ERU00WXdwSzQ0cF9wU2s1cjlmNDhGME5KelhkUXhyNFRsOEJEeFhn?oc=5"
       },
-      "publishedAt": "2026-07-07 15:00",
+      "publishedAt": "2026-07-13 11:04",
       "score": 84,
       "oneLine": "AI 硬件的价值不在于塞一个聊天入口，而在于设备能理解状态、场景、传感器和可执行动作。",
       "judgment": "这是你软硬结合背景最该长期关注的方向：端侧、云端和设备上下文的分工，会直接决定体验是否可用。",
@@ -208,12 +208,12 @@
       "id": "20260721-12-小云雀vs万镜一刻聊聊字节与阿里的内",
       "category": "中文观察",
       "badge": "中文媒体",
-      "title": "小云雀vs万镜一刻聊聊字节与阿里的内容Agent一番战- 业界",
+      "title": "小云雀vs万镜一刻，聊聊字节与阿里的内容Agent一番战",
       "source": {
-        "name": "亿邦动力网",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMUjlJeVdqSWwyeHdGdzJfZV9CQXdoUTdyM18tYkg4aTk2S01aa0NxOVhheUJqV3NrQmh3SWEtb2JuNnJDYW9BOHJvMWV1cTFnLUctcVF3?oc=5"
+        "name": "36 Kr",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBDUGxMekFoXzh3VngwOWFzX2RwUVBYRmdidmljTEh4UV9kS2dKR1lmcHJYM3JGbkYwdURWWE1EZkIxSDh4dUF5ZktBdllNdw?oc=5"
       },
-      "publishedAt": "2026-06-15 15:00",
+      "publishedAt": "2026-06-12 15:00",
       "score": 77,
       "oneLine": "中文媒体能补足国内模型、应用和产业落地信息，适合用来观察本土生态节奏。",
       "judgment": "中文报道的价值在于案例密度和本土产品动态，但需要区分事实、转述和营销包装。",
@@ -295,16 +295,16 @@
       "askDev": "我们能否保留真实素材与 AI 生成素材的链路？能否让用户关闭、回退或标识 AI 修改？弱网/端侧能做哪部分？"
     },
     {
-      "id": "20260721-17-qualcommceosaysaia",
+      "id": "20260721-17-dosmartglasseshave",
       "category": "AI 硬件",
       "badge": "端侧 / 设备",
-      "title": "Qualcomm CEO says AI agents will replace apps — as chip giant works on 40 new AI-powered devices",
+      "title": "Do Smart Glasses Have a Surveillance Problem?",
       "source": {
-        "name": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LamVsYm05bGU1c1pmZWFUTzh0elVFNURzeWRtQWZHdWlfVkoyVUt6ZV9kem5uenFfUW5sOUxVWjMxdkxkdlQ1bkhnU1dzMVVtSkpkaWdrS0poX0dpeXQzUkhBMU9VUnlTRi1KYjdhUmpYRU5ETmfSAXtBVV95cUxNOU4wNXM1aElZeFB1RHhMeVgtd0JvanpvUEE5WkxDYVdUbkJmbXNMWkhWVXRJQ1ZDc1BVR1lpMnJWRUxxU01hdjJRS2RXWDJnN2pFamo2c3BVaHpXVF92Sk1UeEdORHNiMnpnVDJmSTBlc3NDeWZtcUxKMTg?oc=5"
+        "name": "Vogue",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IWHBQWFJpcllEVDRlQk1hNV9kZ0VQSk1LMEtIZkNtekswVjZxUE5XNzRIMFk4a2dKXzlxNFNib1p3SWlaN1k0TlhCNWNNM1R1eWltcWNwNk12c2I4V0Z6NFVZSmJoZDhQRS1HTDVtVTdRMVp2Y285YnRCVFJRWkU?oc=5"
       },
-      "publishedAt": "2026-06-16 15:00",
-      "score": 83,
+      "publishedAt": "2026-07-07 15:00",
+      "score": 84,
       "oneLine": "AI 硬件的价值不在于塞一个聊天入口，而在于设备能理解状态、场景、传感器和可执行动作。",
       "judgment": "这是你软硬结合背景最该长期关注的方向：端侧、云端和设备上下文的分工，会直接决定体验是否可用。",
       "capability": "端侧模型、传感器理解、语音交互和云端复杂推理正在组合成新的设备体验。",
@@ -316,12 +316,12 @@
       "id": "20260721-18-小云雀vs万镜一刻聊聊字节与阿里的内",
       "category": "中文观察",
       "badge": "中文媒体",
-      "title": "小云雀vs万镜一刻，聊聊字节与阿里的内容Agent一番战",
+      "title": "小云雀vs万镜一刻聊聊字节与阿里的内容Agent一番战- 业界",
       "source": {
-        "name": "36 Kr",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBDUGxMekFoXzh3VngwOWFzX2RwUVBYRmdidmljTEh4UV9kS2dKR1lmcHJYM3JGbkYwdURWWE1EZkIxSDh4dUF5ZktBdllNdw?oc=5"
+        "name": "亿邦动力网",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMUjlJeVdqSWwyeHdGdzJfZV9CQXdoUTdyM18tYkg4aTk2S01aa0NxOVhheUJqV3NrQmh3SWEtb2JuNnJDYW9BOHJvMWV1cTFnLUctcVF3?oc=5"
       },
-      "publishedAt": "2026-06-12 15:00",
+      "publishedAt": "2026-06-15 15:00",
       "score": 77,
       "oneLine": "中文媒体能补足国内模型、应用和产业落地信息，适合用来观察本土生态节奏。",
       "judgment": "中文报道的价值在于案例密度和本土产品动态，但需要区分事实、转述和营销包装。",
@@ -349,15 +349,15 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20260721-20-announcingopenaigp",
+      "id": "20260721-20-metareleaseslatest",
       "category": "模型/新能力",
       "badge": "模型迭代",
-      "title": "Announcing OpenAI GPT 5.6 on Snowflake Cortex AI",
+      "title": "Meta releases latest update of AI model Muse Spark as tech giant accelerates AI push under Alexandr Wang",
       "source": {
-        "name": "Snowflake",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5YMF9kam01ODg3TzdNWWxWenJwbTMwODZnemVmMFMxcm1RSEhicENRQjlHMDA3Q1JaeEd4dWZraVlwcG1Pajl4VFY1cWpGYWVkVDlJNndCX0dDdThMcFc4a2h2bmd5OHNIOWxhOWR5WjM3b2dnQ2lKRA?oc=5"
+        "name": "Fortune",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbjRuMjVVRlFnX2I2Z24tUmlTb19BQ01HeUI0OHpBc1dFaThsX2E1THdmakl0TDAwbWZXcHVKbUZ6Y29WdGc1WGRLYmxod2hWNHhPYXFMV3RTaVFmR1ZtSUlJSWlITzhsTWtOZmtSMnRQQkxLeUJpdU9SOE5pazc0N05WdHJEMHFfY1BhbktHTG1ZTmNFZGxfMDJacllBR3QwRkJYSE5BQUo2eXRZMk02LVN3?oc=5"
       },
-      "publishedAt": "2026-07-10 03:35",
+      "publishedAt": "2026-07-09 15:00",
       "score": 97,
       "oneLine": "这类动态的重点是模型能力边界是否变化：更会推理、更会用工具、更懂多模态，还是成本/速度发生变化。",
       "judgment": "模型新闻不要只看名字和榜单，要追问它新增了哪类真实任务能力，以及是否已经可用、可稳定复现。",
@@ -367,15 +367,15 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20260721-21-metareleaseslatest",
+      "id": "20260721-21-miramuratidropsher",
       "category": "模型/新能力",
       "badge": "模型迭代",
-      "title": "Meta releases latest update of AI model Muse Spark as tech giant accelerates AI push under Alexandr Wang",
+      "title": "Mira Murati Drops Her First AI Model After Leaving OpenAI—And It's Fully Open Source",
       "source": {
-        "name": "Fortune",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbjRuMjVVRlFnX2I2Z24tUmlTb19BQ01HeUI0OHpBc1dFaThsX2E1THdmakl0TDAwbWZXcHVKbUZ6Y29WdGc1WGRLYmxod2hWNHhPYXFMV3RTaVFmR1ZtSUlJSWlITzhsTWtOZmtSMnRQQkxLeUJpdU9SOE5pazc0N05WdHJEMHFfY1BhbktHTG1ZTmNFZGxfMDJacllBR3QwRkJYSE5BQUo2eXRZMk02LVN3?oc=5"
+        "name": "Decrypt",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11WEFRVVhHN1JoQkV1Vk9UbGVfQWNIa21DQWo5XzJlSUo3OGpfR2c3d085am0xVmY1ZF9COVFvcWxJeE1rRDhlTTdCZ2x2NGJjOUJLaHJjcWVGUG9GR2FHYnVJRkJvSUJoSGktOTFveWJmZThBVDJhdkpLbVROQdIBhgFBVV95cUxQNEY4OXp4MG5VUTY2RGRBRkNNVDA4RXRGSVVCS2UzMXJkNEcyUW1vSFZZSjh2RUpoN0JzUDhMUlI2NE5FR1MyZFVBQ0FPcjVDZlBVZjV4WjUxWVFDM2s2cVlJd2xrWTF0UHpCWXhzTVJIdkNHcWpHdGxzRXdXQ1loNldxZVNGZw?oc=5"
       },
-      "publishedAt": "2026-07-09 15:00",
+      "publishedAt": "2026-07-17 02:27",
       "score": 97,
       "oneLine": "这类动态的重点是模型能力边界是否变化：更会推理、更会用工具、更懂多模态，还是成本/速度发生变化。",
       "judgment": "模型新闻不要只看名字和榜单，要追问它新增了哪类真实任务能力，以及是否已经可用、可稳定复现。",
