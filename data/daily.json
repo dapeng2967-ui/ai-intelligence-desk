@@ -2,7 +2,7 @@
   "version": 2,
   "label": "AI Daily Brief",
   "date": "2026 年 7 月 27 日",
-  "updatedAt": "2026-07-27 03:07（北京时间）",
+  "updatedAt": "2026-07-27 10:44（北京时间）",
   "title": "今天值得关注的 AI 情报",
   "summary": "先扫快讯，再看重点判断。内容覆盖海外模型与产品、AI 编程、影像创作、AI 硬件和中文科技媒体信号。",
   "signals": [
@@ -79,16 +79,16 @@
       "askDev": "我们能否保留真实素材与 AI 生成素材的链路？能否让用户关闭、回退或标识 AI 修改？弱网/端侧能做哪部分？"
     },
     {
-      "id": "20260727-05-aidevicesthatseeli",
+      "id": "20260727-05-camerasaregettingc",
       "category": "AI 硬件",
       "badge": "端侧 / 设备",
-      "title": "AI devices that see, listen and record: Are we ready for the post-smartphone world?",
+      "title": "Cameras are getting cheaper, yet photography has become a new business for smart hardware.",
       "source": {
-        "name": "CNN",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeE5xbVNSUVJ6R3U2VjlLUUZMd0xmUTBuX3JvRGxraElYWExoNkE5SEg0cGYyLTB3ZlE5c1hBRVQ1QTlxTnFTYi1RaUpBeHhPM2dWTkZlSnZCdVY5MTAxVEhMRTNNTk5vS0lDaVpEbWpxRWtmcDlDQ25xZkdoUWNRclY2ZXlDcDZnY1E?oc=5"
+        "name": "36 Kr",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TcnpnVEZCN2VZVWxlVUhoN3dSVGJxLUZCWFVodFU3bS1zX1h3V01saTFYbmQ2ODFJRFVNdV94MEI3SUZlcVVKdmt4eVJ6LXFOZndZ?oc=5"
       },
-      "publishedAt": "2026-07-27 00:00",
-      "score": 94,
+      "publishedAt": "2026-07-15 14:44",
+      "score": 98,
       "oneLine": "AI 硬件的价值不在于塞一个聊天入口，而在于设备能理解状态、场景、传感器和可执行动作。",
       "judgment": "这是你软硬结合背景最该长期关注的方向：端侧、云端和设备上下文的分工，会直接决定体验是否可用。",
       "capability": "端侧模型、传感器理解、语音交互和云端复杂推理正在组合成新的设备体验。",
@@ -187,16 +187,16 @@
       "askDev": "我们能否保留真实素材与 AI 生成素材的链路？能否让用户关闭、回退或标识 AI 修改？弱网/端侧能做哪部分？"
     },
     {
-      "id": "20260727-11-iletairecordmyever",
+      "id": "20260727-11-aidevicesthatseeli",
       "category": "AI 硬件",
       "badge": "端侧 / 设备",
-      "title": "I Let AI Record My Every Waking Moment And Now I’ll Never Lose Another Friendly Argument Again",
+      "title": "AI devices that see, listen and record: Are we ready for the post-smartphone world?",
       "source": {
-        "name": "Forbes",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaUVIUnFpOWlwQlFia0J5QzJyYTd3aTczV1daZkhfLUR0SFBmT29jZlByR0FIWmNYRU5QVHdPX21pT2YtSGZIUmp1YUxBdUY4bzVwcnU2WW0xS3pCb1lzbnJTMlFhYjR2am1jVVVNSGdqNUN2RVRQeHEwRlgzeDBFZjdjZzJCQQ?oc=5"
+        "name": "CNN",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeE5xbVNSUVJ6R3U2VjlLUUZMd0xmUTBuX3JvRGxraElYWExoNkE5SEg0cGYyLTB3ZlE5c1hBRVQ1QTlxTnFTYi1RaUpBeHhPM2dWTkZlSnZCdVY5MTAxVEhMRTNNTk5vS0lDaVpEbWpxRWtmcDlDQ25xZkdoUWNRclY2ZXlDcDZnY1E?oc=5"
       },
-      "publishedAt": "2026-07-24 21:37",
-      "score": 88,
+      "publishedAt": "2026-07-27 00:00",
+      "score": 94,
       "oneLine": "AI 硬件的价值不在于塞一个聊天入口，而在于设备能理解状态、场景、传感器和可执行动作。",
       "judgment": "这是你软硬结合背景最该长期关注的方向：端侧、云端和设备上下文的分工，会直接决定体验是否可用。",
       "capability": "端侧模型、传感器理解、语音交互和云端复杂推理正在组合成新的设备体验。",
@@ -295,15 +295,15 @@
       "askDev": "我们能否保留真实素材与 AI 生成素材的链路？能否让用户关闭、回退或标识 AI 修改？弱网/端侧能做哪部分？"
     },
     {
-      "id": "20260727-17-wetourroboticsoutl",
+      "id": "20260727-17-iletairecordmyever",
       "category": "AI 硬件",
       "badge": "端侧 / 设备",
-      "title": "Wetour Robotics Outlines Orchestra Platform for Wearable Robotics Powered by NVIDIA Jetson",
+      "title": "I Let AI Record My Every Waking Moment And Now I’ll Never Lose Another Friendly Argument Again",
       "source": {
-        "name": "Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYjhtYjgzLUtTLTJfRUNRLVpNUWRETmFIbl9PYkVZaENHRW1IRlJQcmJiX1hRQTk1MFNiNlFiN2lpd2V6RW1PMEJSOUtfeGFwVWViN3Q2NlVmazZiRU9URXBWYWpaZFZjSFFDODdPZjhLLU1waFpveERBOS11M2xGY3JMSTZ2SlBoQnhZbFVYclllRVdKd3o4ekV1M2ZSWjRhVkttWDJFTGtFTE0?oc=5"
+        "name": "Forbes",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaUVIUnFpOWlwQlFia0J5QzJyYTd3aTczV1daZkhfLUR0SFBmT29jZlByR0FIWmNYRU5QVHdPX21pT2YtSGZIUmp1YUxBdUY4bzVwcnU2WW0xS3pCb1lzbnJTMlFhYjR2am1jVVVNSGdqNUN2RVRQeHEwRlgzeDBFZjdjZzJCQQ?oc=5"
       },
-      "publishedAt": "2026-07-24 17:00",
+      "publishedAt": "2026-07-24 21:37",
       "score": 88,
       "oneLine": "AI 硬件的价值不在于塞一个聊天入口，而在于设备能理解状态、场景、传感器和可执行动作。",
       "judgment": "这是你软硬结合背景最该长期关注的方向：端侧、云端和设备上下文的分工，会直接决定体验是否可用。",
@@ -367,25 +367,7 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20260727-21-阿森纳招聘研究工程师负责构建ai模型",
-      "category": "模型/新能力",
-      "badge": "模型迭代",
-      "title": "阿森纳招聘研究工程师，负责构建AI模型推进一线队工作",
-      "source": {
-        "name": "懂球帝",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5rcGYxX0xyX2k4eXV4ZXY0QTZKT1A0eGVKamVGQzZEZVFpODJKQWw1ZVBNSTIwck53SnNWZE9TNWNyWkVWQUM5bTJhR1hySTVnRkFmbnd2Yw?oc=5"
-      },
-      "publishedAt": "2026-07-24 09:55",
-      "score": 101,
-      "oneLine": "这类动态的重点是模型能力边界是否变化：更会推理、更会用工具、更懂多模态，还是成本/速度发生变化。",
-      "judgment": "模型新闻不要只看名字和榜单，要追问它新增了哪类真实任务能力，以及是否已经可用、可稳定复现。",
-      "capability": "模型能力通常体现在上下文长度、推理、工具调用、多模态输入输出、代码能力、成本和延迟这些维度。",
-      "boundary": "发布演示和真实产品可用性不是一回事；还要验证地区、价格、限流、幻觉率、失败恢复和数据安全。",
-      "pmInsight": "你可以把模型更新翻译成需求假设：哪些原来做不了的任务现在可能可做？哪些体验可以从人工流程变成 AI 协助？",
-      "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
-    },
-    {
-      "id": "20260727-22-everythingyouneedt",
+      "id": "20260727-21-everythingyouneedt",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "Everything You Need to Know About Kimi K3, the Latest Model From China to Shake Up AI",
@@ -403,7 +385,7 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20260727-23-谷歌gemini4开跑了一夜三连发",
+      "id": "20260727-22-谷歌gemini4开跑了一夜三连发",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "谷歌Gemini 4开跑了！一夜三连发",
@@ -421,12 +403,30 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
+      "id": "20260727-23-阿森纳招聘研究工程师负责构建ai模型",
+      "category": "模型/新能力",
+      "badge": "模型迭代",
+      "title": "阿森纳招聘研究工程师，负责构建AI模型推进一线队工作",
+      "source": {
+        "name": "懂球帝",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5rcGYxX0xyX2k4eXV4ZXY0QTZKT1A0eGVKamVGQzZEZVFpODJKQWw1ZVBNSTIwck53SnNWZE9TNWNyWkVWQUM5bTJhR1hySTVnRkFmbnd2Yw?oc=5"
+      },
+      "publishedAt": "2026-07-24 09:55",
+      "score": 97,
+      "oneLine": "这类动态的重点是模型能力边界是否变化：更会推理、更会用工具、更懂多模态，还是成本/速度发生变化。",
+      "judgment": "模型新闻不要只看名字和榜单，要追问它新增了哪类真实任务能力，以及是否已经可用、可稳定复现。",
+      "capability": "模型能力通常体现在上下文长度、推理、工具调用、多模态输入输出、代码能力、成本和延迟这些维度。",
+      "boundary": "发布演示和真实产品可用性不是一回事；还要验证地区、价格、限流、幻觉率、失败恢复和数据安全。",
+      "pmInsight": "你可以把模型更新翻译成需求假设：哪些原来做不了的任务现在可能可做？哪些体验可以从人工流程变成 AI 协助？",
+      "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
+    },
+    {
       "id": "20260727-24-anthropic刚说免费送agen",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "Anthropic刚说免费送Agent额度，结果2小时后就反悔了",
       "source": {
-        "name": "腾讯新闻",
+        "name": "QQ News",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDZGNJZml1eGpSQXpYNWpNaXFyY2M3Z2tqS1hTVEVGSmhvbVp2ZnVYeldzc2I0R0F0YWI2d041NGFLNWlTNHFiX3V1WlJpWEU4MEdmbGJR?oc=5"
       },
       "publishedAt": "2026-06-16 15:00",
