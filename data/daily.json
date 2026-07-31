@@ -1,13 +1,13 @@
 {
   "version": 2,
   "label": "AI Daily Brief",
-  "date": "2026 年 7 月 31 日",
-  "updatedAt": "2026-07-31 22:01（北京时间）",
+  "date": "2026 年 8 月 1 日",
+  "updatedAt": "2026-08-01 03:21（北京时间）",
   "title": "今天值得关注的 AI 情报",
   "summary": "先扫快讯，再看重点判断。内容覆盖海外模型与产品、AI 编程、影像创作、AI 硬件和中文科技媒体信号。",
   "signals": [
     {
-      "id": "20260731-01-claudeagent突然大更新狂塞",
+      "id": "20260801-01-claudeagent突然大更新狂塞",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "Claude Agent突然大更新！狂塞500个技能，网友直呼疯狂",
@@ -25,7 +25,7 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20260731-02-openai发布开源版codexse",
+      "id": "20260801-02-openai发布开源版codexse",
       "category": "AI 编程",
       "badge": "开发工具",
       "title": "OpenAI 发布开源版 Codex Security CLI - OSCHINA - 开源 × AI · 开发者生态社区",
@@ -43,7 +43,7 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20260731-03-美团旗下ai浏览器tabbit上架鸿",
+      "id": "20260801-03-美团旗下ai浏览器tabbit上架鸿",
       "category": "AI 产品",
       "badge": "应用更新",
       "title": "美团旗下AI浏览器Tabbit上架鸿蒙端，华为账号一键登录+服务卡片让浏览体验更便捷",
@@ -61,15 +61,15 @@
       "askDev": "这个功能依赖哪些用户数据？结果如何解释？用户能否编辑/撤回？成本是否支持高频使用？"
     },
     {
-      "id": "20260731-04-bytedanceofficiall",
+      "id": "20260801-04-bytedanceunveilsse",
       "category": "影像/创作",
       "badge": "图像 / 视频",
-      "title": "ByteDance Officially Launches Seedance 2.5: Single-Generation 30-Second Videos, Multi-Modal Editing Capabilities See Major Breakthroughs",
+      "title": "ByteDance unveils Seedance 2.5 to take on OpenAI, Google and Kling in AI video race",
       "source": {
-        "name": "finance.biggo.com",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5uV1dFWGNQT1VpWE9wZTU2R0JMVDAtbEQyM2xxTU1xeDRFbmJlZGlQcmhGdmJOdXFPVGtvdk54b29RRXZwTldwbDRwS1VURTZfaWFSbjMtVklyR1RzTmZyUXVNdzg3ZXVydmwzVWVJekRKS0tCUWc?oc=5"
+        "name": "WION",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNk81MFhJN3BuaWdGQ3AxcEFqQ1RQZDgzX1dLdjdBN003QzV5V3hvc2VUU2J1c0RQaGFkdDRJaXJxX1MzZmtHalJYcVFhR2M3MnNHdk1JRFQxbDZWWHo3VEZvX2JDVGJ6eXN3RWlmS0I1aTl6R1RreExaU0xxX2FOVUhtTURvUVZOZEg0Z2U4bnBMRU8wSVhtSHFCUTZEMDVRbDMtcHdRM1ZONVJDcm5aWWROOEx2a0E2S1N0WUFVM0gzYVN4dzZUWFBBNNIB0AFBVV95cUxOc1FBbFhuYU9tbFMwOE1yVllGYm81aVVETEExaXhka3poWm9BQXZaMUZycDJRZXZNM3RFTDRGLTM1Y1NBSjlBTXBJYlRnQlI1Q1EwUWhPTU93WkUwR3N4YlZ4YkpfTlhyX2xmSWs1ZVMtcWgyZFo0TDlneUlSeVFhR3lkNjgyS05vUl9KQzBMOEhvRklEdVRHY1JpcExoTUZxN3o0OWFqWmJVcFNTdXVyejBYRGpfUlU1ZFRacXJsampuOGJUN0ViQXlLeklFRHFt?oc=5"
       },
-      "publishedAt": "2026-07-31 15:05",
+      "publishedAt": "2026-08-01 01:34",
       "score": 106,
       "oneLine": "影像 AI 的重点正在从单次生成，转向围绕真实素材的整理、改写、包装和多版本创作。",
       "judgment": "对运动相机类产品，机会不是替用户虚构经历，而是帮用户更快找到真实高光、完成表达，并清楚标识 AI 参与部分。",
@@ -79,15 +79,15 @@
       "askDev": "我们能否保留真实素材与 AI 生成素材的链路？能否让用户关闭、回退或标识 AI 修改？弱网/端侧能做哪部分？"
     },
     {
-      "id": "20260731-05-机器人通用大脑来了谷歌连发三款模型",
+      "id": "20260801-05-谷歌deepmind新一代机器人ai",
       "category": "AI 硬件",
       "badge": "端侧 / 设备",
-      "title": "机器人通用大脑来了，谷歌连发三款模型",
+      "title": "谷歌DeepMind新一代机器人AI模型Gemini Robotics 2",
       "source": {
-        "name": "智东西",
-        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5lQ2k0RlhLUnV1YmZyemxVZ19Yd0sxcy1RQy1QU0M3Mm1GUjNtWmtQeENUQkJheGwzcmdzcURoY2d1N1RIRGc?oc=5"
+        "name": "观点网",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1lc3B4NF9WTWhWcjZpdTdULXd5Rm1qQWh2UWt5RlNneEpJTzduZUhaRUFxNFFTZktOSENRZDAwUVIwTjdPOEJCVzVUQWJLN04tVEFsS3BSa3k2ZnF1Y2x1eDl3?oc=5"
       },
-      "publishedAt": "2026-07-31 14:00",
+      "publishedAt": "2026-07-31 22:56",
       "score": 107,
       "oneLine": "AI 硬件的价值不在于塞一个聊天入口，而在于设备能理解状态、场景、传感器和可执行动作。",
       "judgment": "这是你软硬结合背景最该长期关注的方向：端侧、云端和设备上下文的分工，会直接决定体验是否可用。",
@@ -97,7 +97,7 @@
       "askDev": "哪些信息必须端侧处理？哪些可以上云？延迟预算是多少？误识别会造成什么后果？离线时如何降级？"
     },
     {
-      "id": "20260731-06-微信ai全网最细体验我又爱上了刷朋友",
+      "id": "20260801-06-微信ai全网最细体验我又爱上了刷朋友",
       "category": "中文观察",
       "badge": "中文媒体",
       "title": "微信AI全网最细体验，我又爱上了刷朋友圈",
@@ -115,7 +115,7 @@
       "askDev": "这个能力是否已有国内可用 API/SDK？可用性、成本、合规和私有化方案如何？"
     },
     {
-      "id": "20260731-07-gpt56frontierintel",
+      "id": "20260801-07-gpt56frontierintel",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
@@ -133,7 +133,7 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20260731-08-claudecode工程一号位亲自给",
+      "id": "20260801-08-claudecode工程一号位亲自给",
       "category": "AI 编程",
       "badge": "开发工具",
       "title": "Claude Code 工程一号位亲自给 Agent 热潮降温：狂烧 Token 时代已过，现在该算 ROI 了",
@@ -151,16 +151,16 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20260731-09-michaelsunveilsask",
+      "id": "20260801-09-中国加强ai服务整治约14万项应用被",
       "category": "AI 产品",
       "badge": "应用更新",
-      "title": "Michaels® Unveils 'Ask Mike' AI Assistant, Built With Google Cloud's Gemini Enterprise for Customer Experience",
+      "title": "中国加强AI服务整治 约1.4万项应用被清退",
       "source": {
-        "name": "The Michaels Companies, Inc.",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcjdGMGRUcUk5TGpqTzFxVEFjRG10YXdSeGlTTkQxZllpUGtDak5ucDFidFdCZl9MVS15VmwzNHlTa3VXS0RQbFF6V2tkZkFfS1pjX04wbWpIeEVUX21NTjNMN1ZGem5GYUdoR3haNFd1MnNFbTZUUEkxOUxxeFNPVEZ1VUNhaklWanhQUzJSRjl4ekxoME1VS2hYT2t3YVVZWVE?oc=5"
+        "name": "디지털투데이",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUnNCVjRJdEZtYUJYdHJ4d2V4WUdwMjk3aHRtSnlMcDczM3VsNmVpRW56VUlOLVBZcnE4dVM3VzRLY0J5eUdfWVZzVDRqQzYydHcxNkJOR2szU05NLUlNVmZjczQwNmFMSUw0aTNxU3E5RkRaYWhLSlJiRUd6NjdVSF9fQ0hrYmtZRTZEaEJTOHR6ZlVCMU9lOUdMZWNoenQ0S05LTmFBQ0g1THo2WS1IY3dZOUNmb3VsN1JONzFPVDg?oc=5"
       },
-      "publishedAt": "2026-07-21 21:06",
-      "score": 86,
+      "publishedAt": "2026-07-07 15:00",
+      "score": 87,
       "oneLine": "AI 应用更新的核心不是“加了 AI”，而是它替用户完成了哪一步、在什么时机介入、用户如何控制。",
       "judgment": "产品经理要看的是任务链路是否真的变短，而不是宣传里的一次成功演示。",
       "capability": "AI 正在进入搜索、写作、设计、会议、浏览器和办公流，把理解、生成、调用工具组合成体验。",
@@ -169,97 +169,7 @@
       "askDev": "这个功能依赖哪些用户数据？结果如何解释？用户能否编辑/撤回？成本是否支持高频使用？"
     },
     {
-      "id": "20260731-10-bytedancereleasess",
-      "category": "影像/创作",
-      "badge": "图像 / 视频",
-      "title": "ByteDance releases Seedance 2.5 with multi-input AI video",
-      "source": {
-        "name": "Tech in Asia",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3hOM3pLU3RfVHFrM2J2a2s0SzZUVHhOMVNuVkt2LVFEMXlQNVJ4aXFFRG14VnRyVjZjVnhabFBEWWZCNXU0MW9xTkJqeVJvanZPam5VdFQtT1FqSVFhemdEcWlpaFlUTFctbkFhMVdVQkZsSGZmRDFJa0p6TGRvbFZGYw?oc=5"
-      },
-      "publishedAt": "2026-07-31 15:52",
-      "score": 106,
-      "oneLine": "影像 AI 的重点正在从单次生成，转向围绕真实素材的整理、改写、包装和多版本创作。",
-      "judgment": "对运动相机类产品，机会不是替用户虚构经历，而是帮用户更快找到真实高光、完成表达，并清楚标识 AI 参与部分。",
-      "capability": "模型正在增强图像、视频、文字、声音之间的跨模态生成与编辑能力，适合做素材理解、风格化包装和故事板探索。",
-      "boundary": "动作真实性、人物一致性、版权、商用授权和 AI 生成标识仍是高风险点。生成得好看不代表事实可信。",
-      "pmInsight": "可以优先考虑“AI 剪辑助理 / 高光筛选 / 标题字幕 / 风格预览”，而不是一上来做完全自动生成大片。",
-      "askDev": "我们能否保留真实素材与 AI 生成素材的链路？能否让用户关闭、回退或标识 AI 修改？弱网/端侧能做哪部分？"
-    },
-    {
-      "id": "20260731-11-whattoknowaboutaih",
-      "category": "AI 硬件",
-      "badge": "端侧 / 设备",
-      "title": "What to Know About AI Hardware Accelerators: NPUs, TPUs, and Beyond",
-      "source": {
-        "name": "HP",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUDdkMm5odzQ5aFhkUzdCWXdnOXluaUl4N1JSLXQ0eG9ScXA5MElRaGVOQjFzR292Tk5XUzNENUZxVUpWakQwckJsU3hHbXRqdGo0YWVEbzRjckxSQW1iWVRoT0VncGpwWTNDNmdFZDdIbEx2eUxCVWxPdGlDb0E3bEpJdk9lTXNkcFlYNTNKSzZLUE5jMWZzeVV4cDY?oc=5"
-      },
-      "publishedAt": "2026-07-24 03:51",
-      "score": 91,
-      "oneLine": "AI 硬件的价值不在于塞一个聊天入口，而在于设备能理解状态、场景、传感器和可执行动作。",
-      "judgment": "这是你软硬结合背景最该长期关注的方向：端侧、云端和设备上下文的分工，会直接决定体验是否可用。",
-      "capability": "端侧模型、传感器理解、语音交互和云端复杂推理正在组合成新的设备体验。",
-      "boundary": "功耗、散热、时延、离线、隐私、误触发和安全确认会限制真实落地，演示效果不能代表量产体验。",
-      "pmInsight": "做硬件 AI 需求时，先定义场景触发、设备状态、用户确认和失败回退，再讨论模型能力。",
-      "askDev": "哪些信息必须端侧处理？哪些可以上云？延迟预算是多少？误识别会造成什么后果？离线时如何降级？"
-    },
-    {
-      "id": "20260731-12-ai大模型外汇交易实验千问最赚钱de",
-      "category": "模型/新能力",
-      "badge": "模型迭代",
-      "title": "AI大模型外汇交易实验：千问最赚钱，DeepSeek亏最多",
-      "source": {
-        "name": "手机网易网",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9tYUREcVdIUTBhMTd3NTA4YzAyOGJmancyU1lsMVF1ek1HdGZXOTNJaHlyYzZrcDBKNWp1bnBQb0pqb3AzeDJSRDZudmZKVGE1T19CQVlaeDhEZnN5dXQ5c0lB?oc=5"
-      },
-      "publishedAt": "2026-07-21 15:00",
-      "score": 105,
-      "oneLine": "这类动态的重点是模型能力边界是否变化：更会推理、更会用工具、更懂多模态，还是成本/速度发生变化。",
-      "judgment": "模型新闻不要只看名字和榜单，要追问它新增了哪类真实任务能力，以及是否已经可用、可稳定复现。",
-      "capability": "模型能力通常体现在上下文长度、推理、工具调用、多模态输入输出、代码能力、成本和延迟这些维度。",
-      "boundary": "发布演示和真实产品可用性不是一回事；还要验证地区、价格、限流、幻觉率、失败恢复和数据安全。",
-      "pmInsight": "你可以把模型更新翻译成需求假设：哪些原来做不了的任务现在可能可做？哪些体验可以从人工流程变成 AI 协助？",
-      "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
-    },
-    {
-      "id": "20260731-13-300行代码写个cursor这是ai",
-      "category": "AI 编程",
-      "badge": "开发工具",
-      "title": "“300行代码写个Cursor，这是AI时代软件工程师的新底线。”Ralph Loop创造者、Claude Code核心技术设计者的暴论",
-      "source": {
-        "name": "Infoq.cn",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03dTdFX0tFbHlPY1hjY3hWTU96cWVrTFEzQ3hJSUlmb3JnOEVNY2tnNWZhQ0tKQUhWY2NqUEVnb2ZkbjJBaVpPRG1UNk96QWpmNU1YZ2FVYjItUC1HMXc?oc=5"
-      },
-      "publishedAt": "2026-07-08 15:00",
-      "score": 106,
-      "oneLine": "AI 编程工具继续从代码补全走向任务执行：理解目标、改文件、跑验证、解释过程会变成基本能力。",
-      "judgment": "这类更新最值得产品经理关注，因为它能把需求讨论更快变成可演示原型；但也会放大错误执行、权限和验收问题。",
-      "capability": "能力边界正在从“写一段代码”推进到“处理一个小任务”。真正要看的是它是否能稳定读懂上下文、定位文件、修改后自检。",
-      "boundary": "不能把它当成无人值守研发。复杂架构、隐私数据、生产发布、删除操作仍需要明确权限、检查点和人工确认。",
-      "pmInsight": "你可以开始把 PRD 写成可执行任务：目标、输入、验收条件、失败回退，而不是只写页面和功能点。",
-      "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
-    },
-    {
-      "id": "20260731-14-schnucksnewhealtht",
-      "category": "AI 产品",
-      "badge": "应用更新",
-      "title": "Schnucks’ new health-tracking AI assistant is a model for other retailers",
-      "source": {
-        "name": "modernretail.co",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLUktdWhsb1V0UHlMRlNwVWtHWjVYVnBOVnRoU0xZdUNkajE2T2hFLWUzYkJCdGwyeGp6Um9sYjA3VGtTYXBHWFJ2T2swRmZOcDJ5QVZLTU5jZ1hNM0tKVC10ajRTa1BvVk5zTTZ2Vi1nQWFHVXA5SVRTTEtzTUthZkpFY3dQNVdZY2lSd3RLTldRVnBQb2FpY3BRTl9PZnZCMWtBcjRRSWI3cVd0YWUxLTNn?oc=5"
-      },
-      "publishedAt": "2026-07-27 12:04",
-      "score": 86,
-      "oneLine": "AI 应用更新的核心不是“加了 AI”，而是它替用户完成了哪一步、在什么时机介入、用户如何控制。",
-      "judgment": "产品经理要看的是任务链路是否真的变短，而不是宣传里的一次成功演示。",
-      "capability": "AI 正在进入搜索、写作、设计、会议、浏览器和办公流，把理解、生成、调用工具组合成体验。",
-      "boundary": "如果用户不能理解输入范围、不能修改结果、不能拒绝主动建议，AI 功能很容易变成打扰或不可信。",
-      "pmInsight": "拆解竞品时用四问：用户任务是什么、AI 替哪一步、失败怎么纠正、隐私和成本怎么交代。",
-      "askDev": "这个功能依赖哪些用户数据？结果如何解释？用户能否编辑/撤回？成本是否支持高频使用？"
-    },
-    {
-      "id": "20260731-15-bytedancelaunchess",
+      "id": "20260801-10-bytedancelaunchess",
       "category": "影像/创作",
       "badge": "图像 / 视频",
       "title": "ByteDance launches Seedance 2.5 video-generation model",
@@ -277,16 +187,16 @@
       "askDev": "我们能否保留真实素材与 AI 生成素材的链路？能否让用户关闭、回退或标识 AI 修改？弱网/端侧能做哪部分？"
     },
     {
-      "id": "20260731-16-instagramcracksdow",
+      "id": "20260801-11-whattoknowaboutaih",
       "category": "AI 硬件",
       "badge": "端侧 / 设备",
-      "title": "Instagram cracks down on growing ‘pervert glasses’ problem with Meta Ray-Bans",
+      "title": "What to Know About AI Hardware Accelerators: NPUs, TPUs, and Beyond",
       "source": {
-        "name": "Fortune",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMXljNFRNbjE0ajNEVEtPZXUxc2NqQU5GdUxieE9YRnhILWI3UVVUcVd5c3pQUGx2ZmF0T2lfQ1p5R3FUQlFVVEdMbkw4aWROMzNsbmZfZUJFMU1kV2NBVE9ncE1RMVMtWEpoWng4cjd2dXFXZWtwRU5rZ0o5ejVPVVN4alNwRW8?oc=5"
+        "name": "HP",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUDdkMm5odzQ5aFhkUzdCWXdnOXluaUl4N1JSLXQ0eG9ScXA5MElRaGVOQjFzR292Tk5XUzNENUZxVUpWakQwckJsU3hHbXRqdGo0YWVEbzRjckxSQW1iWVRoT0VncGpwWTNDNmdFZDdIbEx2eUxCVWxPdGlDb0E3bEpJdk9lTXNkcFlYNTNKSzZLUE5jMWZzeVV4cDY?oc=5"
       },
-      "publishedAt": "2026-07-28 23:56",
-      "score": 88,
+      "publishedAt": "2026-07-24 03:51",
+      "score": 91,
       "oneLine": "AI 硬件的价值不在于塞一个聊天入口，而在于设备能理解状态、场景、传感器和可执行动作。",
       "judgment": "这是你软硬结合背景最该长期关注的方向：端侧、云端和设备上下文的分工，会直接决定体验是否可用。",
       "capability": "端侧模型、传感器理解、语音交互和云端复杂推理正在组合成新的设备体验。",
@@ -295,12 +205,102 @@
       "askDev": "哪些信息必须端侧处理？哪些可以上云？延迟预算是多少？误识别会造成什么后果？离线时如何降级？"
     },
     {
-      "id": "20260731-17-智能体蜂群与新的模型经济学",
+      "id": "20260801-12-ai大模型外汇交易实验千问最赚钱de",
+      "category": "模型/新能力",
+      "badge": "模型迭代",
+      "title": "AI大模型外汇交易实验：千问最赚钱，DeepSeek亏最多",
+      "source": {
+        "name": "手机网易网",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9tYUREcVdIUTBhMTd3NTA4YzAyOGJmancyU1lsMVF1ek1HdGZXOTNJaHlyYzZrcDBKNWp1bnBQb0pqb3AzeDJSRDZudmZKVGE1T19CQVlaeDhEZnN5dXQ5c0lB?oc=5"
+      },
+      "publishedAt": "2026-07-21 15:00",
+      "score": 105,
+      "oneLine": "这类动态的重点是模型能力边界是否变化：更会推理、更会用工具、更懂多模态，还是成本/速度发生变化。",
+      "judgment": "模型新闻不要只看名字和榜单，要追问它新增了哪类真实任务能力，以及是否已经可用、可稳定复现。",
+      "capability": "模型能力通常体现在上下文长度、推理、工具调用、多模态输入输出、代码能力、成本和延迟这些维度。",
+      "boundary": "发布演示和真实产品可用性不是一回事；还要验证地区、价格、限流、幻觉率、失败恢复和数据安全。",
+      "pmInsight": "你可以把模型更新翻译成需求假设：哪些原来做不了的任务现在可能可做？哪些体验可以从人工流程变成 AI 协助？",
+      "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
+    },
+    {
+      "id": "20260801-13-300行代码写个cursor这是ai",
+      "category": "AI 编程",
+      "badge": "开发工具",
+      "title": "“300行代码写个Cursor，这是AI时代软件工程师的新底线。”Ralph Loop创造者、Claude Code核心技术设计者的暴论",
+      "source": {
+        "name": "Infoq.cn",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03dTdFX0tFbHlPY1hjY3hWTU96cWVrTFEzQ3hJSUlmb3JnOEVNY2tnNWZhQ0tKQUhWY2NqUEVnb2ZkbjJBaVpPRG1UNk96QWpmNU1YZ2FVYjItUC1HMXc?oc=5"
+      },
+      "publishedAt": "2026-07-08 15:00",
+      "score": 106,
+      "oneLine": "AI 编程工具继续从代码补全走向任务执行：理解目标、改文件、跑验证、解释过程会变成基本能力。",
+      "judgment": "这类更新最值得产品经理关注，因为它能把需求讨论更快变成可演示原型；但也会放大错误执行、权限和验收问题。",
+      "capability": "能力边界正在从“写一段代码”推进到“处理一个小任务”。真正要看的是它是否能稳定读懂上下文、定位文件、修改后自检。",
+      "boundary": "不能把它当成无人值守研发。复杂架构、隐私数据、生产发布、删除操作仍需要明确权限、检查点和人工确认。",
+      "pmInsight": "你可以开始把 PRD 写成可执行任务：目标、输入、验收条件、失败回退，而不是只写页面和功能点。",
+      "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
+    },
+    {
+      "id": "20260801-14-michaelsunveilsask",
+      "category": "AI 产品",
+      "badge": "应用更新",
+      "title": "Michaels® Unveils 'Ask Mike' AI Assistant, Built With Google Cloud's Gemini Enterprise for Customer Experience",
+      "source": {
+        "name": "The Michaels Companies, Inc.",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcjdGMGRUcUk5TGpqTzFxVEFjRG10YXdSeGlTTkQxZllpUGtDak5ucDFidFdCZl9MVS15VmwzNHlTa3VXS0RQbFF6V2tkZkFfS1pjX04wbWpIeEVUX21NTjNMN1ZGem5GYUdoR3haNFd1MnNFbTZUUEkxOUxxeFNPVEZ1VUNhaklWanhQUzJSRjl4ekxoME1VS2hYT2t3YVVZWVE?oc=5"
+      },
+      "publishedAt": "2026-07-21 21:06",
+      "score": 86,
+      "oneLine": "AI 应用更新的核心不是“加了 AI”，而是它替用户完成了哪一步、在什么时机介入、用户如何控制。",
+      "judgment": "产品经理要看的是任务链路是否真的变短，而不是宣传里的一次成功演示。",
+      "capability": "AI 正在进入搜索、写作、设计、会议、浏览器和办公流，把理解、生成、调用工具组合成体验。",
+      "boundary": "如果用户不能理解输入范围、不能修改结果、不能拒绝主动建议，AI 功能很容易变成打扰或不可信。",
+      "pmInsight": "拆解竞品时用四问：用户任务是什么、AI 替哪一步、失败怎么纠正、隐私和成本怎么交代。",
+      "askDev": "这个功能依赖哪些用户数据？结果如何解释？用户能否编辑/撤回？成本是否支持高频使用？"
+    },
+    {
+      "id": "20260801-15-bytedancereleasess",
+      "category": "影像/创作",
+      "badge": "图像 / 视频",
+      "title": "ByteDance releases Seedance 2.5 with multi-input AI video",
+      "source": {
+        "name": "Tech in Asia",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3hOM3pLU3RfVHFrM2J2a2s0SzZUVHhOMVNuVkt2LVFEMXlQNVJ4aXFFRG14VnRyVjZjVnhabFBEWWZCNXU0MW9xTkJqeVJvanZPam5VdFQtT1FqSVFhemdEcWlpaFlUTFctbkFhMVdVQkZsSGZmRDFJa0p6TGRvbFZGYw?oc=5"
+      },
+      "publishedAt": "2026-07-31 15:52",
+      "score": 106,
+      "oneLine": "影像 AI 的重点正在从单次生成，转向围绕真实素材的整理、改写、包装和多版本创作。",
+      "judgment": "对运动相机类产品，机会不是替用户虚构经历，而是帮用户更快找到真实高光、完成表达，并清楚标识 AI 参与部分。",
+      "capability": "模型正在增强图像、视频、文字、声音之间的跨模态生成与编辑能力，适合做素材理解、风格化包装和故事板探索。",
+      "boundary": "动作真实性、人物一致性、版权、商用授权和 AI 生成标识仍是高风险点。生成得好看不代表事实可信。",
+      "pmInsight": "可以优先考虑“AI 剪辑助理 / 高光筛选 / 标题字幕 / 风格预览”，而不是一上来做完全自动生成大片。",
+      "askDev": "我们能否保留真实素材与 AI 生成素材的链路？能否让用户关闭、回退或标识 AI 修改？弱网/端侧能做哪部分？"
+    },
+    {
+      "id": "20260801-16-bestaiwearables202",
+      "category": "AI 硬件",
+      "badge": "端侧 / 设备",
+      "title": "Best AI Wearables 2026 - Forbes Vetted",
+      "source": {
+        "name": "forbes.com",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaUVIUnFpOWlwQlFia0J5QzJyYTd3aTczV1daZkhfLUR0SFBmT29jZlByR0FIWmNYRU5QVHdPX21pT2YtSGZIUmp1YUxBdUY4bzVwcnU2WW0xS3pCb1lzbnJTMlFhYjR2am1jVVVNSGdqNUN2RVRQeHEwRlgzeDBFZjdjZzJCQQ?oc=5"
+      },
+      "publishedAt": "2026-07-24 21:37",
+      "score": 84,
+      "oneLine": "AI 硬件的价值不在于塞一个聊天入口，而在于设备能理解状态、场景、传感器和可执行动作。",
+      "judgment": "这是你软硬结合背景最该长期关注的方向：端侧、云端和设备上下文的分工，会直接决定体验是否可用。",
+      "capability": "端侧模型、传感器理解、语音交互和云端复杂推理正在组合成新的设备体验。",
+      "boundary": "功耗、散热、时延、离线、隐私、误触发和安全确认会限制真实落地，演示效果不能代表量产体验。",
+      "pmInsight": "做硬件 AI 需求时，先定义场景触发、设备状态、用户确认和失败回退，再讨论模型能力。",
+      "askDev": "哪些信息必须端侧处理？哪些可以上云？延迟预算是多少？误识别会造成什么后果？离线时如何降级？"
+    },
+    {
+      "id": "20260801-17-智能体蜂群与新的模型经济学",
       "category": "AI 编程",
       "badge": "开发工具",
       "title": "智能体蜂群与新的模型经济学",
       "source": {
-        "name": "cursor.com",
+        "name": "Cursor",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MZlJXYTdNU1JFZU45bmUtNzB2dWdzc1F4OUVseS1COUlYUlk3V0xteWVPU2o3QUR4U1Zqd1Q5YVhqUFlVX05Gc2ZES0tEYXJPTkdxSUhPcWhMWkNKcVBNMGN6Y1g?oc=5"
       },
       "publishedAt": "2026-07-20 15:00",
@@ -313,16 +313,16 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20260731-18-gpt56随宏大目标灵活扩展的前沿智",
+      "id": "20260801-18-anthropic如何重构ai原生软",
       "category": "模型/新能力",
       "badge": "模型迭代",
-      "title": "GPT-5.6：随宏大目标灵活扩展的前沿智能",
+      "title": "Anthropic如何重构AI原生软件供应链安全",
       "source": {
-        "name": "OpenAI",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE40Q1E3OTFDdThXbzQ4Z2tvLWswMHI0c1RzYnF6VXJ0UmVrSldQRGdPajNBNE1BQ2c2aXlLUlZ0N3BQOHN2Nm5Bdkhpd21MdmRRdklRTFAwVQ?oc=5"
+        "name": "安全内参",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ab2NwNHEyUVZHY01ZZnBsN0NTZXFCRUFnaFVFVERLT2dMcldteEVMWk8tbjdZSE0yWXNzVkozZy1ya2FNMGQ0SmNnVVp4dw?oc=5"
       },
-      "publishedAt": "2026-07-09 15:00",
-      "score": 102,
+      "publishedAt": "2026-07-30 15:00",
+      "score": 101,
       "oneLine": "这类动态的重点是模型能力边界是否变化：更会推理、更会用工具、更懂多模态，还是成本/速度发生变化。",
       "judgment": "模型新闻不要只看名字和榜单，要追问它新增了哪类真实任务能力，以及是否已经可用、可稳定复现。",
       "capability": "模型能力通常体现在上下文长度、推理、工具调用、多模态输入输出、代码能力、成本和延迟这些维度。",
@@ -331,7 +331,7 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20260731-19-谷歌解散alphafold团队诺奖得",
+      "id": "20260801-19-谷歌解散alphafold团队诺奖得",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "谷歌解散AlphaFold团队，诺奖得主出走、资源转向Gemini",
@@ -349,25 +349,7 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20260731-20-midjourneyreview20",
-      "category": "影像/创作",
-      "badge": "图像 / 视频",
-      "title": "Midjourney Review 2026: Is It A Good Video & Image AI Generator?",
-      "source": {
-        "name": "Ventureburn",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9xbTRzZzdralFoUzRtbXFGOTN5aHZVcmNLX1p1RzZSS0ZIanRpb3dScFdQUy1lemlMSGhuWUo0YUF0MDljdHhOTUk0ZU9IbmpEWGhuQ9IBVEFVX3lxTE9xbTRzZzdralFoUzRtbXFGOTN5aHZVcmNLX1p1RzZSS0ZIanRpb3dScFdQUy1lemlMSGhuWUo0YUF0MDljdHhOTUk0ZU9IbmpEWGhuQw?oc=5"
-      },
-      "publishedAt": "2026-07-28 22:53",
-      "score": 100,
-      "oneLine": "影像 AI 的重点正在从单次生成，转向围绕真实素材的整理、改写、包装和多版本创作。",
-      "judgment": "对运动相机类产品，机会不是替用户虚构经历，而是帮用户更快找到真实高光、完成表达，并清楚标识 AI 参与部分。",
-      "capability": "模型正在增强图像、视频、文字、声音之间的跨模态生成与编辑能力，适合做素材理解、风格化包装和故事板探索。",
-      "boundary": "动作真实性、人物一致性、版权、商用授权和 AI 生成标识仍是高风险点。生成得好看不代表事实可信。",
-      "pmInsight": "可以优先考虑“AI 剪辑助理 / 高光筛选 / 标题字幕 / 风格预览”，而不是一上来做完全自动生成大片。",
-      "askDev": "我们能否保留真实素材与 AI 生成素材的链路？能否让用户关闭、回退或标识 AI 修改？弱网/端侧能做哪部分？"
-    },
-    {
-      "id": "20260731-21-阿森纳招聘研究工程师负责构建ai模型",
+      "id": "20260801-20-阿森纳招聘研究工程师负责构建ai模型",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "阿森纳招聘研究工程师，负责构建AI模型推进一线队工作",
@@ -385,25 +367,7 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20260731-22-openai内部token流向剧变c",
-      "category": "AI 编程",
-      "badge": "开发工具",
-      "title": "OpenAI内部Token流向剧变，Codex几乎“通吃”",
-      "source": {
-        "name": "证券时报",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9tZXQ2WGdXX1hDZUhRRnlDaC1LTjlNSkpydmN6RWlWTklmaFVDMnJocnVVN0lVekdxRkY4Q0RnQWw2LWllQVY1cGY3QnBqUzV4VXZ5dUhZZnVwR3hr?oc=5"
-      },
-      "publishedAt": "2026-06-26 15:00",
-      "score": 96,
-      "oneLine": "AI 编程工具继续从代码补全走向任务执行：理解目标、改文件、跑验证、解释过程会变成基本能力。",
-      "judgment": "这类更新最值得产品经理关注，因为它能把需求讨论更快变成可演示原型；但也会放大错误执行、权限和验收问题。",
-      "capability": "能力边界正在从“写一段代码”推进到“处理一个小任务”。真正要看的是它是否能稳定读懂上下文、定位文件、修改后自检。",
-      "boundary": "不能把它当成无人值守研发。复杂架构、隐私数据、生产发布、删除操作仍需要明确权限、检查点和人工确认。",
-      "pmInsight": "你可以开始把 PRD 写成可执行任务：目标、输入、验收条件、失败回退，而不是只写页面和功能点。",
-      "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
-    },
-    {
-      "id": "20260731-23-160天codex1m到8m增长曲线",
+      "id": "20260801-21-160天codex1m到8m增长曲线",
       "category": "AI 编程",
       "badge": "开发工具",
       "title": "160天，Codex 1M 到8M：增长曲线背后的四次产品调整",
@@ -421,7 +385,43 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20260731-24-claudecode让代码活了终端里",
+      "id": "20260801-22-被骂了一年的codex怎么突然爆了",
+      "category": "AI 编程",
+      "badge": "开发工具",
+      "title": "被骂了一年的Codex，怎么突然爆了？",
+      "source": {
+        "name": "智东西",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBHX1pVTzdDV2xhVlVmTUtjRGdwblJTWmh3cGxqQnRJNDRaS0xmbzltZ2FzMjRQc09ma2Njck1MalBVN183RWpHVA?oc=5"
+      },
+      "publishedAt": "2026-06-23 15:00",
+      "score": 96,
+      "oneLine": "AI 编程工具继续从代码补全走向任务执行：理解目标、改文件、跑验证、解释过程会变成基本能力。",
+      "judgment": "这类更新最值得产品经理关注，因为它能把需求讨论更快变成可演示原型；但也会放大错误执行、权限和验收问题。",
+      "capability": "能力边界正在从“写一段代码”推进到“处理一个小任务”。真正要看的是它是否能稳定读懂上下文、定位文件、修改后自检。",
+      "boundary": "不能把它当成无人值守研发。复杂架构、隐私数据、生产发布、删除操作仍需要明确权限、检查点和人工确认。",
+      "pmInsight": "你可以开始把 PRD 写成可执行任务：目标、输入、验收条件、失败回退，而不是只写页面和功能点。",
+      "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
+    },
+    {
+      "id": "20260801-23-openai给codex找了份新工作",
+      "category": "AI 编程",
+      "badge": "开发工具",
+      "title": "OpenAI给Codex找了份新工作",
+      "source": {
+        "name": "Jiemian.com",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IU3FlSUZuV2ZaemZtSU9MWklTcUFEZEZaeE5Zd29pTjJ0dDJxUEQ2OHplUEdscFhYT1FGQlhQNk1remFKSmVXdDIzenV6Q3lBQjBxbGhEVGI?oc=5"
+      },
+      "publishedAt": "2026-07-10 15:00",
+      "score": 96,
+      "oneLine": "AI 编程工具继续从代码补全走向任务执行：理解目标、改文件、跑验证、解释过程会变成基本能力。",
+      "judgment": "这类更新最值得产品经理关注，因为它能把需求讨论更快变成可演示原型；但也会放大错误执行、权限和验收问题。",
+      "capability": "能力边界正在从“写一段代码”推进到“处理一个小任务”。真正要看的是它是否能稳定读懂上下文、定位文件、修改后自检。",
+      "boundary": "不能把它当成无人值守研发。复杂架构、隐私数据、生产发布、删除操作仍需要明确权限、检查点和人工确认。",
+      "pmInsight": "你可以开始把 PRD 写成可执行任务：目标、输入、验收条件、失败回退，而不是只写页面和功能点。",
+      "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
+    },
+    {
+      "id": "20260801-24-claudecode让代码活了终端里",
       "category": "AI 编程",
       "badge": "开发工具",
       "title": "Claude Code让代码活了！终端里直接长出网页",
@@ -439,7 +439,7 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20260731-25-claudecode80的提示词说删",
+      "id": "20260801-25-claudecode80的提示词说删",
       "category": "AI 编程",
       "badge": "开发工具",
       "title": "Claude Code 80%的提示词说删就删，Anthropic用Fable 5打了个样：AI行业的“降本”才刚刚开始",
@@ -457,7 +457,7 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20260731-26-anthropic偷偷在claude",
+      "id": "20260801-26-anthropic偷偷在claude",
       "category": "AI 编程",
       "badge": "开发工具",
       "title": "Anthropic偷偷在Claude Code中植入了隐形代码，只为识别中国用户",
@@ -475,7 +475,7 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20260731-27-正面硬刚anthropic阿里内部将",
+      "id": "20260801-27-正面硬刚anthropic阿里内部将",
       "category": "AI 编程",
       "badge": "开发工具",
       "title": "正面硬刚Anthropic？阿里内部将全面禁用Claude Code",
@@ -493,7 +493,7 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20260731-28-thebesttexttovideo",
+      "id": "20260801-28-thebesttexttovideo",
       "category": "影像/创作",
       "badge": "图像 / 视频",
       "title": "The Best Text-to-Video Generator Tools in 2026 (Top 7)",
@@ -511,25 +511,25 @@
       "askDev": "我们能否保留真实素材与 AI 生成素材的链路？能否让用户关闭、回退或标识 AI 修改？弱网/端侧能做哪部分？"
     },
     {
-      "id": "20260731-29-大规模封号后claude突然发布更便",
-      "category": "模型/新能力",
-      "badge": "模型迭代",
-      "title": "大规模封号后，Claude 突然发布更便宜的新模型",
+      "id": "20260801-29-midjourneyreview20",
+      "category": "影像/创作",
+      "badge": "图像 / 视频",
+      "title": "Midjourney Review 2026: Is It A Good Video & Image AI Generator?",
       "source": {
-        "name": "爱范儿",
-        "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBWSlJHZUptREoxelBYbUdQdTFNTEI4V1FTbWVqQzdnd0tmRHF4VTk0TnVKOVVoLVJlc1U4X1RMdnFOQTA?oc=5"
+        "name": "Ventureburn",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9xbTRzZzdralFoUzRtbXFGOTN5aHZVcmNLX1p1RzZSS0ZIanRpb3dScFdQUy1lemlMSGhuWUo0YUF0MDljdHhOTUk0ZU9IbmpEWGhuQ9IBVEFVX3lxTE9xbTRzZzdralFoUzRtbXFGOTN5aHZVcmNLX1p1RzZSS0ZIanRpb3dScFdQUy1lemlMSGhuWUo0YUF0MDljdHhOTUk0ZU9IbmpEWGhuQw?oc=5"
       },
-      "publishedAt": "2026-07-01 19:51",
-      "score": 95,
-      "oneLine": "这类动态的重点是模型能力边界是否变化：更会推理、更会用工具、更懂多模态，还是成本/速度发生变化。",
-      "judgment": "模型新闻不要只看名字和榜单，要追问它新增了哪类真实任务能力，以及是否已经可用、可稳定复现。",
-      "capability": "模型能力通常体现在上下文长度、推理、工具调用、多模态输入输出、代码能力、成本和延迟这些维度。",
-      "boundary": "发布演示和真实产品可用性不是一回事；还要验证地区、价格、限流、幻觉率、失败恢复和数据安全。",
-      "pmInsight": "你可以把模型更新翻译成需求假设：哪些原来做不了的任务现在可能可做？哪些体验可以从人工流程变成 AI 协助？",
-      "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
+      "publishedAt": "2026-07-28 22:53",
+      "score": 96,
+      "oneLine": "影像 AI 的重点正在从单次生成，转向围绕真实素材的整理、改写、包装和多版本创作。",
+      "judgment": "对运动相机类产品，机会不是替用户虚构经历，而是帮用户更快找到真实高光、完成表达，并清楚标识 AI 参与部分。",
+      "capability": "模型正在增强图像、视频、文字、声音之间的跨模态生成与编辑能力，适合做素材理解、风格化包装和故事板探索。",
+      "boundary": "动作真实性、人物一致性、版权、商用授权和 AI 生成标识仍是高风险点。生成得好看不代表事实可信。",
+      "pmInsight": "可以优先考虑“AI 剪辑助理 / 高光筛选 / 标题字幕 / 风格预览”，而不是一上来做完全自动生成大片。",
+      "askDev": "我们能否保留真实素材与 AI 生成素材的链路？能否让用户关闭、回退或标识 AI 修改？弱网/端侧能做哪部分？"
     },
     {
-      "id": "20260731-30-40天不睡5人死磕deepmind主",
+      "id": "20260801-30-40天不睡5人死磕deepmind主",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "40天不睡、5人死磕，DeepMind主管爆Gemini大战DeepSeek惨烈内幕",
@@ -547,7 +547,7 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20260731-31-cursor推出ios端app把ai",
+      "id": "20260801-31-cursor推出ios端app把ai",
       "category": "AI 编程",
       "badge": "开发工具",
       "title": "Cursor 推出 iOS 端 App，把 AI 编程塞进了手机 - OSCHINA - 开源 × AI · 开发者生态社区",
@@ -565,7 +565,7 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20260731-32-2026年全球十大最佳vibe编码工",
+      "id": "20260801-32-2026年全球十大最佳vibe编码工",
       "category": "AI 编程",
       "badge": "开发工具",
       "title": "2026年全球十大最佳Vibe编码工具",
@@ -583,7 +583,7 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20260731-33-whatmodelcontextpr",
+      "id": "20260801-33-whatmodelcontextpr",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "What Model Context Protocol Actually Does",
@@ -601,7 +601,7 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20260731-34-hiddenwebtexthijac",
+      "id": "20260801-34-hiddenwebtexthijac",
       "category": "AI 编程",
       "badge": "开发工具",
       "title": "Hidden Web Text Hijacked Kiro and Ran Attacker Code: AWS Confirms No CVE Assigned",
@@ -619,7 +619,7 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20260731-35-胡彦斌你以后vibecoding不用",
+      "id": "20260801-35-胡彦斌你以后vibecoding不用",
       "category": "AI 编程",
       "badge": "开发工具",
       "title": "胡彦斌，你以后Vibe Coding 不用抱电脑了",
@@ -637,7 +637,7 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20260731-36-字节跳动发布seedance25单次",
+      "id": "20260801-36-字节跳动发布seedance25单次",
       "category": "影像/创作",
       "badge": "图像 / 视频",
       "title": "字节跳动发布Seedance 2.5，单次生成翻倍至30秒，AIGC落地加速",
@@ -657,7 +657,7 @@
   ],
   "deepDives": [
     {
-      "id": "20260731-01-claudeagent突然大更新狂塞",
+      "id": "20260801-01-claudeagent突然大更新狂塞",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "Claude Agent突然大更新！狂塞500个技能，网友直呼疯狂",
@@ -675,7 +675,7 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20260731-02-openai发布开源版codexse",
+      "id": "20260801-02-openai发布开源版codexse",
       "category": "AI 编程",
       "badge": "开发工具",
       "title": "OpenAI 发布开源版 Codex Security CLI - OSCHINA - 开源 × AI · 开发者生态社区",
@@ -693,7 +693,7 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20260731-03-美团旗下ai浏览器tabbit上架鸿",
+      "id": "20260801-03-美团旗下ai浏览器tabbit上架鸿",
       "category": "AI 产品",
       "badge": "应用更新",
       "title": "美团旗下AI浏览器Tabbit上架鸿蒙端，华为账号一键登录+服务卡片让浏览体验更便捷",
@@ -722,7 +722,7 @@
       "title": "用真实素材验证一次影像 AI 边界",
       "time": "15 分钟",
       "why": "这能帮你区分 AI 适合做素材整理/包装，还是已经越界到虚构事实。",
-      "prompt": "基于这条影像 AI 动态：ByteDance Officially Launches Seedance 2.5: Single-Generation 30-Second Videos, Multi-Modal Editing Capabilities See Major Breakthroughs\n请以运动相机素材为例，设计一个最小体验：输入是什么、AI 输出什么、哪些地方必须标识 AI 参与、用户如何撤回或修改、哪些操作绝不能默认自动执行。"
+      "prompt": "基于这条影像 AI 动态：ByteDance unveils Seedance 2.5 to take on OpenAI, Google and Kling in AI video race\n请以运动相机素材为例，设计一个最小体验：输入是什么、AI 输出什么、哪些地方必须标识 AI 参与、用户如何撤回或修改、哪些操作绝不能默认自动执行。"
     }
   ],
   "sourcePolicy": [
