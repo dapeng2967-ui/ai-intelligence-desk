@@ -2,7 +2,7 @@
   "version": 2,
   "label": "AI Daily Brief",
   "date": "2026 年 8 月 6 日",
-  "updatedAt": "2026-08-06 16:32（北京时间）",
+  "updatedAt": "2026-08-06 22:03（北京时间）",
   "title": "今天值得关注的 AI 情报",
   "summary": "先扫快讯，再看重点判断。内容覆盖海外模型与产品、AI 编程、影像创作、AI 硬件和中文科技媒体信号。",
   "signals": [
@@ -43,16 +43,16 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20260806-03-13bestaitoolsforst",
+      "id": "20260806-03-asusdisplaywidgetc",
       "category": "AI 产品",
       "badge": "应用更新",
-      "title": "13 Best AI Tools for Students 2026: Top Picks Tested & Compared",
+      "title": "ASUS DisplayWidget Center Adds AI Agent Controls",
       "source": {
-        "name": "Memeburn",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5lUG53RDAzNG9tMzBMbm1VTnBlekdRNUZlNkdKd0QtRm5Fa0ZQaV8wSFMxWUNqSWdvOU9pYnVCU21BX2Z3cDBOLUxuLVZ0dTN5NFVNWko1VF9RbnRn?oc=5"
+        "name": "ASUS Pressroom",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORENYaDFMdUlVZVVRU3pDMFNScTFoT05tbG1COHBFM1dab2NsU3lkMEl5a2Qxd29PZ09EdDZNSXZNenJHOFZ4RDMzbVpXOGEtWkw5V181U3E0cHhoUDBiTmxBMmc1VHY0Xy1hRVJEaG0tX09EN0VSZzJjandSSHZmbTl0dFUxSWFpTnNGbGRuN3YtbU54dGRDXw?oc=5"
       },
-      "publishedAt": "2026-08-04 17:59",
-      "score": 90,
+      "publishedAt": "2026-08-06 16:34",
+      "score": 105,
       "oneLine": "AI 应用更新的核心不是“加了 AI”，而是它替用户完成了哪一步、在什么时机介入、用户如何控制。",
       "judgment": "产品经理要看的是任务链路是否真的变短，而不是宣传里的一次成功演示。",
       "capability": "AI 正在进入搜索、写作、设计、会议、浏览器和办公流，把理解、生成、调用工具组合成体验。",
@@ -102,11 +102,11 @@
       "badge": "中文媒体",
       "title": "微信AI全网最细体验，我又爱上了刷朋友圈",
       "source": {
-        "name": "36 Kr",
+        "name": "36氪",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9taTJFb2ptWWE0cDJXNHhqWFdhUVN6d0NsaUtaZ05QckhqRThhUVV4cVRnZmZJRkVPdWxJRERWS0UyVGhrR043RENEZzJrdw?oc=5"
       },
       "publishedAt": "2026-06-23 15:00",
-      "score": 68,
+      "score": 76,
       "oneLine": "中文媒体能补足国内模型、应用和产业落地信息，适合用来观察本土生态节奏。",
       "judgment": "中文报道的价值在于案例密度和本土产品动态，但需要区分事实、转述和营销包装。",
       "capability": "国内模型和应用正在快速迭代，尤其在多模态、视频生成、办公、智能硬件和企业服务上竞争明显。",
@@ -115,16 +115,16 @@
       "askDev": "这个能力是否已有国内可用 API/SDK？可用性、成本、合规和私有化方案如何？"
     },
     {
-      "id": "20260806-07-introducinggptlive",
+      "id": "20260806-07-研究老臣离任整合deepmind谷歌",
       "category": "模型/新能力",
       "badge": "模型迭代",
-      "title": "Introducing GPT-Live",
+      "title": "研究老臣离任、整合DeepMind！谷歌AI战略巨变，专注大模型业务",
       "source": {
-        "name": "OpenAI",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DVXI2NXkzejZWS2piS0F6aTh4YWlHMVRCT3lkTWdsb2NjYkpnOFpSR0hlNWxBd2swaklLak5JanFpY3dSU3lyUnlyalMwbUVJQXE2MHVSZmQ2dw?oc=5"
+        "name": "华尔街见闻",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9JbjdCaGJtY054SFFTZ2FKbUNsWnNkaXREMnZBbzhhLTJxVi1RV3dVQmd5Wk54dEh3Mmx2MGFoSVl0NXBnNEtRMXJPS19hTWJ1N3JB?oc=5"
       },
-      "publishedAt": "2026-07-08 15:00",
-      "score": 105,
+      "publishedAt": "2026-08-06 08:22",
+      "score": 107,
       "oneLine": "这类动态的重点是模型能力边界是否变化：更会推理、更会用工具、更懂多模态，还是成本/速度发生变化。",
       "judgment": "模型新闻不要只看名字和榜单，要追问它新增了哪类真实任务能力，以及是否已经可用、可稳定复现。",
       "capability": "模型能力通常体现在上下文长度、推理、工具调用、多模态输入输出、代码能力、成本和延迟这些维度。",
@@ -151,16 +151,16 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20260806-09-中国加强ai服务整治约14万项应用被",
+      "id": "20260806-09-13bestaitoolsforst",
       "category": "AI 产品",
       "badge": "应用更新",
-      "title": "中国加强AI服务整治 约1.4万项应用被清退",
+      "title": "13 Best AI Tools for Students 2026: Top Picks Tested & Compared",
       "source": {
-        "name": "디지털투데이",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUnNCVjRJdEZtYUJYdHJ4d2V4WUdwMjk3aHRtSnlMcDczM3VsNmVpRW56VUlOLVBZcnE4dVM3VzRLY0J5eUdfWVZzVDRqQzYydHcxNkJOR2szU05NLUlNVmZjczQwNmFMSUw0aTNxU3E5RkRaYWhLSlJiRUd6NjdVSF9fQ0hrYmtZRTZEaEJTOHR6ZlVCMU9lOUdMZWNoenQ0S05LTmFBQ0g1THo2WS1IY3dZOUNmb3VsN1JONzFPVDg?oc=5"
+        "name": "Memeburn",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5lUG53RDAzNG9tMzBMbm1VTnBlekdRNUZlNkdKd0QtRm5Fa0ZQaV8wSFMxWUNqSWdvOU9pYnVCU21BX2Z3cDBOLUxuLVZ0dTN5NFVNWko1VF9RbnRn?oc=5"
       },
-      "publishedAt": "2026-07-07 15:00",
-      "score": 87,
+      "publishedAt": "2026-08-04 17:59",
+      "score": 90,
       "oneLine": "AI 应用更新的核心不是“加了 AI”，而是它替用户完成了哪一步、在什么时机介入、用户如何控制。",
       "judgment": "产品经理要看的是任务链路是否真的变短，而不是宣传里的一次成功演示。",
       "capability": "AI 正在进入搜索、写作、设计、会议、浏览器和办公流，把理解、生成、调用工具组合成体验。",
@@ -187,15 +187,15 @@
       "askDev": "我们能否保留真实素材与 AI 生成素材的链路？能否让用户关闭、回退或标识 AI 修改？弱网/端侧能做哪部分？"
     },
     {
-      "id": "20260806-11-谷歌发布新一代机器人ai模型实现人形",
+      "id": "20260806-11-谷歌deepmind发布了一款名为g",
       "category": "AI 硬件",
       "badge": "端侧 / 设备",
-      "title": "谷歌发布新一代机器人AI模型，实现人形机器人全身控制",
+      "title": "谷歌DeepMind发布了一款名为Gemini Robotics 2的新型机器人人工智能模型",
       "source": {
-        "name": "华尔街见闻",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XazZHa2ZhY3J2Sm9oWXhMVHRqRUVEM1JjckJKOGJnZzlvQ0hmMXNCWmk5aXNETVBxbjc5SThTalpmZ0JNT3VkZTBOc0w2bkxIUWZ3?oc=5"
+        "name": "东方财富",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tZ1JWeDQ2bTN5ZVhRSnEwOFFDbFo2UlNVWnNOYVE4Z1pVTmhKQnMzWlNxQjZqVWR4cEdNMUxwRmN2NkNCRDJHRHFieUJRdDBlSFl4SFk5RzlHVnNqeVhHdw?oc=5"
       },
-      "publishedAt": "2026-07-30 23:22",
+      "publishedAt": "2026-07-31 02:50",
       "score": 97,
       "oneLine": "AI 硬件的价值不在于塞一个聊天入口，而在于设备能理解状态、场景、传感器和可执行动作。",
       "judgment": "这是你软硬结合背景最该长期关注的方向：端侧、云端和设备上下文的分工，会直接决定体验是否可用。",
@@ -241,16 +241,16 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20260806-14-oneappchatgptclaud",
+      "id": "20260806-14-中国加强ai服务整治约14万项应用被",
       "category": "AI 产品",
       "badge": "应用更新",
-      "title": "One app. ChatGPT, Claude, and Gemini, now just $30 for a full year",
+      "title": "中国加强AI服务整治 约1.4万项应用被清退",
       "source": {
-        "name": "9to5Toys",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWGZmUzRTeXBCdzczbXhCWGtQamlxZlFyZk00VUFFLWJqUHJpS0ItdXhuZWFveV9HMmRneGYydVhtRThOV3pmWTNweG5qQVB5dXpsemYyRUFvbTlJc2RTVlFBekF0RGN0MFVoaUttY2RSeU5WRHFIVldWc2M3UHhiU2NjOEVPLW4xYnp2cGdFSjNUaVNUWE1ja2hB?oc=5"
+        "name": "디지털투데이",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUnNCVjRJdEZtYUJYdHJ4d2V4WUdwMjk3aHRtSnlMcDczM3VsNmVpRW56VUlOLVBZcnE4dVM3VzRLY0J5eUdfWVZzVDRqQzYydHcxNkJOR2szU05NLUlNVmZjczQwNmFMSUw0aTNxU3E5RkRaYWhLSlJiRUd6NjdVSF9fQ0hrYmtZRTZEaEJTOHR6ZlVCMU9lOUdMZWNoenQ0S05LTmFBQ0g1THo2WS1IY3dZOUNmb3VsN1JONzFPVDg?oc=5"
       },
-      "publishedAt": "2026-08-01 04:24",
-      "score": 86,
+      "publishedAt": "2026-07-07 15:00",
+      "score": 87,
       "oneLine": "AI 应用更新的核心不是“加了 AI”，而是它替用户完成了哪一步、在什么时机介入、用户如何控制。",
       "judgment": "产品经理要看的是任务链路是否真的变短，而不是宣传里的一次成功演示。",
       "capability": "AI 正在进入搜索、写作、设计、会议、浏览器和办公流，把理解、生成、调用工具组合成体验。",
@@ -277,16 +277,16 @@
       "askDev": "我们能否保留真实素材与 AI 生成素材的链路？能否让用户关闭、回退或标识 AI 修改？弱网/端侧能做哪部分？"
     },
     {
-      "id": "20260806-16-谷歌deepmind发布了一款名为g",
+      "id": "20260806-16-bestaiwearables202",
       "category": "AI 硬件",
       "badge": "端侧 / 设备",
-      "title": "谷歌DeepMind发布了一款名为Gemini Robotics 2的新型机器人人工智能模型",
+      "title": "Best AI Wearables 2026 - Forbes Vetted",
       "source": {
-        "name": "东方财富",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tZ1JWeDQ2bTN5ZVhRSnEwOFFDbFo2UlNVWnNOYVE4Z1pVTmhKQnMzWlNxQjZqVWR4cEdNMUxwRmN2NkNCRDJHRHFieUJRdDBlSFl4SFk5RzlHVnNqeVhHdw?oc=5"
+        "name": "Forbes",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaUVIUnFpOWlwQlFia0J5QzJyYTd3aTczV1daZkhfLUR0SFBmT29jZlByR0FIWmNYRU5QVHdPX21pT2YtSGZIUmp1YUxBdUY4bzVwcnU2WW0xS3pCb1lzbnJTMlFhYjR2am1jVVVNSGdqNUN2RVRQeHEwRlgzeDBFZjdjZzJCQQ?oc=5"
       },
-      "publishedAt": "2026-07-31 02:50",
-      "score": 97,
+      "publishedAt": "2026-07-24 15:00",
+      "score": 84,
       "oneLine": "AI 硬件的价值不在于塞一个聊天入口，而在于设备能理解状态、场景、传感器和可执行动作。",
       "judgment": "这是你软硬结合背景最该长期关注的方向：端侧、云端和设备上下文的分工，会直接决定体验是否可用。",
       "capability": "端侧模型、传感器理解、语音交互和云端复杂推理正在组合成新的设备体验。",
@@ -300,7 +300,7 @@
       "badge": "开发工具",
       "title": "2026年中国版Codex产品集中上线，AI桌面Agent争夺用户执行入口",
       "source": {
-        "name": "huxiu.com",
+        "name": "虎嗅",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3WHhsU3g2LTdTQWVDZDJuRU5QX3AyZ2xVOXFYME1qellHS2NxUE5rMmVVZlZfYzh1RTFJQmptWERQNENyTkFVN08yS0c1cHhsVXJkUw?oc=5"
       },
       "publishedAt": "2026-06-24 15:00",
@@ -372,7 +372,7 @@
       "badge": "模型迭代",
       "title": "Claude Agent重大更新：新增500个超强技能 网友集体直呼太疯狂",
       "source": {
-        "name": "36Kr",
+        "name": "36 Kr",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83ckZLRnhqSUVvakJ2SHpmZ29mWURSV3FUN282UkhjY3BrV1VONUs5OFpULW9JNmhBSXVSZHhWUjk4bHlkdVNodnE5TGU5VXJTUVgw?oc=5"
       },
       "publishedAt": "2026-07-23 00:15",
@@ -475,15 +475,15 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20260806-27-刚刚claudecode大升级卡帕西",
+      "id": "20260806-27-中国工信部警示claudecode存",
       "category": "AI 编程",
       "badge": "开发工具",
-      "title": "刚刚，Claude Code大升级！卡帕西：LLM第三次变革",
+      "title": "中国工信部警示Claude Code存安全隐患",
       "source": {
-        "name": "智源社区",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9CYXF4cFhTS2l4QUhXVTRmVDg4MU11S2NvUHZ6OFdnd1hjVzQ0YUdVNzZCejVkVXU2OXdKdEtQaW9EM0ZYWlJBaQ?oc=5"
+        "name": "RFI",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPalZlNTYtdnlRSkpfbnIwRVVrZEJVVkRIalhtRVJfd3RBcE9qTlRESmN0TnhDSDJKODhGd0EybDdUMGotdWpGVy1JNFFfUG9zXzdRMFBnTE1GU0JHTXlfN3ZoTVJDcEM1R0tPNFlDV2w0SlJDTl9ZTnRwNlVxVVFUN05ud1p5M3k2R1dMUDZyRUIyZjNmREdZLTh1NVhmanUwQWNxVW9oXzFEX1VtY0pQaDNZaFAtVUFVOFJBUE5jMzgxM1ZtNU04YWRXVVdqX3FBOEM4T21qcGR1bTZDamU3a2plUmNmeGV0bE5XQ0ZJSTExYm5qM2x1QVZPV2d2UQ?oc=5"
       },
-      "publishedAt": "2026-06-25 15:00",
+      "publishedAt": "2026-07-08 15:00",
       "score": 96,
       "oneLine": "AI 编程工具继续从代码补全走向任务执行：理解目标、改文件、跑验证、解释过程会变成基本能力。",
       "judgment": "这类更新最值得产品经理关注，因为它能把需求讨论更快变成可演示原型；但也会放大错误执行、权限和验收问题。",
@@ -570,7 +570,7 @@
       "badge": "开发工具",
       "title": "Loop才火了六周，AI Coding为什么又开始谈Graph？",
       "source": {
-        "name": "QQ News",
+        "name": "news.qq.com",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBiNnUwVFpCdEliaEJMWm45c1ItanJhUzFHVWlRRFJMTGF6NFdQQXFiajZ2NnR0ZWs3SFlvMFBXY2VZZU9hdVgtaWE4TzVMYWRsY3ktUHZn?oc=5"
       },
       "publishedAt": "2026-08-01 20:42",
@@ -606,7 +606,7 @@
       "badge": "开发工具",
       "title": "Cursor 推出 iOS 端 App，把 AI 编程塞进了手机 - OSCHINA - 开源 × AI · 开发者生态社区",
       "source": {
-        "name": "OSCHINA",
+        "name": "oschina.net",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yOXRJSWdmVzdUMGJSQVFwV0xlXzFRa1ZvUkxYQkpVYm02dWhxa0d4MWFfNTJiMDZUSUxEbldQVVJ2U194akt6WXUyOUx6dkU5RGxQVHA2aVZod2M1X1hTczFIWS1fYlVZaFYxMWVB?oc=5"
       },
       "publishedAt": "2026-06-30 15:00",
@@ -693,16 +693,16 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20260806-03-13bestaitoolsforst",
+      "id": "20260806-03-asusdisplaywidgetc",
       "category": "AI 产品",
       "badge": "应用更新",
-      "title": "13 Best AI Tools for Students 2026: Top Picks Tested & Compared",
+      "title": "ASUS DisplayWidget Center Adds AI Agent Controls",
       "source": {
-        "name": "Memeburn",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5lUG53RDAzNG9tMzBMbm1VTnBlekdRNUZlNkdKd0QtRm5Fa0ZQaV8wSFMxWUNqSWdvOU9pYnVCU21BX2Z3cDBOLUxuLVZ0dTN5NFVNWko1VF9RbnRn?oc=5"
+        "name": "ASUS Pressroom",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORENYaDFMdUlVZVVRU3pDMFNScTFoT05tbG1COHBFM1dab2NsU3lkMEl5a2Qxd29PZ09EdDZNSXZNenJHOFZ4RDMzbVpXOGEtWkw5V181U3E0cHhoUDBiTmxBMmc1VHY0Xy1hRVJEaG0tX09EN0VSZzJjandSSHZmbTl0dFUxSWFpTnNGbGRuN3YtbU54dGRDXw?oc=5"
       },
-      "publishedAt": "2026-08-04 17:59",
-      "score": 90,
+      "publishedAt": "2026-08-06 16:34",
+      "score": 105,
       "oneLine": "AI 应用更新的核心不是“加了 AI”，而是它替用户完成了哪一步、在什么时机介入、用户如何控制。",
       "judgment": "产品经理要看的是任务链路是否真的变短，而不是宣传里的一次成功演示。",
       "capability": "AI 正在进入搜索、写作、设计、会议、浏览器和办公流，把理解、生成、调用工具组合成体验。",
