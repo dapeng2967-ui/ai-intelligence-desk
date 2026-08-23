@@ -2,7 +2,7 @@
   "version": 2,
   "label": "AI Daily Brief",
   "date": "2026 年 8 月 23 日",
-  "updatedAt": "2026-08-23 09:11（北京时间）",
+  "updatedAt": "2026-08-23 14:37（北京时间）",
   "title": "今天值得关注的 AI 情报",
   "summary": "先扫快讯，再看重点判断。内容覆盖海外模型与产品、AI 编程、影像创作、AI 硬件和中文科技媒体信号。",
   "signals": [
@@ -16,7 +16,7 @@
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBrb1M0TWJYZGVTdC15M3IxVFNxZE9yRW1sSV9GNFZQVFJZTnNxMUFxRFpMNEdGWGx1ZGpxVU1tc1hoOTZUcWFXQg?oc=5"
       },
       "publishedAt": "2026-08-22 14:00",
-      "score": 124,
+      "score": 118,
       "oneLine": "这类动态的重点是模型能力边界是否变化：更会推理、更会用工具、更懂多模态，还是成本/速度发生变化。",
       "judgment": "模型新闻不要只看名字和榜单，要追问它新增了哪类真实任务能力，以及是否已经可用、可稳定复现。",
       "capability": "模型能力通常体现在上下文长度、推理、工具调用、多模态输入输出、代码能力、成本和延迟这些维度。",
@@ -102,7 +102,7 @@
       "badge": "中文媒体",
       "title": "谷歌放弃前沿技术追逐 DeepMind或迎大规模裁员潮",
       "source": {
-        "name": "36Kr",
+        "name": "36 Kr",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rOEJ6QVVHUHJHZnV5V0ZQcUxyVTRsUU5UOFktWUNJU2xnZU5VN2JyOHhKSGpXME1PREtXQnpQcFhJMmlLdU5kalZxQlNsT3ZYb3lz?oc=5"
       },
       "publishedAt": "2026-08-13 18:45",
@@ -151,16 +151,16 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20260823-09-enphaseenergy在enph",
+      "id": "20260823-09-美团旗下ai浏览器tabbit上架鸿",
       "category": "AI 产品",
       "badge": "应用更新",
-      "title": "Enphase Energy在Enphase应用程序中推出AI助手，将代理智能引入家庭能源管理",
+      "title": "美团旗下AI浏览器Tabbit上架鸿蒙端，华为账号一键登录+服务卡片让浏览体验更便捷",
       "source": {
-        "name": "Moomoo",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb2NyZ0UwUmI4Nno4RndROVhPUGdKVkdSSWJTRUZpMngwY1YzTGkwdDlVRTNaZW1PajNSaDlfRVlMMk1IaGVIVkg5Yk9wZVlaRkJxS2xHbVhBWU01UThqT1dvVnBRM21zekZ6ZHRyU1pZcWREZ3ZfWXU2RkZfOTh6TlY4SUhRV253eTNnODF4M1RTMlJGTUFPbjVvRWtHNVhpczFFck1FODV6NW9Mbmd2Mw?oc=5"
+        "name": "CSDN",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XVlhxT1p2WlZHdUlaVklRU3RMZlYzTVBlYTJyNlI2YV9sb25Ba3YxOUtKeVJSUXhoSnRkVXNtcnVWWnNvVlFvbTY4a2xQdGU0bUtvWXVsc3FJS28wNVE?oc=5"
       },
-      "publishedAt": "2026-08-20 12:00",
-      "score": 90,
+      "publishedAt": "2026-07-13 15:00",
+      "score": 87,
       "oneLine": "AI 应用更新的核心不是“加了 AI”，而是它替用户完成了哪一步、在什么时机介入、用户如何控制。",
       "judgment": "产品经理要看的是任务链路是否真的变短，而不是宣传里的一次成功演示。",
       "capability": "AI 正在进入搜索、写作、设计、会议、浏览器和办公流，把理解、生成、调用工具组合成体验。",
@@ -195,7 +195,7 @@
         "name": "InvestorPlace",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT09FY2pxMTl5RlkxN1NjdVEzbFJlMWxwMnJzNnJOMGlnTE1waW9RZU1jLXJQdDlua1ZQX3VMQ1lnYVVJUTRzdHgxTkV2M3lDcWlmdlk5VmF3TmZHYUZQZXB2WlNuYVJvZEh0WllaalAwdjQyX1FldjZQc3ZDTndKYjBkRVMxXzdydWZEeS1zVmp5T1oxRnVxNHFiQ3FNWERmNFlhTUdXcDlaODJYYm5XMkFR?oc=5"
       },
-      "publishedAt": "2026-08-21 11:45",
+      "publishedAt": "2026-08-20 15:00",
       "score": 88,
       "oneLine": "AI 硬件的价值不在于塞一个聊天入口，而在于设备能理解状态、场景、传感器和可执行动作。",
       "judgment": "这是你软硬结合背景最该长期关注的方向：端侧、云端和设备上下文的分工，会直接决定体验是否可用。",
@@ -228,7 +228,7 @@
       "badge": "开发工具",
       "title": "AI 圈上演神级互撕，Codex、Claude Code 两位负责人公开对喷",
       "source": {
-        "name": "36 Kr",
+        "name": "36Kr",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9JUGVlUjU2cUVUUjNCR2ZGemJNMkpaVE15NnJaaVk4VDRWelFlV01Vd1NVRHVnVDVKd0VKeVBEXzJFeE5LR3duaERlMGN5Zw?oc=5"
       },
       "publishedAt": "2026-07-12 15:00",
@@ -241,16 +241,16 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20260823-14-美团旗下ai浏览器tabbit上架鸿",
+      "id": "20260823-14-enphaseenergy在enph",
       "category": "AI 产品",
       "badge": "应用更新",
-      "title": "美团旗下AI浏览器Tabbit上架鸿蒙端，华为账号一键登录+服务卡片让浏览体验更便捷",
+      "title": "Enphase Energy在Enphase应用程序中推出AI助手，将代理智能引入家庭能源管理",
       "source": {
-        "name": "CSDN",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XVlhxT1p2WlZHdUlaVklRU3RMZlYzTVBlYTJyNlI2YV9sb25Ba3YxOUtKeVJSUXhoSnRkVXNtcnVWWnNvVlFvbTY4a2xQdGU0bUtvWXVsc3FJS28wNVE?oc=5"
+        "name": "Moomoo",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb2NyZ0UwUmI4Nno4RndROVhPUGdKVkdSSWJTRUZpMngwY1YzTGkwdDlVRTNaZW1PajNSaDlfRVlMMk1IaGVIVkg5Yk9wZVlaRkJxS2xHbVhBWU01UThqT1dvVnBRM21zekZ6ZHRyU1pZcWREZ3ZfWXU2RkZfOTh6TlY4SUhRV253eTNnODF4M1RTMlJGTUFPbjVvRWtHNVhpczFFck1FODV6NW9Mbmd2Mw?oc=5"
       },
-      "publishedAt": "2026-07-13 15:00",
-      "score": 87,
+      "publishedAt": "2026-08-20 12:00",
+      "score": 86,
       "oneLine": "AI 应用更新的核心不是“加了 AI”，而是它替用户完成了哪一步、在什么时机介入、用户如何控制。",
       "judgment": "产品经理要看的是任务链路是否真的变短，而不是宣传里的一次成功演示。",
       "capability": "AI 正在进入搜索、写作、设计、会议、浏览器和办公流，把理解、生成、调用工具组合成体验。",
@@ -300,7 +300,7 @@
       "badge": "开发工具",
       "title": "嵌入式IDE变天：开发正在Agent化",
       "source": {
-        "name": "36 Kr",
+        "name": "36Kr",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1WM0lqX184YThERTg4OGZiMnNiVHBtWTBrVjlvaXB3dDhRMHU0THRlTnhFMUVHVHFyWDFDVUxwQ05SbHB6OEpKSXJnT3dJUQ?oc=5"
       },
       "publishedAt": "2026-08-20 19:52",
@@ -321,7 +321,7 @@
         "name": "电子工程专辑",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9zQkEteDQxUGN3UnpjRGlSSWEwcUdCRW9RSEt2SjY4bDAtNTRrTHB6Z0ZLZVg0TTBHbDZBblpUU1ppNm84N3NTUm1hREJ5U1NzSG5UQmRqVlFxdWFX?oc=5"
       },
-      "publishedAt": "2026-08-12 15:00",
+      "publishedAt": "2026-08-12 17:19",
       "score": 106,
       "oneLine": "AI 编程工具继续从代码补全走向任务执行：理解目标、改文件、跑验证、解释过程会变成基本能力。",
       "judgment": "这类更新最值得产品经理关注，因为它能把需求讨论更快变成可演示原型；但也会放大错误执行、权限和验收问题。",
@@ -498,7 +498,7 @@
       "badge": "模型迭代",
       "title": "Claude Agent重大更新：新增500个超强技能 网友集体直呼太疯狂",
       "source": {
-        "name": "36Kr",
+        "name": "36 Kr",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83ckZLRnhqSUVvakJ2SHpmZ29mWURSV3FUN282UkhjY3BrV1VONUs5OFpULW9JNmhBSXVSZHhWUjk4bHlkdVNodnE5TGU5VXJTUVgw?oc=5"
       },
       "publishedAt": "2026-07-23 00:15",
@@ -666,7 +666,7 @@
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBrb1M0TWJYZGVTdC15M3IxVFNxZE9yRW1sSV9GNFZQVFJZTnNxMUFxRFpMNEdGWGx1ZGpxVU1tc1hoOTZUcWFXQg?oc=5"
       },
       "publishedAt": "2026-08-22 14:00",
-      "score": 124,
+      "score": 118,
       "oneLine": "这类动态的重点是模型能力边界是否变化：更会推理、更会用工具、更懂多模态，还是成本/速度发生变化。",
       "judgment": "模型新闻不要只看名字和榜单，要追问它新增了哪类真实任务能力，以及是否已经可用、可稳定复现。",
       "capability": "模型能力通常体现在上下文长度、推理、工具调用、多模态输入输出、代码能力、成本和延迟这些维度。",
