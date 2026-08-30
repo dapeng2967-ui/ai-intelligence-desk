@@ -2,7 +2,7 @@
   "version": 2,
   "label": "AI Daily Brief",
   "date": "2026 年 8 月 31 日",
-  "updatedAt": "2026-08-31 00:03（北京时间）",
+  "updatedAt": "2026-08-31 04:34（北京时间）",
   "title": "今天值得关注的 AI 情报",
   "summary": "先扫快讯，再看重点判断。内容覆盖海外模型与产品、AI 编程、影像创作、AI 硬件和中文科技媒体信号。",
   "signals": [
@@ -169,16 +169,16 @@
       "askDev": "这个功能依赖哪些用户数据？结果如何解释？用户能否编辑/撤回？成本是否支持高频使用？"
     },
     {
-      "id": "20260831-10-everybusinessshoul",
+      "id": "20260831-10-howtomakeanaiimage",
       "category": "影像/创作",
       "badge": "图像 / 视频",
-      "title": "Every Business Should Experiment With AI Video",
+      "title": "How to make an AI image in 6 quick steps",
       "source": {
-        "name": "inc.com",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNS3pIcXJfMmZuRFQ2TGU1ZVdTakFQVUJLSEtma2x3M29rQ1Raejlud2FySGVKaUFYSldWd1ZRYUJSM1VNU3A4a29pT2hKU09fSk5pcTRKcGlFZmU0YkdNaFZGcFFibWh6R0xtWFdBcWI2UHVKYVV1ajZVSjBnQ25TS0N0NGsycjdEaGp1QVpwbU56eW5NQUFIUkplbng?oc=5"
+        "name": "Runway",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uZzNoZUhMM3RTdlZaa1dhZ3NXdzFWNWxiSlhKUXdMMlhPQThLMUthSVJ0emtuS2phUFhZSWFMYmZfU01QRUZJQlVCUXBTbWl0R0FtSmJFTzJNVnk5bWdr?oc=5"
       },
-      "publishedAt": "2026-08-06 15:00",
-      "score": 86,
+      "publishedAt": "2026-08-21 13:41",
+      "score": 88,
       "oneLine": "影像 AI 的重点正在从单次生成，转向围绕真实素材的整理、改写、包装和多版本创作。",
       "judgment": "对运动相机类产品，机会不是替用户虚构经历，而是帮用户更快找到真实高光、完成表达，并清楚标识 AI 参与部分。",
       "capability": "模型正在增强图像、视频、文字、声音之间的跨模态生成与编辑能力，适合做素材理解、风格化包装和故事板探索。",
@@ -265,7 +265,7 @@
       "title": "12 best v0 alternatives to build web apps",
       "source": {
         "name": "Hostinger",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEWDhXXzBkRW5pa2FWZDg0bF9UWEpTdGg5Q1A2QkxnY1F3WU8ya080cTVFUWM0S0xGcGQzaHJOZk1Vc1dKWFA5bTVEb3h1b1hBdEltanVPS0xhTzVpR1JXeQ?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vbHJDXzZ6cS1oVU1raXJvN2d0X3VJNjAwdTRZaXQzZ0lRWUI2eEpPaGNvWWI4cVVHQjJtUDJMZVg2MW8tdHdrYTlScGVpNXhMS19YWXJ0Q1lhVmljRGVPUmktYXM?oc=5"
       },
       "publishedAt": "2026-08-26 15:00",
       "score": 94,
@@ -277,15 +277,15 @@
       "askDev": "这个功能依赖哪些用户数据？结果如何解释？用户能否编辑/撤回？成本是否支持高频使用？"
     },
     {
-      "id": "20260831-16-midjourneyreview20",
+      "id": "20260831-16-everybusinessshoul",
       "category": "影像/创作",
       "badge": "图像 / 视频",
-      "title": "Midjourney Review 2026: Is It A Good Video & Image AI Generator?",
+      "title": "Every Business Should Experiment With AI Video",
       "source": {
-        "name": "Ventureburn",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9xbTRzZzdralFoUzRtbXFGOTN5aHZVcmNLX1p1RzZSS0ZIanRpb3dScFdQUy1lemlMSGhuWUo0YUF0MDljdHhOTUk0ZU9IbmpEWGhuQ9IBVEFVX3lxTE9xbTRzZzdralFoUzRtbXFGOTN5aHZVcmNLX1p1RzZSS0ZIanRpb3dScFdQUy1lemlMSGhuWUo0YUF0MDljdHhOTUk0ZU9IbmpEWGhuQw?oc=5"
+        "name": "inc.com",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNS3pIcXJfMmZuRFQ2TGU1ZVdTakFQVUJLSEtma2x3M29rQ1Raejlud2FySGVKaUFYSldWd1ZRYUJSM1VNU3A4a29pT2hKU09fSk5pcTRKcGlFZmU0YkdNaFZGcFFibWh6R0xtWFdBcWI2UHVKYVV1ajZVSjBnQ25TS0N0NGsycjdEaGp1QVpwbU56eW5NQUFIUkplbng?oc=5"
       },
-      "publishedAt": "2026-07-28 15:00",
+      "publishedAt": "2026-08-06 15:00",
       "score": 86,
       "oneLine": "影像 AI 的重点正在从单次生成，转向围绕真实素材的整理、改写、包装和多版本创作。",
       "judgment": "对运动相机类产品，机会不是替用户虚构经历，而是帮用户更快找到真实高光、完成表达，并清楚标识 AI 参与部分。",
@@ -421,25 +421,7 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20260831-24-anthropic发布ainativ",
-      "category": "模型/新能力",
-      "badge": "模型迭代",
-      "title": "Anthropic 发布 AI-Native 软件开发流程：时代变了，该换套模式了",
-      "source": {
-        "name": "智源社区",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1nenh0LUpxZUhJMHBoQ2g0WEoxTTJ4UkRSUVpGUHVRcGtKNWhWU3FOLU5pV2RYRktZb1YxOWkxSG4zd0tGQkdhdw?oc=5"
-      },
-      "publishedAt": "2026-08-27 18:10",
-      "score": 97,
-      "oneLine": "这类动态的重点是模型能力边界是否变化：更会推理、更会用工具、更懂多模态，还是成本/速度发生变化。",
-      "judgment": "模型新闻不要只看名字和榜单，要追问它新增了哪类真实任务能力，以及是否已经可用、可稳定复现。",
-      "capability": "模型能力通常体现在上下文长度、推理、工具调用、多模态输入输出、代码能力、成本和延迟这些维度。",
-      "boundary": "发布演示和真实产品可用性不是一回事；还要验证地区、价格、限流、幻觉率、失败恢复和数据安全。",
-      "pmInsight": "你可以把模型更新翻译成需求假设：哪些原来做不了的任务现在可能可做？哪些体验可以从人工流程变成 AI 协助？",
-      "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
-    },
-    {
-      "id": "20260831-25-80的中国消费者在购物前询问ai品牌",
+      "id": "20260831-24-80的中国消费者在购物前询问ai品牌",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "80% 的中国消费者在购物前询问 AI，品牌争夺“AI 选择”",
@@ -457,7 +439,7 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20260831-26-anthropic详解claude的",
+      "id": "20260831-25-anthropic详解claude的",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "Anthropic 详解 Claude 的安全隔离架构：如何在 Web、开发和桌面环境中约束 Agent 行为",
@@ -475,7 +457,7 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20260831-27-三星电子引入anthropiccla",
+      "id": "20260831-26-三星电子引入anthropiccla",
       "category": "AI 编程",
       "badge": "开发工具",
       "title": "三星电子引入Anthropic Claude Code加速芯片设计",
@@ -493,7 +475,7 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20260831-28-claudeopus5发布砍掉了cl",
+      "id": "20260831-27-claudeopus5发布砍掉了cl",
       "category": "AI 编程",
       "badge": "开发工具",
       "title": "Claude Opus 5发布，砍掉了Claude Code 80%的系统提示词",
@@ -511,7 +493,7 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20260831-29-ai大模型外汇交易实验千问最赚钱de",
+      "id": "20260831-28-ai大模型外汇交易实验千问最赚钱de",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "AI大模型外汇交易实验：千问最赚钱，DeepSeek亏最多",
@@ -529,7 +511,7 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20260831-30-anthropic不再是ai圈的信仰",
+      "id": "20260831-29-anthropic不再是ai圈的信仰",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "“Anthropic 不再是 AI 圈的信仰”",
@@ -547,7 +529,7 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20260831-31-智能体蜂群与新的模型经济学",
+      "id": "20260831-30-智能体蜂群与新的模型经济学",
       "category": "AI 编程",
       "badge": "开发工具",
       "title": "智能体蜂群与新的模型经济学",
@@ -565,7 +547,7 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20260831-32-bytedancelaunchesd",
+      "id": "20260831-31-bytedancelaunchesd",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "ByteDance Launches Doubao Work as China’s Tech Giants Pivot to Office AI After Costly Consumer Push",
@@ -583,7 +565,7 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20260831-33-huggingfaceexplore",
+      "id": "20260831-32-huggingfaceexplore",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "Hugging Face Explores $13 Billion Sale a Month After a Rogue OpenAI Agent Hacked It",
@@ -601,7 +583,7 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20260831-34-everythingyouneedt",
+      "id": "20260831-33-everythingyouneedt",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "Everything You Need to Know About Kimi K3, the Latest Model From China to Shake Up AI",
@@ -619,7 +601,7 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20260831-35-openailatestnewsan",
+      "id": "20260831-34-openailatestnewsan",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "OpenAI: Latest news and insights",
@@ -628,6 +610,24 @@
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSUx6MU1ra2JXOEhJSm9vOEt4b3Q4bFphVXlnZ014REhOTmNfNXdOalBsUWJtWTFwUU5ZaUJOTVRZNFotQzVCcUZ6bGFXWWhqbzFIWmNJaVFrWUZPVWVxS2N6UDRrRHdkUGVIVnZiQlgwc1VpeWVZc3Q4NnI1LUN5T0RpV0gtdTlDenc?oc=5"
       },
       "publishedAt": "2026-08-13 15:00",
+      "score": 87,
+      "oneLine": "这类动态的重点是模型能力边界是否变化：更会推理、更会用工具、更懂多模态，还是成本/速度发生变化。",
+      "judgment": "模型新闻不要只看名字和榜单，要追问它新增了哪类真实任务能力，以及是否已经可用、可稳定复现。",
+      "capability": "模型能力通常体现在上下文长度、推理、工具调用、多模态输入输出、代码能力、成本和延迟这些维度。",
+      "boundary": "发布演示和真实产品可用性不是一回事；还要验证地区、价格、限流、幻觉率、失败恢复和数据安全。",
+      "pmInsight": "你可以把模型更新翻译成需求假设：哪些原来做不了的任务现在可能可做？哪些体验可以从人工流程变成 AI 协助？",
+      "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
+    },
+    {
+      "id": "20260831-35-chinaszaiunveilsgl",
+      "category": "模型/新能力",
+      "badge": "模型迭代",
+      "title": "China’s Z.AI Unveils GLM-5.3, Says It Leads Open-Source AI Models in Key Benchmarks",
+      "source": {
+        "name": "一财全球Yicai Global",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdWZHZ09tcnFYb2M4NXZQa2hoT1VOODQxRk1GVHMxRVVBS1lCT1FCYkh0NVVZTzJGQzFKV0tDNDZOelZzWGZOLUFJVGppTjJSU0xOY3A3d2pFNjd0V185aG54Vjc2V21DS0Q0VEptczdVUkxfS2NBRlJ6T3M0ZDh4MHhYbFNFczhWTVhZNWlUTkRWTFo0ZFNXN09QZlh0N0dmVWY1Um00Y2FkVjNjR2dUY3Bn?oc=5"
+      },
+      "publishedAt": "2026-08-14 15:00",
       "score": 87,
       "oneLine": "这类动态的重点是模型能力边界是否变化：更会推理、更会用工具、更懂多模态，还是成本/速度发生变化。",
       "judgment": "模型新闻不要只看名字和榜单，要追问它新增了哪类真实任务能力，以及是否已经可用、可稳定复现。",
