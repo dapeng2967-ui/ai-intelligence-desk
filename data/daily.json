@@ -2,7 +2,7 @@
   "version": 2,
   "label": "AI Daily Brief",
   "date": "2026 年 8 月 31 日",
-  "updatedAt": "2026-08-31 04:34（北京时间）",
+  "updatedAt": "2026-08-31 11:41（北京时间）",
   "title": "今天值得关注的 AI 情报",
   "summary": "先扫快讯，再看重点判断。内容覆盖海外模型与产品、AI 编程、影像创作、AI 硬件和中文科技媒体信号。",
   "signals": [
@@ -139,7 +139,7 @@
       "title": "Cursor Origin 上线，GitHub 的老玩法还够用吗？",
       "source": {
         "name": "雷峰网",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GakkwbFBWalIyWmlRak9WZkJtZ2tCT1AzazJZYlRjVnk1RlRYQngzWnVIQ3BmSll3S1pCb1hzRW5WX1BWaGd4d194YkV1cUk5LWhYMXY1MVFYOVRtS19wd1hITkkwY3ZWZkE?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBIUHRfOVl5SnFoRUtXT251czdQM2lab1pKNGdxanJDZmU4N1MxNmZfS1RhM2FmVEJiSUZKSlE1eDJZLWluT1JxSlpKVC1tbzBRNWF3OWg2ZXotamFvM3dsaGZmc3Bhajg?oc=5"
       },
       "publishedAt": "2026-08-28 15:21",
       "score": 116,
@@ -169,16 +169,16 @@
       "askDev": "这个功能依赖哪些用户数据？结果如何解释？用户能否编辑/撤回？成本是否支持高频使用？"
     },
     {
-      "id": "20260831-10-howtomakeanaiimage",
+      "id": "20260831-10-everybusinessshoul",
       "category": "影像/创作",
       "badge": "图像 / 视频",
-      "title": "How to make an AI image in 6 quick steps",
+      "title": "Every Business Should Experiment With AI Video",
       "source": {
-        "name": "Runway",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uZzNoZUhMM3RTdlZaa1dhZ3NXdzFWNWxiSlhKUXdMMlhPQThLMUthSVJ0emtuS2phUFhZSWFMYmZfU01QRUZJQlVCUXBTbWl0R0FtSmJFTzJNVnk5bWdr?oc=5"
+        "name": "inc.com",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNS3pIcXJfMmZuRFQ2TGU1ZVdTakFQVUJLSEtma2x3M29rQ1Raejlud2FySGVKaUFYSldWd1ZRYUJSM1VNU3A4a29pT2hKU09fSk5pcTRKcGlFZmU0YkdNaFZGcFFibWh6R0xtWFdBcWI2UHVKYVV1ajZVSjBnQ25TS0N0NGsycjdEaGp1QVpwbU56eW5NQUFIUkplbng?oc=5"
       },
-      "publishedAt": "2026-08-21 13:41",
-      "score": 88,
+      "publishedAt": "2026-08-06 15:00",
+      "score": 86,
       "oneLine": "影像 AI 的重点正在从单次生成，转向围绕真实素材的整理、改写、包装和多版本创作。",
       "judgment": "对运动相机类产品，机会不是替用户虚构经历，而是帮用户更快找到真实高光、完成表达，并清楚标识 AI 参与部分。",
       "capability": "模型正在增强图像、视频、文字、声音之间的跨模态生成与编辑能力，适合做素材理解、风格化包装和故事板探索。",
@@ -265,7 +265,7 @@
       "title": "12 best v0 alternatives to build web apps",
       "source": {
         "name": "Hostinger",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vbHJDXzZ6cS1oVU1raXJvN2d0X3VJNjAwdTRZaXQzZ0lRWUI2eEpPaGNvWWI4cVVHQjJtUDJMZVg2MW8tdHdrYTlScGVpNXhMS19YWXJ0Q1lhVmljRGVPUmktYXM?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5IUGl0dXZBQUpXemRyVlQxdllUd0xGX0pQNDM5RWxoZS1XUEN3WklMLWhjUk9vaTMxNUhvRnVvM2UtS3J2M1Q5QTFvMFFBTGY3Q09JY1FVYkE4WjhCZ1hDbGxsUGs?oc=5"
       },
       "publishedAt": "2026-08-26 15:00",
       "score": 94,
@@ -277,15 +277,15 @@
       "askDev": "这个功能依赖哪些用户数据？结果如何解释？用户能否编辑/撤回？成本是否支持高频使用？"
     },
     {
-      "id": "20260831-16-everybusinessshoul",
+      "id": "20260831-16-midjourneyreview20",
       "category": "影像/创作",
       "badge": "图像 / 视频",
-      "title": "Every Business Should Experiment With AI Video",
+      "title": "Midjourney Review 2026: Is It A Good Video & Image AI Generator?",
       "source": {
-        "name": "inc.com",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNS3pIcXJfMmZuRFQ2TGU1ZVdTakFQVUJLSEtma2x3M29rQ1Raejlud2FySGVKaUFYSldWd1ZRYUJSM1VNU3A4a29pT2hKU09fSk5pcTRKcGlFZmU0YkdNaFZGcFFibWh6R0xtWFdBcWI2UHVKYVV1ajZVSjBnQ25TS0N0NGsycjdEaGp1QVpwbU56eW5NQUFIUkplbng?oc=5"
+        "name": "Ventureburn",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9xbTRzZzdralFoUzRtbXFGOTN5aHZVcmNLX1p1RzZSS0ZIanRpb3dScFdQUy1lemlMSGhuWUo0YUF0MDljdHhOTUk0ZU9IbmpEWGhuQ9IBVEFVX3lxTE9xbTRzZzdralFoUzRtbXFGOTN5aHZVcmNLX1p1RzZSS0ZIanRpb3dScFdQUy1lemlMSGhuWUo0YUF0MDljdHhOTUk0ZU9IbmpEWGhuQw?oc=5"
       },
-      "publishedAt": "2026-08-06 15:00",
+      "publishedAt": "2026-07-28 15:00",
       "score": 86,
       "oneLine": "影像 AI 的重点正在从单次生成，转向围绕真实素材的整理、改写、包装和多版本创作。",
       "judgment": "对运动相机类产品，机会不是替用户虚构经历，而是帮用户更快找到真实高光、完成表达，并清楚标识 AI 参与部分。",
