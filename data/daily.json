@@ -2,7 +2,7 @@
   "version": 2,
   "label": "AI Daily Brief",
   "date": "2026 年 9 月 5 日",
-  "updatedAt": "2026-09-05 17:57（北京时间）",
+  "updatedAt": "2026-09-05 22:35（北京时间）",
   "title": "今天值得关注的 AI 情报",
   "summary": "先扫快讯，再看重点判断。内容覆盖海外模型与产品、AI 编程、影像创作、AI 硬件和中文科技媒体信号。",
   "signals": [
@@ -70,7 +70,7 @@
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BNjFoYlJzM0gzcF91Tzc0dGR3QlRNZWRZcFFjREtldDZERkFHeU9zZVYtVDVyNUdNLTJUSjdPczV1R2w3NWRmWFVXZEJXaV9RTEplNTV4LUg5NEJQWS1RUlNZVW5TUjlLVkVYNERpZk5TTGVh?oc=5"
       },
       "publishedAt": "2026-09-04 18:01",
-      "score": 106,
+      "score": 100,
       "oneLine": "影像 AI 的重点正在从单次生成，转向围绕真实素材的整理、改写、包装和多版本创作。",
       "judgment": "对运动相机类产品，机会不是替用户虚构经历，而是帮用户更快找到真实高光、完成表达，并清楚标识 AI 参与部分。",
       "capability": "模型正在增强图像、视频、文字、声音之间的跨模态生成与编辑能力，适合做素材理解、风格化包装和故事板探索。",
@@ -156,7 +156,7 @@
       "badge": "图像 / 视频",
       "title": "Top 15 neural networks for video creation: the best solutions from Google Veo 3.1 to Seedance",
       "source": {
-        "name": "incrypted.com",
+        "name": "incrypted",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5idjhUQlhtRUxxek9UZTdZTVd6dllJVXY4WUJOY2V1SEIycnV6MGs3Um1ESm8wZFRWV3p3d2JHWlJPS0ZLd1lhUEhreE1FUEFLV2xDNUw5ejVGRUpidUVMNg?oc=5"
       },
       "publishedAt": "2026-08-19 15:00",
@@ -228,7 +228,7 @@
       "badge": "应用更新",
       "title": "8 Best AI Coding Assistants by Job [Updated August 2026]",
       "source": {
-        "name": "Augment Code",
+        "name": "augmentcode.com",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSnA4TElnNUJ2QjI2d0RMSW9Vb3ROUTRLNnpKYUNqbEk3MHRiaTk5ZUxVQ09SNE9aOGJDZWxiMnlWNjFpcFFSSEtYT2UxOGZlVnBzc2RRbmhCSEkxZlJQUThCdDFrRkZvSGxHZElFeGt5WGNUWkJScGJhbFBBSnludTk3MS1JWEV3REx3cG5n?oc=5"
       },
       "publishedAt": "2026-08-30 15:00",
@@ -480,7 +480,7 @@
       "badge": "模型迭代",
       "title": "Alibaba says Qwen3.8-Max coded autonomously for 16 days",
       "source": {
-        "name": "infoworld.com",
+        "name": "InfoWorld",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV1M3ZUQyd3lacDNzdHpTS2tiRHdwTVNTV0Ryc2MwWF9XNVBwRGJBelZ6UVdUMWtyT1JSbFRhaG1qT1FUY0pDN1JnajFSQzhqekw4S2xkeERfZDNMR2dYSHBCTHNtZGlKOWd5V0dNUU9vT09ZR1VTdHh0bmRmY0hCQVBJUFBNeHgxdkJhNHlzVlRRUzBrMzVtYV80d2NldHBoSTc0NTlCYXUtR2hpY2lnai1R?oc=5"
       },
       "publishedAt": "2026-08-03 15:00",
@@ -601,25 +601,7 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20260905-34-claudevsgeminismar",
-      "category": "AI 产品",
-      "badge": "应用更新",
-      "title": "Claude vs. Gemini: Smarter Brains or Better Features?",
-      "source": {
-        "name": "pcmag.com",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ2t6TUZnSmg4TExUTjkzV09KMC1tMWUwSzU1QkpnSElYSXZtV1BVUFBpZzBrMjdvU0hQMUVYaWhPUk9WdWxJdzJYZ2FFem5LemROdENGeno2ek1QNkdTWkNCSEtkeDkzYlREeW1hTGxsaHBEbzl4X3ltYzFBQ2VQdXZSRUNsdFJ5T3JudQ?oc=5"
-      },
-      "publishedAt": "2026-09-02 20:00",
-      "score": 90,
-      "oneLine": "AI 应用更新的核心不是“加了 AI”，而是它替用户完成了哪一步、在什么时机介入、用户如何控制。",
-      "judgment": "产品经理要看的是任务链路是否真的变短，而不是宣传里的一次成功演示。",
-      "capability": "AI 正在进入搜索、写作、设计、会议、浏览器和办公流，把理解、生成、调用工具组合成体验。",
-      "boundary": "如果用户不能理解输入范围、不能修改结果、不能拒绝主动建议，AI 功能很容易变成打扰或不可信。",
-      "pmInsight": "拆解竞品时用四问：用户任务是什么、AI 替哪一步、失败怎么纠正、隐私和成本怎么交代。",
-      "askDev": "这个功能依赖哪些用户数据？结果如何解释？用户能否编辑/撤回？成本是否支持高频使用？"
-    },
-    {
-      "id": "20260905-35-openailatestnewsan",
+      "id": "20260905-34-openailatestnewsan",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "OpenAI: Latest news and insights",
@@ -637,7 +619,7 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20260905-36-chinaszaiunveilsgl",
+      "id": "20260905-35-chinaszaiunveilsgl",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "China’s Z.AI Unveils GLM-5.3, Says It Leads Open-Source AI Models in Key Benchmarks",
@@ -646,6 +628,24 @@
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdWZHZ09tcnFYb2M4NXZQa2hoT1VOODQxRk1GVHMxRVVBS1lCT1FCYkh0NVVZTzJGQzFKV0tDNDZOelZzWGZOLUFJVGppTjJSU0xOY3A3d2pFNjd0V185aG54Vjc2V21DS0Q0VEptczdVUkxfS2NBRlJ6T3M0ZDh4MHhYbFNFczhWTVhZNWlUTkRWTFo0ZFNXN09QZlh0N0dmVWY1Um00Y2FkVjNjR2dUY3Bn?oc=5"
       },
       "publishedAt": "2026-08-14 15:00",
+      "score": 87,
+      "oneLine": "这类动态的重点是模型能力边界是否变化：更会推理、更会用工具、更懂多模态，还是成本/速度发生变化。",
+      "judgment": "模型新闻不要只看名字和榜单，要追问它新增了哪类真实任务能力，以及是否已经可用、可稳定复现。",
+      "capability": "模型能力通常体现在上下文长度、推理、工具调用、多模态输入输出、代码能力、成本和延迟这些维度。",
+      "boundary": "发布演示和真实产品可用性不是一回事；还要验证地区、价格、限流、幻觉率、失败恢复和数据安全。",
+      "pmInsight": "你可以把模型更新翻译成需求假设：哪些原来做不了的任务现在可能可做？哪些体验可以从人工流程变成 AI 协助？",
+      "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
+    },
+    {
+      "id": "20260905-36-gemini37flash突袭发布谷",
+      "category": "模型/新能力",
+      "badge": "模型迭代",
+      "title": "Gemini 3.7 Flash突袭发布 谷歌AI紧急换帅后首个大动作 内部派系斗争真相曝光",
+      "source": {
+        "name": "36 Kr",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jTXVxZFRVRHJqaWlyNjRiNlRJSG1wVVpBa29tLUNCV0NiYkJfdE90MHgxWURqYjg0TUhMTTVqeW5zYkdVSWhpYmd3ZUpZMkhuN2VV?oc=5"
+      },
+      "publishedAt": "2026-08-13 15:00",
       "score": 87,
       "oneLine": "这类动态的重点是模型能力边界是否变化：更会推理、更会用工具、更懂多模态，还是成本/速度发生变化。",
       "judgment": "模型新闻不要只看名字和榜单，要追问它新增了哪类真实任务能力，以及是否已经可用、可稳定复现。",
