@@ -2,7 +2,7 @@
   "version": 2,
   "label": "AI Daily Brief",
   "date": "2026 年 9 月 10 日",
-  "updatedAt": "2026-09-10 18:37（北京时间）",
+  "updatedAt": "2026-09-10 23:50（北京时间）",
   "title": "今天值得关注的 AI 情报",
   "summary": "先扫快讯，再看重点判断。内容覆盖海外模型与产品、AI 编程、影像创作、AI 硬件和中文科技媒体信号。",
   "signals": [
@@ -30,7 +30,7 @@
       "badge": "开发工具",
       "title": "坚决不用行业标准AGENTS.md，Claude Code惹来“封杀令”：Anthropic终于回应了，但开发者更气了",
       "source": {
-        "name": "InfoQ-CN",
+        "name": "infoq.cn",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GVVB1MmtYa1gxN2RDaXR3NzEtMnQ2eTNpNEFuS0FBTkstcEZ1YlFPVGM3YnFxUEFpbFZscE5zakIyZGZqU190VUpKLXB2S2VsSFRFeG40UzEwNGJUbVE?oc=5"
       },
       "publishedAt": "2026-08-31 15:00",
@@ -43,15 +43,15 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20260910-03-metalaunchesaiagen",
+      "id": "20260910-03-introducingmusethe",
       "category": "AI 产品",
       "badge": "应用更新",
-      "title": "Meta launches AI agent that can access other apps to send emails, make payments",
+      "title": "Introducing Muse: The World’s First Personal AI Agent Built for Everyone",
       "source": {
-        "name": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS195TVZPeEJJbzNYTEZ0dnI4WGxOWXF2ZlRmbDEyU1VtWnFsd012VXVDd01mRHY3Y3lDOW9pRXRYSXR6R2NqYVM3R0xwMURjZElSZHVkckZidjNoWTh5OWlNWkZGUGJpWnpDSUhUOUxBUEZDTVpwZjFXemxIdTlvanpSMXF2MXo1UkNtN2UtZVdfX3J2ZTdCekREbUxkaFo1MVpLakxOT0ZaeUVoMlhlb2E0Y0dfV2g0bXRNbw?oc=5"
+        "name": "meta.com",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZUDMxR1V6bFBPZE1YZloyT2RYdlVOMUpsUlB1TzV6NEFuQ3VMbWw1dkE3QTJCRkp1UGllZDBuUzJYd3c4aU42bkdoWWhyQVVKbzlibFhUdFpJd2diVUJNRWhDXzlBM1ROUlA3YXp5TWFiOU9JeE1tUNIBfkFVX3lxTE9zanY0cDdYaU0zZ3FpdWdvUVI0QWlEUDZ5X3VDTXV4bWJoRDJSZlJfZU1DZHlPcm1zU2NoR1RtZTZfQTVHVThtTEpscjF4X0ZtdGMwU21zUmxPMWJ6OHc1T1VyRk5iUDlmWUItZEtfZkxvcE5wNVlyZ3ItSUM2QQ?oc=5"
       },
-      "publishedAt": "2026-09-09 05:29",
+      "publishedAt": "2026-09-09 03:00",
       "score": 99,
       "oneLine": "AI 应用更新的核心不是“加了 AI”，而是它替用户完成了哪一步、在什么时机介入、用户如何控制。",
       "judgment": "产品经理要看的是任务链路是否真的变短，而不是宣传里的一次成功演示。",
@@ -133,15 +133,15 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20260910-08-introducingmusethe",
+      "id": "20260910-08-metalaunchesaiagen",
       "category": "AI 产品",
       "badge": "应用更新",
-      "title": "Introducing Muse: The World’s First Personal AI Agent Built for Everyone",
+      "title": "Meta launches AI agent that can access other apps to send emails, make payments",
       "source": {
-        "name": "meta.com",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZUDMxR1V6bFBPZE1YZloyT2RYdlVOMUpsUlB1TzV6NEFuQ3VMbWw1dkE3QTJCRkp1UGllZDBuUzJYd3c4aU42bkdoWWhyQVVKbzlibFhUdFpJd2diVUJNRWhDXzlBM1ROUlA3YXp5TWFiOU9JeE1tUNIBfkFVX3lxTE9zanY0cDdYaU0zZ3FpdWdvUVI0QWlEUDZ5X3VDTXV4bWJoRDJSZlJfZU1DZHlPcm1zU2NoR1RtZTZfQTVHVThtTEpscjF4X0ZtdGMwU21zUmxPMWJ6OHc1T1VyRk5iUDlmWUItZEtfZkxvcE5wNVlyZ3ItSUM2QQ?oc=5"
+        "name": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS195TVZPeEJJbzNYTEZ0dnI4WGxOWXF2ZlRmbDEyU1VtWnFsd012VXVDd01mRHY3Y3lDOW9pRXRYSXR6R2NqYVM3R0xwMURjZElSZHVkckZidjNoWTh5OWlNWkZGUGJpWnpDSUhUOUxBUEZDTVpwZjFXemxIdTlvanpSMXF2MXo1UkNtN2UtZVdfX3J2ZTdCekREbUxkaFo1MVpLakxOT0ZaeUVoMlhlb2E0Y0dfV2g0bXRNbw?oc=5"
       },
-      "publishedAt": "2026-09-09 03:00",
+      "publishedAt": "2026-09-09 05:29",
       "score": 99,
       "oneLine": "AI 应用更新的核心不是“加了 AI”，而是它替用户完成了哪一步、在什么时机介入、用户如何控制。",
       "judgment": "产品经理要看的是任务链路是否真的变短，而不是宣传里的一次成功演示。",
@@ -210,7 +210,7 @@
       "badge": "开发工具",
       "title": "70%项目注定被砍？Claude Code成功背后，Anthropic养了一支“失败者”团队",
       "source": {
-        "name": "华尔街见闻",
+        "name": "wallstreetcn.com",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tdTY2ODdia1NjRUx4RWk3MlBwSFlTcFpIbUNNNkVocGxpS2pqXy1sLWhKQzF1WnJmekh2RlBEZUVqdFBiOV9wcDFkR2JDTzdhendn?oc=5"
       },
       "publishedAt": "2026-09-08 19:05",
@@ -282,7 +282,7 @@
       "badge": "开发工具",
       "title": "AI 圈上演神级互撕！Codex、Claude Code 两位负责人公开对喷",
       "source": {
-        "name": "InfoQ-CN",
+        "name": "infoq.cn",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xNnVuX1hqNDFNMTVNcXFibGlyYUx0QXpIVTZqVklCNVJsdUotNm5xZ1Z1NFB4S2JQUzIyc1NCZEdmeXJCVWZ2VmlnSXFMb1M5ZENoLTNtaFkxaEpGZWc?oc=5"
       },
       "publishedAt": "2026-08-14 15:00",
@@ -385,7 +385,25 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20260910-22-御三家格局松动google和meta",
+      "id": "20260910-22-openaisgenerationa",
+      "category": "模型/新能力",
+      "badge": "模型迭代",
+      "title": "OpenAI’s “generational leap” with GPT-6 Astra",
+      "source": {
+        "name": "The Rundown AI",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbElnWUk5cHM0aENRNUliZVZacHg2amsyZTVKZlJ6ZEo2dUZxU1ZIb21sb01DRmdoeC04V0c5V0pnd0phZmZmVFhlcjNqMDZqSEQ0emo5eGJRRmN5cWFETk9naGV5LXBEcG9aY3dRbWJ0NjJ1RmNIMGx6NTJUa0s5NENB?oc=5"
+      },
+      "publishedAt": "2026-09-04 20:05",
+      "score": 97,
+      "oneLine": "这类动态的重点是模型能力边界是否变化：更会推理、更会用工具、更懂多模态，还是成本/速度发生变化。",
+      "judgment": "模型新闻不要只看名字和榜单，要追问它新增了哪类真实任务能力，以及是否已经可用、可稳定复现。",
+      "capability": "模型能力通常体现在上下文长度、推理、工具调用、多模态输入输出、代码能力、成本和延迟这些维度。",
+      "boundary": "发布演示和真实产品可用性不是一回事；还要验证地区、价格、限流、幻觉率、失败恢复和数据安全。",
+      "pmInsight": "你可以把模型更新翻译成需求假设：哪些原来做不了的任务现在可能可做？哪些体验可以从人工流程变成 AI 协助？",
+      "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
+    },
+    {
+      "id": "20260910-23-御三家格局松动google和meta",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "御三家格局松动：Google和Meta同日发布新模型，第三名不再稳了？",
@@ -403,12 +421,12 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20260910-23-中国ai模型监测升级加速用量猛增云端",
+      "id": "20260910-24-中国ai模型监测升级加速用量猛增云端",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "中国AI模型监测：升级加速、用量猛增，云端进入新一轮上行周期",
       "source": {
-        "name": "华尔街见闻",
+        "name": "wallstreetcn.com",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvaFdQQjd3X1dMM3NpdU5MOU5qc1hJalJVcWQwZWIyRDNhaXlPc09OVmNKWHlhWnNEbEEtVE0xdU1xQjBqdnFSTkxiYWt2S3JUN3RN?oc=5"
       },
       "publishedAt": "2026-09-01 10:57",
@@ -421,12 +439,30 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20260910-24-anthropic详解claude的",
+      "id": "20260910-25-whataimodelscanyou",
+      "category": "模型/新能力",
+      "badge": "模型迭代",
+      "title": "What AI Models Can You Use in China? 2026",
+      "source": {
+        "name": "Digital in Asia",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1zcS1WbEI0UzdueTJMZnN6OGJQQm1EZUxxcHg3N3dueVpnZ3VOSVBwYnBGS2Rzekkzd3o2MjVGN2F0WVltZnM5REEyMHJrSmIzWEwxMW54bVBtbnhmSlM5Ml81aEtueHZrTjdN?oc=5"
+      },
+      "publishedAt": "2026-09-03 14:16",
+      "score": 97,
+      "oneLine": "这类动态的重点是模型能力边界是否变化：更会推理、更会用工具、更懂多模态，还是成本/速度发生变化。",
+      "judgment": "模型新闻不要只看名字和榜单，要追问它新增了哪类真实任务能力，以及是否已经可用、可稳定复现。",
+      "capability": "模型能力通常体现在上下文长度、推理、工具调用、多模态输入输出、代码能力、成本和延迟这些维度。",
+      "boundary": "发布演示和真实产品可用性不是一回事；还要验证地区、价格、限流、幻觉率、失败恢复和数据安全。",
+      "pmInsight": "你可以把模型更新翻译成需求假设：哪些原来做不了的任务现在可能可做？哪些体验可以从人工流程变成 AI 协助？",
+      "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
+    },
+    {
+      "id": "20260910-26-anthropic详解claude的",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "Anthropic 详解 Claude 的安全隔离架构：如何在 Web、开发和桌面环境中约束 Agent 行为",
       "source": {
-        "name": "InfoQ-CN",
+        "name": "infoq.cn",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBRc3RQbzdVY0RSX2ZQN1FsWVFrWkMtckpienRSam1WU2E5a2NIZjlsRGh2aWtTV1lIUEU0OEVxQ296dklsRHlRVXNlbTZVYjJKOWx2YWJGVE9sdm1xSnc?oc=5"
       },
       "publishedAt": "2026-08-03 15:00",
@@ -439,12 +475,12 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20260910-25-大手笔openai全面开源codex",
+      "id": "20260910-27-大手笔openai全面开源codex",
       "category": "AI 编程",
       "badge": "开发工具",
       "title": "大手笔！OpenAI全面开源Codex Harness",
       "source": {
-        "name": "华尔街见闻",
+        "name": "wallstreetcn.com",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5rNVRjTjJtTTJVZjM4SlJqMDJfT0xMaXIyY3A2eVRlWnVWc1BKUVNRb1dxcE1CS2g5aWZDc0pINk56MUJ2dnBDOUc4bWlWaDRKaGFR?oc=5"
       },
       "publishedAt": "2026-08-21 15:00",
@@ -455,42 +491,6 @@
       "boundary": "不能把它当成无人值守研发。复杂架构、隐私数据、生产发布、删除操作仍需要明确权限、检查点和人工确认。",
       "pmInsight": "你可以开始把 PRD 写成可执行任务：目标、输入、验收条件、失败回退，而不是只写页面和功能点。",
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
-    },
-    {
-      "id": "20260910-26-alibabasaysqwen38m",
-      "category": "模型/新能力",
-      "badge": "模型迭代",
-      "title": "Alibaba says Qwen3.8-Max coded autonomously for 16 days",
-      "source": {
-        "name": "InfoWorld",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV1M3ZUQyd3lacDNzdHpTS2tiRHdwTVNTV0Ryc2MwWF9XNVBwRGJBelZ6UVdUMWtyT1JSbFRhaG1qT1FUY0pDN1JnajFSQzhqekw4S2xkeERfZDNMR2dYSHBCTHNtZGlKOWd5V0dNUU9vT09ZR1VTdHh0bmRmY0hCQVBJUFBNeHgxdkJhNHlzVlRRUzBrMzVtYV80d2NldHBoSTc0NTlCYXUtR2hpY2lnai1R?oc=5"
-      },
-      "publishedAt": "2026-08-03 15:00",
-      "score": 95,
-      "oneLine": "这类动态的重点是模型能力边界是否变化：更会推理、更会用工具、更懂多模态，还是成本/速度发生变化。",
-      "judgment": "模型新闻不要只看名字和榜单，要追问它新增了哪类真实任务能力，以及是否已经可用、可稳定复现。",
-      "capability": "模型能力通常体现在上下文长度、推理、工具调用、多模态输入输出、代码能力、成本和延迟这些维度。",
-      "boundary": "发布演示和真实产品可用性不是一回事；还要验证地区、价格、限流、幻觉率、失败恢复和数据安全。",
-      "pmInsight": "你可以把模型更新翻译成需求假设：哪些原来做不了的任务现在可能可做？哪些体验可以从人工流程变成 AI 协助？",
-      "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
-    },
-    {
-      "id": "20260910-27-teslabringsbytedan",
-      "category": "模型/新能力",
-      "badge": "模型迭代",
-      "title": "Tesla brings ByteDance's Doubao AI model to its cars in China",
-      "source": {
-        "name": "CnEVPost",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsdUl4X1RyWmR0TEtXZWk3TnNTN3laZkI3R3JPSFdjNlpRaHQ5czRsVTN1UXdaOTlnU09QYWpQamJyX2FoMDRGejJVc0dQLUhCTEZNSnVJemgxaHloQ3ZFMXBVcEFTV243Sk1yVm1tMFExbHNl?oc=5"
-      },
-      "publishedAt": "2026-07-31 15:00",
-      "score": 95,
-      "oneLine": "这类动态的重点是模型能力边界是否变化：更会推理、更会用工具、更懂多模态，还是成本/速度发生变化。",
-      "judgment": "模型新闻不要只看名字和榜单，要追问它新增了哪类真实任务能力，以及是否已经可用、可稳定复现。",
-      "capability": "模型能力通常体现在上下文长度、推理、工具调用、多模态输入输出、代码能力、成本和延迟这些维度。",
-      "boundary": "发布演示和真实产品可用性不是一回事；还要验证地区、价格、限流、幻觉率、失败恢复和数据安全。",
-      "pmInsight": "你可以把模型更新翻译成需求假设：哪些原来做不了的任务现在可能可做？哪些体验可以从人工流程变成 AI 协助？",
-      "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
       "id": "20260910-28-马斯克的猎物cursor的宿命",
@@ -516,7 +516,7 @@
       "badge": "开发工具",
       "title": "Cursor一夜“干掉了”GitHub",
       "source": {
-        "name": "华尔街见闻",
+        "name": "wallstreetcn.com",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE82N2lyb0g1eWJVd2d0LWdPejBFSGozb1BFYjU4R2cxcC1GVDF6T2FFZUwyODRzU2Ria1NVX2V2TG03VXdzcFJDVGlKQW5WS2VaNDlB?oc=5"
       },
       "publishedAt": "2026-08-18 15:00",
@@ -680,7 +680,7 @@
       "badge": "开发工具",
       "title": "坚决不用行业标准AGENTS.md，Claude Code惹来“封杀令”：Anthropic终于回应了，但开发者更气了",
       "source": {
-        "name": "InfoQ-CN",
+        "name": "infoq.cn",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GVVB1MmtYa1gxN2RDaXR3NzEtMnQ2eTNpNEFuS0FBTkstcEZ1YlFPVGM3YnFxUEFpbFZscE5zakIyZGZqU190VUpKLXB2S2VsSFRFeG40UzEwNGJUbVE?oc=5"
       },
       "publishedAt": "2026-08-31 15:00",
@@ -693,15 +693,15 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20260910-03-metalaunchesaiagen",
+      "id": "20260910-03-introducingmusethe",
       "category": "AI 产品",
       "badge": "应用更新",
-      "title": "Meta launches AI agent that can access other apps to send emails, make payments",
+      "title": "Introducing Muse: The World’s First Personal AI Agent Built for Everyone",
       "source": {
-        "name": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS195TVZPeEJJbzNYTEZ0dnI4WGxOWXF2ZlRmbDEyU1VtWnFsd012VXVDd01mRHY3Y3lDOW9pRXRYSXR6R2NqYVM3R0xwMURjZElSZHVkckZidjNoWTh5OWlNWkZGUGJpWnpDSUhUOUxBUEZDTVpwZjFXemxIdTlvanpSMXF2MXo1UkNtN2UtZVdfX3J2ZTdCekREbUxkaFo1MVpLakxOT0ZaeUVoMlhlb2E0Y0dfV2g0bXRNbw?oc=5"
+        "name": "meta.com",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZUDMxR1V6bFBPZE1YZloyT2RYdlVOMUpsUlB1TzV6NEFuQ3VMbWw1dkE3QTJCRkp1UGllZDBuUzJYd3c4aU42bkdoWWhyQVVKbzlibFhUdFpJd2diVUJNRWhDXzlBM1ROUlA3YXp5TWFiOU9JeE1tUNIBfkFVX3lxTE9zanY0cDdYaU0zZ3FpdWdvUVI0QWlEUDZ5X3VDTXV4bWJoRDJSZlJfZU1DZHlPcm1zU2NoR1RtZTZfQTVHVThtTEpscjF4X0ZtdGMwU21zUmxPMWJ6OHc1T1VyRk5iUDlmWUItZEtfZkxvcE5wNVlyZ3ItSUM2QQ?oc=5"
       },
-      "publishedAt": "2026-09-09 05:29",
+      "publishedAt": "2026-09-09 03:00",
       "score": 99,
       "oneLine": "AI 应用更新的核心不是“加了 AI”，而是它替用户完成了哪一步、在什么时机介入、用户如何控制。",
       "judgment": "产品经理要看的是任务链路是否真的变短，而不是宣传里的一次成功演示。",
