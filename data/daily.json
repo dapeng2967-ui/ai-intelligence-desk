@@ -2,7 +2,7 @@
   "version": 2,
   "label": "AI Daily Brief",
   "date": "2026 年 9 月 19 日",
-  "updatedAt": "2026-09-19 18:19（北京时间）",
+  "updatedAt": "2026-09-19 23:22（北京时间）",
   "title": "今天值得关注的 AI 情报",
   "summary": "先扫快讯，再看重点判断。内容覆盖海外模型与产品、AI 编程、影像创作、AI 硬件和中文科技媒体信号。",
   "signals": [
@@ -12,7 +12,7 @@
       "badge": "模型迭代",
       "title": "Claude“主导”Anthropic 26%的AI研发、3万Agent同时运行：当AI开始“造AI”，头部AI公司的RSI路线正在分化",
       "source": {
-        "name": "InfoQ-CN",
+        "name": "infoq.cn",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wTzUzb1hHVGRNN096LUxRNUNPTjY1c3dyanlhV1BOaUVMekJyRTd0QjVNUm5qQlhVSExOOFo5VzcwNkhLNjBsRDBQLW1DaHlwekk4VnEtcEJCUQ?oc=5"
       },
       "publishedAt": "2026-09-18 17:01",
@@ -79,16 +79,16 @@
       "askDev": "我们能否保留真实素材与 AI 生成素材的链路？能否让用户关闭、回退或标识 AI 修改？弱网/端侧能做哪部分？"
     },
     {
-      "id": "20260919-05-metareportedlyplan",
+      "id": "20260919-05-lattepandalaunches",
       "category": "AI 硬件",
       "badge": "端侧 / 设备",
-      "title": "Meta reportedly plans camera-free smart glasses as privacy concerns grow",
+      "title": "LattePanda Launches the LattePanda Mu Ultra: A Micro x86 Compute Module for On-Device AI",
       "source": {
-        "name": "Mashable",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1NWE44T3Q3aVdrLVJMSzZQUHFzQms5M1N1cFZNeXdWeDEwX2dWVE1NOGg5cXhvUnVuNkFhV29XcDktcUF0TUR5aUdva0VneVR5UFpyVS01MVFJR2w4SmVOSG1aVGpxNk1GaGJ5T1NUT2cwMEdBV1FoNg?oc=5"
+        "name": "TechPowerUp",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMFBUbk5xa3JyN00xMzhmak5UQk5GTUlmVlFWcVUtODdIOTR5M0p5ZTJkY1JZSUFybC1WNjBCdWtabnBwM0RSajYyMEdHTVdaQUkwb2doNWltMjFhc213SG1zX1JEdzhDeWJiZkRzOG01amFRWXpfSU9SbEhEbjViMVZUN21WMmZCalR1aFNfb1k2UEpQdmRiNzZSNXF5bDhudlQyazdrQmJJaVR4ME9tVmdxa0xwTTMzU3k1dHVBa9IBxAFBVV95cUxNNGVnVkFTV1FzeHJQakVwd2xWZWVlNHpBcm1RRnRRMmQ5Rm1kajYya2VodEM4Q0NHX29uOXJIUi1Bck93MFMzeDkyR2Qxc2ZFMEd6UXhpOTVhdFJFWHVTZUFKenN4c1hSZkZ5aXh6MW5xeXpJTGVITXluVW9hUWoxLVNGckUyWkl5c0t1bjQ5YzFSclJ5eTFNTVo2eHBjLXZKc0RXVTJNTUd2UkVSZzBKYnpTRzFET2J1blVUUDhTM1QtdU5R?oc=5"
       },
-      "publishedAt": "2026-09-15 15:00",
-      "score": 91,
+      "publishedAt": "2026-09-08 15:00",
+      "score": 92,
       "oneLine": "AI 硬件的价值不在于塞一个聊天入口，而在于设备能理解状态、场景、传感器和可执行动作。",
       "judgment": "这是你软硬结合背景最该长期关注的方向：端侧、云端和设备上下文的分工，会直接决定体验是否可用。",
       "capability": "端侧模型、传感器理解、语音交互和云端复杂推理正在组合成新的设备体验。",
@@ -138,11 +138,11 @@
       "badge": "开发工具",
       "title": "9 Best AI Coding Tools in 2026: IDEs, Agents, & Copilots Compared",
       "source": {
-        "name": "Memeburn",
+        "name": "memeburn.com",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zQlY0TjY5aFBTMjMyX04wZjFoRm1leXI4NFpWTm8xLWxZcWswLUJBbmNBc0gzN242YWh2MHBLNHA2X0hZNmlDa0twZXpfaGZmZmtEQQ?oc=5"
       },
       "publishedAt": "2026-09-16 19:56",
-      "score": 116,
+      "score": 112,
       "oneLine": "AI 编程工具继续从代码补全走向任务执行：理解目标、改文件、跑验证、解释过程会变成基本能力。",
       "judgment": "这类更新最值得产品经理关注，因为它能把需求讨论更快变成可演示原型；但也会放大错误执行、权限和验收问题。",
       "capability": "能力边界正在从“写一段代码”推进到“处理一个小任务”。真正要看的是它是否能稳定读懂上下文、定位文件、修改后自检。",
@@ -157,7 +157,7 @@
       "title": "Introducing Muse: The World’s First Personal AI Agent Built for Everyone",
       "source": {
         "name": "meta.com",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZUDMxR1V6bFBPZE1YZloyT2RYdlVOMUpsUlB1TzV6NEFuQ3VMbWw1dkE3QTJCRkp1UGllZDBuUzJYd3c4aU42bkdoWWhyQVVKbzlibFhUdFpJd2diVUJNRWhDXzlBM1ROUlA3YXp5TWFiOU9JeE1tUNIBfkFVX3lxTE9zanY0cDdYaU0zZ3FpdWdvUVI0QWlEUDZ5X3VDTXV4bWJoRDJSZlJfZU1DZHlPcm1zU2NoR1RtZTZfQTVHVThtTEpscjF4X0ZtdGMwU21zUmxPMWJ6OHc1T1VyRk5iUDlmWUItZEtfZkxvcE5wNVlyZ3ItSUM2QQ?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZUDMxR1V6bFBPZE1YZloyT2RYdlVOMUpsUlB1TzV6NEFuQ3VMbWw1dkE3QTJCRkp1UGllZDBuUzJYd3c4aU42bkdoWWhyQVVKbzlibFhUdFpJd2diVUJNRWhDXzlBM1ROUlA3YXp5TWFiOU9JeE1tUA?oc=5"
       },
       "publishedAt": "2026-09-08 15:00",
       "score": 95,
@@ -187,16 +187,16 @@
       "askDev": "我们能否保留真实素材与 AI 生成素材的链路？能否让用户关闭、回退或标识 AI 修改？弱网/端侧能做哪部分？"
     },
     {
-      "id": "20260919-11-snaplaunchesspecsi",
+      "id": "20260919-11-metareportedlyplan",
       "category": "AI 硬件",
       "badge": "端侧 / 设备",
-      "title": "Snap Launches Specs Intelligence: AI That Anticipates What You Need",
+      "title": "Meta reportedly plans camera-free smart glasses as privacy concerns grow",
       "source": {
-        "name": "TechRepublic",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPR3N5SHpRd0V4blFXR0FyR3F5UVpWNWhiMlJoaUEweFhfUlZpM1AtMy1iUDhBTmlaUlhkelRmX3dYMHZManR6d2l6QUJ1VGpjcGI0TURUZ3B2Tkw0ZVBJRzA4a3RLNDM3dFYtRUNaXzBoajh2c3d1QW51a0VOMnhKRHl3VGo4aGYyNnc?oc=5"
+        "name": "Mashable",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1NWE44T3Q3aVdrLVJMSzZQUHFzQms5M1N1cFZNeXdWeDEwX2dWVE1NOGg5cXhvUnVuNkFhV29XcDktcUF0TUR5aUdva0VneVR5UFpyVS01MVFJR2w4SmVOSG1aVGpxNk1GaGJ5T1NUT2cwMEdBV1FoNg?oc=5"
       },
-      "publishedAt": "2026-09-18 04:26",
-      "score": 88,
+      "publishedAt": "2026-09-15 15:00",
+      "score": 91,
       "oneLine": "AI 硬件的价值不在于塞一个聊天入口，而在于设备能理解状态、场景、传感器和可执行动作。",
       "judgment": "这是你软硬结合背景最该长期关注的方向：端侧、云端和设备上下文的分工，会直接决定体验是否可用。",
       "capability": "端侧模型、传感器理解、语音交互和云端复杂推理正在组合成新的设备体验。",
@@ -264,7 +264,7 @@
       "badge": "应用更新",
       "title": "Meta launches AI agent that can access other apps to send emails, make payments",
       "source": {
-        "name": "reuters.com",
+        "name": "Reuters",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS195TVZPeEJJbzNYTEZ0dnI4WGxOWXF2ZlRmbDEyU1VtWnFsd012VXVDd01mRHY3Y3lDOW9pRXRYSXR6R2NqYVM3R0xwMURjZElSZHVkckZidjNoWTh5OWlNWkZGUGJpWnpDSUhUOUxBUEZDTVpwZjFXemxIdTlvanpSMXF2MXo1UkNtN2UtZVdfX3J2ZTdCekREbUxkaFo1MVpLakxOT0ZaeUVoMlhlb2E0Y0dfV2g0bXRNbw?oc=5"
       },
       "publishedAt": "2026-09-08 15:00",
@@ -295,15 +295,15 @@
       "askDev": "我们能否保留真实素材与 AI 生成素材的链路？能否让用户关闭、回退或标识 AI 修改？弱网/端侧能做哪部分？"
     },
     {
-      "id": "20260919-17-asusascentqn10snap",
+      "id": "20260919-17-snaplaunchesspecsi",
       "category": "AI 硬件",
       "badge": "端侧 / 设备",
-      "title": "ASUS Ascent QN10: Snapdragon X2 Elite AI Mini PC",
+      "title": "Snap Launches Specs Intelligence: AI That Anticipates What You Need",
       "source": {
-        "name": "ASUS Pressroom",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQlh5dkI1Nmk3bXNsS1ZySE9xRDV0cWhPUWl6aDliOV9nenZHbUxIWUI4UDlQczhWNDQ4SzJLdzVYbGRGbzVVbmdkVFRZeFFwazMyYWJ1cjloSzBKa3Q3cDBPa0hFa1E0WElMRjBESllkT19KM3ZUWHQ2U1hkVndWVGZ5RFVsUzBsMVAtV1lOVm9Idw?oc=5"
+        "name": "TechRepublic",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPR3N5SHpRd0V4blFXR0FyR3F5UVpWNWhiMlJoaUEweFhfUlZpM1AtMy1iUDhBTmlaUlhkelRmX3dYMHZManR6d2l6QUJ1VGpjcGI0TURUZ3B2Tkw0ZVBJRzA4a3RLNDM3dFYtRUNaXzBoajh2c3d1QW51a0VOMnhKRHl3VGo4aGYyNnc?oc=5"
       },
-      "publishedAt": "2026-09-18 10:00",
+      "publishedAt": "2026-09-18 04:26",
       "score": 88,
       "oneLine": "AI 硬件的价值不在于塞一个聊天入口，而在于设备能理解状态、场景、传感器和可执行动作。",
       "judgment": "这是你软硬结合背景最该长期关注的方向：端侧、云端和设备上下文的分工，会直接决定体验是否可用。",
@@ -318,7 +318,7 @@
       "badge": "开发工具",
       "title": "AI 圈上演神级互撕！Codex、Claude Code 两位负责人公开对喷",
       "source": {
-        "name": "InfoQ-CN",
+        "name": "infoq.cn",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xNnVuX1hqNDFNMTVNcXFibGlyYUx0QXpIVTZqVklCNVJsdUotNm5xZ1Z1NFB4S2JQUzIyc1NCZEdmeXJCVWZ2VmlnSXFMb1M5ZENoLTNtaFkxaEpGZWc?oc=5"
       },
       "publishedAt": "2026-08-14 15:00",
@@ -336,10 +336,10 @@
       "badge": "开发工具",
       "title": "OpenAI把Codex「拆开卖了」",
       "source": {
-        "name": "投资界",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEYVFEVGZuZ2MxZEN4SWd5ZVZRMWxYM1RENzRwRjM2NE5BTi11ZlNTb3NPTDlYTHZNQVNHbjZDaHhZd29Kb1BZR0MybGIxbDBCUHl5ZXVR?oc=5"
+        "name": "新浪财经",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ3RnbGRYUWZjR1gtbFR1LWlFcmtpVHcyY19pbkFFWlI2bDUxXzMtSFJNRndrbkNVQ3k3ZE9kd0U3RndvWlpCZjNKUXVpYzdOOXJnckFtaFNUc1VoMVU3Qk1mbjFEY2tYU2ZQaUpocHl6SXNQbnVKOXk3Yl8yUWhncVh3M3N3MUE?oc=5"
       },
-      "publishedAt": "2026-09-12 11:10",
+      "publishedAt": "2026-09-12 11:05",
       "score": 106,
       "oneLine": "AI 编程工具继续从代码补全走向任务执行：理解目标、改文件、跑验证、解释过程会变成基本能力。",
       "judgment": "这类更新最值得产品经理关注，因为它能把需求讨论更快变成可演示原型；但也会放大错误执行、权限和验收问题。",
@@ -462,7 +462,7 @@
       "badge": "模型迭代",
       "title": "Claude 二合一背后，Anthropic 也想锁死你的上下文",
       "source": {
-        "name": "新浪财经_金融信息服务商",
+        "name": "新浪财经",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOV01NNmpJTXpIS1pMM0hZVERDRTNqSmNuQW1yaVRpV3k1cDVrakVsbHB6VlhpNDRBSWxFYmNTRlJUWmRMd1NweGt4N0hsdm94VWVWV2xLUklualdGMkV4Z3NfYVRKNXRobHBEX0RhazUyM213cHE1cF8tYTZxZGU3UGs0OFYtTFNUZ2dfcFk0aWxvWnBlQXk2QkpORmVOVjdIaFVzZXhNZw?oc=5"
       },
       "publishedAt": "2026-09-18 04:48",
@@ -642,7 +642,7 @@
       "badge": "开发工具",
       "title": "AI编程：市场格局、独角兽崛起与中国力量",
       "source": {
-        "name": "新浪财经_金融信息服务商",
+        "name": "新浪财经",
         "url": "https://news.google.com/rss/articles/CBMi-ARBVV95cUxOT2tEMXhQNmlwZ3R2M21FYUhSRVhTZFRMUUhGVlVacEd5VElQcEYybFhoa0tfU2IyYmtNVzdudDdEd2g4Qm1qSjFTQTJmbmFDX0d1RndMYmQzXy14di12NVgybmRYUzVvSzNxbTJDU0VXVl9tZ2dYMVJkTUZhMzdJQXR2RUIzcFh6SWs2Q3hHYjRKMTZSQS02UDFleU5JeWlQUUkway1pODhsdlY0VDFobHZGaEphWnlSWC16OU4yNi1wY2REeWhCbUlxRnp3eTBLN1NCSDExZGtRejVGaTl3cVJobVA0Ql9uQ2xQSHM5MTlHeHIyWjFoYnBHWERFNDhhZEVpMWl3ZFNSeElxbGxyZlNJU21DdkxVWUVYVnNPM29lU2FwM0UxV0ZKVWZuZ1F2YTJEZ2tMUEU5cDVEN0NCSWZncVNOLXZLRmJzZE95Mm00TEZYYzkwaXptaXZ3M3BYTFhUZ2ttRkE2eFhrc181aVl6T0tSZVZnYmdHMnFweTNzTmZlNGloaElDUFR6NVk1bEd0ZUNJUURYT21XQ21sbUpfQTVDZjFZbmJ0ZXZ5QnlyT192dTQ5eUNSOTlURW1UWThCODl1MHZqNUtEZGhiQmJGMnhoWnZWQ05YZUZZNHJvU1JUVk5xcW4yM3ZGZXJnLXJvUE5lWjg3QUR4aWVxbFNMMi1sY25UbllheUtiRjc3STVOdVAzOXlUUDU0YmZ3aUMwVkZQcTlVVlZfaWVxX3BTNThDb2hvdFFidWFTN09Gamt2dzN2eE9NLUI3ZWluTjEtWklrOF9wZ2lJeHNKVXktb25qcm1ya0FPZENidFNQX0MyQ2xYcg?oc=5"
       },
       "publishedAt": "2026-09-14 03:19",
@@ -662,7 +662,7 @@
       "badge": "模型迭代",
       "title": "Claude“主导”Anthropic 26%的AI研发、3万Agent同时运行：当AI开始“造AI”，头部AI公司的RSI路线正在分化",
       "source": {
-        "name": "InfoQ-CN",
+        "name": "infoq.cn",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wTzUzb1hHVGRNN096LUxRNUNPTjY1c3dyanlhV1BOaUVMekJyRTd0QjVNUm5qQlhVSExOOFo5VzcwNkhLNjBsRDBQLW1DaHlwekk4VnEtcEJCUQ?oc=5"
       },
       "publishedAt": "2026-09-18 17:01",
