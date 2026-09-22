@@ -1,13 +1,13 @@
 {
   "version": 2,
   "label": "AI Daily Brief",
-  "date": "2026 年 9 月 22 日",
-  "updatedAt": "2026-09-22 18:58（北京时间）",
+  "date": "2026 年 9 月 23 日",
+  "updatedAt": "2026-09-23 00:17（北京时间）",
   "title": "今天值得关注的 AI 情报",
   "summary": "先扫快讯，再看重点判断。内容覆盖海外模型与产品、AI 编程、影像创作、AI 硬件和中文科技媒体信号。",
   "signals": [
     {
-      "id": "20260922-01-claude主导anthropic2",
+      "id": "20260923-01-claude主导anthropic2",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "Claude“主导”Anthropic 26%的AI研发、3万Agent同时运行：当AI开始“造AI”，头部AI公司的RSI路线正在分化",
@@ -25,7 +25,7 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20260922-02-claudecode下半年格式投降o",
+      "id": "20260923-02-claudecode下半年格式投降o",
       "category": "AI 编程",
       "badge": "开发工具",
       "title": "Claude Code下半年：格式投降OpenAI，功能借鉴DeepSeek",
@@ -43,7 +43,7 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20260922-03-amazonblocksmetasm",
+      "id": "20260923-03-amazonblocksmetasm",
       "category": "AI 产品",
       "badge": "应用更新",
       "title": "Amazon blocks Meta’s Muse AI assistant in new standoff over agentic shopping",
@@ -61,7 +61,7 @@
       "askDev": "这个功能依赖哪些用户数据？结果如何解释？用户能否编辑/撤回？成本是否支持高频使用？"
     },
     {
-      "id": "20260922-04-bestaivideogenerat",
+      "id": "20260923-04-bestaivideogenerat",
       "category": "影像/创作",
       "badge": "图像 / 视频",
       "title": "Best AI Video Generators for Fan Edits and Creative Videos in 2026",
@@ -79,16 +79,16 @@
       "askDev": "我们能否保留真实素材与 AI 生成素材的链路？能否让用户关闭、回退或标识 AI 修改？弱网/端侧能做哪部分？"
     },
     {
-      "id": "20260922-05-qualcomm30baichipv",
+      "id": "20260923-05-metareportedlyplan",
       "category": "AI 硬件",
       "badge": "端侧 / 设备",
-      "title": "Qualcomm 30B AI Chip vs Apple A20 Pro: 2026 Race",
+      "title": "Meta reportedly plans camera-free smart glasses as privacy concerns grow",
       "source": {
-        "name": "shattered.io",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9oc2FJVUNzZHlaQ244YnVYaHIwalp2TlVIN05XWUF0ai1LZjRLSEVwZkY2cTctcWVOTzVxZ0N2b1ZXUGlNZHBPcHphUkVlN1JvT3l0SHhMUm81bDJBeDhkazlDZVZNWmJoWlhtSVlzZ1RNdw?oc=5"
+        "name": "Mashable",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1NWE44T3Q3aVdrLVJMSzZQUHFzQms5M1N1cFZNeXdWeDEwX2dWVE1NOGg5cXhvUnVuNkFhV29XcDktcUF0TUR5aUdva0VneVR5UFpyVS01MVFJR2w4SmVOSG1aVGpxNk1GaGJ5T1NUT2cwMEdBV1FoNg?oc=5"
       },
-      "publishedAt": "2026-09-22 18:29",
-      "score": 94,
+      "publishedAt": "2026-09-22 16:52",
+      "score": 101,
       "oneLine": "AI 硬件的价值不在于塞一个聊天入口，而在于设备能理解状态、场景、传感器和可执行动作。",
       "judgment": "这是你软硬结合背景最该长期关注的方向：端侧、云端和设备上下文的分工，会直接决定体验是否可用。",
       "capability": "端侧模型、传感器理解、语音交互和云端复杂推理正在组合成新的设备体验。",
@@ -97,7 +97,7 @@
       "askDev": "哪些信息必须端侧处理？哪些可以上云？延迟预算是多少？误识别会造成什么后果？离线时如何降级？"
     },
     {
-      "id": "20260922-06-2024新款macmini重磅发布价",
+      "id": "20260923-06-2024新款macmini重磅发布价",
       "category": "中文观察",
       "badge": "中文媒体",
       "title": "2024新款Mac mini重磅发布 价格大涨2500元 苹果首款AI专属台式电脑正式上市",
@@ -115,7 +115,7 @@
       "askDev": "这个能力是否已有国内可用 API/SDK？可用性、成本、合规和私有化方案如何？"
     },
     {
-      "id": "20260922-07-claude已主导anthropic",
+      "id": "20260923-07-claude已主导anthropic",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "Claude已“主导”Anthropic 26% AI研发工作，3万Agent同时上岗，RSI仍未实现",
@@ -133,16 +133,16 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20260922-08-刚刚claudecode大重构内部3",
+      "id": "20260923-08-claudecodeopenaico",
       "category": "AI 编程",
       "badge": "开发工具",
-      "title": "刚刚，Claude Code大重构，内部3万Agent管理技术免费开放",
+      "title": "Claude Code、OpenAI Codex 与 DeepSeek Harness 架构对比",
       "source": {
-        "name": "投资界",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43OG5EVS1pbW1KZExzYm9SVkdIWGNTLWtrNGo0anNjSXRuNlFxcXk0ZERPMlg5d0RFMlRrM20wOE9DNlJkT0xqQklScGdwSjBFc0FmM2R3?oc=5"
+        "name": "积墨 AI",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWTJIT1ZYcGRqX2xfNGNDS2ZNVW5jRjhlMUhMLThuQzBVYUs0N2RpYmIyMjloNE9NRFNyOEg1X2xod2t2VzhUNi1ZMzdheGdreV9nbEFXMnRpa19McjE3NDg4TFZqU1BBaG1Id2l1UTZXSXFIQzljVmczcmNFOFcxOUJSYzFOQkp2c2MtNkV6WHdYMVNoWjVzc01ESGh5TlU?oc=5"
       },
-      "publishedAt": "2026-09-18 16:43",
-      "score": 115,
+      "publishedAt": "2026-08-21 15:00",
+      "score": 116,
       "oneLine": "AI 编程工具继续从代码补全走向任务执行：理解目标、改文件、跑验证、解释过程会变成基本能力。",
       "judgment": "这类更新最值得产品经理关注，因为它能把需求讨论更快变成可演示原型；但也会放大错误执行、权限和验收问题。",
       "capability": "能力边界正在从“写一段代码”推进到“处理一个小任务”。真正要看的是它是否能稳定读懂上下文、定位文件、修改后自检。",
@@ -151,16 +151,16 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20260922-09-20bestgenerativeai",
+      "id": "20260923-09-aiassistantsbelong",
       "category": "AI 产品",
       "badge": "应用更新",
-      "title": "20 Best Generative AI Tools of 2026 | Top Picks and Benefits",
+      "title": "AI Assistants Belong in Your Ears, Not on Your Face",
       "source": {
-        "name": "Simplilearn.com",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdG5iaFltOWVIYkxRcjhaUGpmSEpreEVXNHNCR3FqakM5eW9DOHY4V29sbUptVndKeVVYeTNWWGlUdzBuRW0xdDR6SDVNVGZvVWVPWUd5MWljQ1ZYSV9KRnNlaklPVkRtVHZKeV9lVEpZWUtfVUd2a2plZHU4QWlIb2N1dExXLXhMSDBaUERRWGtNVUxISmZHWGF3?oc=5"
+        "name": "Gizmodo",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQTBVdFFZaW1rM3ppSW1sclRHVHZGLTJOeEFXQUxzSjh6b1NYVC0tNTVleE14QmNBZ04tbkxPMlB3UFVfM1hXRDNFeGdjdkJfNjZuZUF3Q2tfZl94MkI0VVNScVU1b3paVHZ0Z2FuWVk5NVlGMl9SbHhlalc2bUxRcnItLU1zbV8x?oc=5"
       },
-      "publishedAt": "2026-09-09 15:00",
-      "score": 86,
+      "publishedAt": "2026-09-22 20:30",
+      "score": 94,
       "oneLine": "AI 应用更新的核心不是“加了 AI”，而是它替用户完成了哪一步、在什么时机介入、用户如何控制。",
       "judgment": "产品经理要看的是任务链路是否真的变短，而不是宣传里的一次成功演示。",
       "capability": "AI 正在进入搜索、写作、设计、会议、浏览器和办公流，把理解、生成、调用工具组合成体验。",
@@ -169,12 +169,12 @@
       "askDev": "这个功能依赖哪些用户数据？结果如何解释？用户能否编辑/撤回？成本是否支持高频使用？"
     },
     {
-      "id": "20260922-10-top10aivideogenera",
+      "id": "20260923-10-top10aivideogenera",
       "category": "影像/创作",
       "badge": "图像 / 视频",
       "title": "Top 10 AI Video Generators for High-Quality Results",
       "source": {
-        "name": "indiacsr.in",
+        "name": "India CSR",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5pWTcxQkFXTU93VzQ1QW9hLVNQZTQ5czZhcVF3TEliMzZITnlCRzRCNTQ0UUdONFhJUGdqRVg4d3QxN0hCcHJEWlowMDBkUmktZ2pOUlBNVFE1MGYtTmR6RXNYWVAxMU1ReVlEMF9FRHF4M1poa0c2Y3U5N3U?oc=5"
       },
       "publishedAt": "2026-09-12 17:02",
@@ -187,15 +187,15 @@
       "askDev": "我们能否保留真实素材与 AI 生成素材的链路？能否让用户关闭、回退或标识 AI 修改？弱网/端侧能做哪部分？"
     },
     {
-      "id": "20260922-11-fromsmartglassesto",
+      "id": "20260923-11-qualcomm30baichipv",
       "category": "AI 硬件",
       "badge": "端侧 / 设备",
-      "title": "From smart glasses to AI pins, privacy fears challenge tech's next big bet",
+      "title": "Qualcomm 30B AI Chip vs Apple A20 Pro: 2026 Race",
       "source": {
-        "name": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOUgyOXZwdDA0cWZ2dk1tOU0tcHBBZG95TXFOLUwydXpqem4xZDRfYVJvMkhocFVldVp1cXNOX01zd1Z4YnJGZmxQYWFjY044VlQ2Z1V0UlNhUkU1bEVycUlMX3ZOVGhfMEh3SHRkNlVCTzkyc0w1MXR6RXF3bmJaak1tbXRTMEVNejBTWXFPeDVNQXNPWm1TdW5TTkhGakxMUHJWZURrdVoyanhQRENfc1pTdE5YMll4YjRqNzBNWG8?oc=5"
+        "name": "shattered.io",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9oc2FJVUNzZHlaQ244YnVYaHIwalp2TlVIN05XWUF0ai1LZjRLSEVwZkY2cTctcWVOTzVxZ0N2b1ZXUGlNZHBPcHphUkVlN1JvT3l0SHhMUm81bDJBeDhkazlDZVZNWmJoWlhtSVlzZ1RNdw?oc=5"
       },
-      "publishedAt": "2026-09-22 18:08",
+      "publishedAt": "2026-09-22 18:29",
       "score": 94,
       "oneLine": "AI 硬件的价值不在于塞一个聊天入口，而在于设备能理解状态、场景、传感器和可执行动作。",
       "judgment": "这是你软硬结合背景最该长期关注的方向：端侧、云端和设备上下文的分工，会直接决定体验是否可用。",
@@ -205,7 +205,7 @@
       "askDev": "哪些信息必须端侧处理？哪些可以上云？延迟预算是多少？误识别会造成什么后果？离线时如何降级？"
     },
     {
-      "id": "20260922-12-谷歌放弃前沿技术追逐deepmind",
+      "id": "20260923-12-谷歌放弃前沿技术追逐deepmind",
       "category": "中文观察",
       "badge": "中文媒体",
       "title": "谷歌放弃前沿技术追逐 DeepMind或迎大规模裁员潮",
@@ -223,7 +223,7 @@
       "askDev": "这个能力是否已有国内可用 API/SDK？可用性、成本、合规和私有化方案如何？"
     },
     {
-      "id": "20260922-13-thebuildersguideto",
+      "id": "20260923-13-thebuildersguideto",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "The builder’s guide to GPT‑5.6",
@@ -241,16 +241,16 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20260922-14-9bestaicodingtools",
+      "id": "20260923-14-刚刚claudecode大重构内部3",
       "category": "AI 编程",
       "badge": "开发工具",
-      "title": "9 Best AI Coding Tools in 2026: IDEs, Agents, & Copilots Compared",
+      "title": "刚刚，Claude Code大重构，内部3万Agent管理技术免费开放",
       "source": {
-        "name": "memeburn.com",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zQlY0TjY5aFBTMjMyX04wZjFoRm1leXI4NFpWTm8xLWxZcWswLUJBbmNBc0gzN242YWh2MHBLNHA2X0hZNmlDa0twZXpfaGZmZmtEQQ?oc=5"
+        "name": "投资界",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43OG5EVS1pbW1KZExzYm9SVkdIWGNTLWtrNGo0anNjSXRuNlFxcXk0ZERPMlg5d0RFMlRrM20wOE9DNlJkT0xqQklScGdwSjBFc0FmM2R3?oc=5"
       },
-      "publishedAt": "2026-09-16 19:56",
-      "score": 112,
+      "publishedAt": "2026-09-18 16:43",
+      "score": 115,
       "oneLine": "AI 编程工具继续从代码补全走向任务执行：理解目标、改文件、跑验证、解释过程会变成基本能力。",
       "judgment": "这类更新最值得产品经理关注，因为它能把需求讨论更快变成可演示原型；但也会放大错误执行、权限和验收问题。",
       "capability": "能力边界正在从“写一段代码”推进到“处理一个小任务”。真正要看的是它是否能稳定读懂上下文、定位文件、修改后自检。",
@@ -259,15 +259,15 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20260922-15-upcomingipos202640",
+      "id": "20260923-15-20bestgenerativeai",
       "category": "AI 产品",
       "badge": "应用更新",
-      "title": "Upcoming IPOs 2026: 40+ Startups in the IPO Pipeline",
+      "title": "20 Best Generative AI Tools of 2026 | Top Picks and Benefits",
       "source": {
-        "name": "Access IPOs",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1wa2owUkNTZG1zQk56MEsyUU5uZ2h5T19sNVgyOTZ4aVdYMWVrR0tmYWVQLWNicGIxaXc4R1E2TzB1YzlyVFdYaDljSy0tUQ?oc=5"
+        "name": "Simplilearn.com",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdG5iaFltOWVIYkxRcjhaUGpmSEpreEVXNHNCR3FqakM5eW9DOHY4V29sbUptVndKeVVYeTNWWGlUdzBuRW0xdDR6SDVNVGZvVWVPWUd5MWljQ1ZYSV9KRnNlaklPVkRtVHZKeV9lVEpZWUtfVUd2a2plZHU4QWlIb2N1dExXLXhMSDBaUERRWGtNVUxISmZHWGF3?oc=5"
       },
-      "publishedAt": "2026-09-16 19:55",
+      "publishedAt": "2026-09-09 15:00",
       "score": 86,
       "oneLine": "AI 应用更新的核心不是“加了 AI”，而是它替用户完成了哪一步、在什么时机介入、用户如何控制。",
       "judgment": "产品经理要看的是任务链路是否真的变短，而不是宣传里的一次成功演示。",
@@ -277,7 +277,7 @@
       "askDev": "这个功能依赖哪些用户数据？结果如何解释？用户能否编辑/撤回？成本是否支持高频使用？"
     },
     {
-      "id": "20260922-16-midjourneyreview20",
+      "id": "20260923-16-midjourneyreview20",
       "category": "影像/创作",
       "badge": "图像 / 视频",
       "title": "Midjourney Review 2026: Is It A Good Video & Image AI Generator?",
@@ -295,16 +295,16 @@
       "askDev": "我们能否保留真实素材与 AI 生成素材的链路？能否让用户关闭、回退或标识 AI 修改？弱网/端侧能做哪部分？"
     },
     {
-      "id": "20260922-17-metatolaunchcamera",
+      "id": "20260923-17-fromsmartglassesto",
       "category": "AI 硬件",
       "badge": "端侧 / 设备",
-      "title": "Meta to Launch Camera-Free Smart Glasses Amid Mounting Privacy Concerns",
+      "title": "From smart glasses to AI pins, privacy fears challenge tech's next big bet",
       "source": {
-        "name": "The Information",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYXhWNnRjZHVTcXNEU2JjRlVPR0t1REJVZ0VTZkE5dlpkd3h6NGFYa01icF8talRXLWdFa0twNUVtdW5yclppcE5UMjZZRHF5d1BSOW4zMl9LNTdyRHhRejRqaXJUNjFEcXlsTmtSbGFScnRyWUdDeEN1a1h5MU0yQTZRdms3VndQeUtpUVlnMnVBUG5IYUsyOVFlTHIteThiWHd1bmFlaWswdFVZ?oc=5"
+        "name": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOUgyOXZwdDA0cWZ2dk1tOU0tcHBBZG95TXFOLUwydXpqem4xZDRfYVJvMkhocFVldVp1cXNOX01zd1Z4YnJGZmxQYWFjY044VlQ2Z1V0UlNhUkU1bEVycUlMX3ZOVGhfMEh3SHRkNlVCTzkyc0w1MXR6RXF3bmJaak1tbXRTMEVNejBTWXFPeDVNQXNPWm1TdW5TTkhGakxMUHJWZURrdVoyanhQRENfc1pTdE5YMll4YjRqNzBNWG8?oc=5"
       },
-      "publishedAt": "2026-09-16 06:22",
-      "score": 91,
+      "publishedAt": "2026-09-22 23:22",
+      "score": 94,
       "oneLine": "AI 硬件的价值不在于塞一个聊天入口，而在于设备能理解状态、场景、传感器和可执行动作。",
       "judgment": "这是你软硬结合背景最该长期关注的方向：端侧、云端和设备上下文的分工，会直接决定体验是否可用。",
       "capability": "端侧模型、传感器理解、语音交互和云端复杂推理正在组合成新的设备体验。",
@@ -313,7 +313,25 @@
       "askDev": "哪些信息必须端侧处理？哪些可以上云？延迟预算是多少？误识别会造成什么后果？离线时如何降级？"
     },
     {
-      "id": "20260922-18-坚决不用行业标准agentsmdcl",
+      "id": "20260923-18-9bestaicodingtools",
+      "category": "AI 编程",
+      "badge": "开发工具",
+      "title": "9 Best AI Coding Tools in 2026: IDEs, Agents, & Copilots Compared",
+      "source": {
+        "name": "Memeburn",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zQlY0TjY5aFBTMjMyX04wZjFoRm1leXI4NFpWTm8xLWxZcWswLUJBbmNBc0gzN242YWh2MHBLNHA2X0hZNmlDa0twZXpfaGZmZmtEQQ?oc=5"
+      },
+      "publishedAt": "2026-09-16 19:56",
+      "score": 112,
+      "oneLine": "AI 编程工具继续从代码补全走向任务执行：理解目标、改文件、跑验证、解释过程会变成基本能力。",
+      "judgment": "这类更新最值得产品经理关注，因为它能把需求讨论更快变成可演示原型；但也会放大错误执行、权限和验收问题。",
+      "capability": "能力边界正在从“写一段代码”推进到“处理一个小任务”。真正要看的是它是否能稳定读懂上下文、定位文件、修改后自检。",
+      "boundary": "不能把它当成无人值守研发。复杂架构、隐私数据、生产发布、删除操作仍需要明确权限、检查点和人工确认。",
+      "pmInsight": "你可以开始把 PRD 写成可执行任务：目标、输入、验收条件、失败回退，而不是只写页面和功能点。",
+      "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
+    },
+    {
+      "id": "20260923-19-坚决不用行业标准agentsmdcl",
       "category": "AI 编程",
       "badge": "开发工具",
       "title": "坚决不用行业标准AGENTS.md，Claude Code惹来“封杀令”：Anthropic终于回应了，但开发者更气了",
@@ -331,7 +349,7 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20260922-19-ai圈上演神级互撕codexclau",
+      "id": "20260923-20-ai圈上演神级互撕codexclau",
       "category": "AI 编程",
       "badge": "开发工具",
       "title": "AI 圈上演神级互撕！Codex、Claude Code 两位负责人公开对喷",
@@ -349,7 +367,7 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20260922-20-胡塞武装被曝用claudecode替",
+      "id": "20260923-21-胡塞武装被曝用claudecode替",
       "category": "AI 编程",
       "badge": "开发工具",
       "title": "胡塞武装被曝用Claude Code替代工程师开发导弹，Anthropic：已封相关账户",
@@ -367,12 +385,12 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20260922-21-开发者找到办法脱离anthropic",
+      "id": "20260923-22-开发者找到办法脱离anthropic",
       "category": "AI 编程",
       "badge": "开发工具",
       "title": "开发者找到办法，脱离Anthropic模型使用Claude Code",
       "source": {
-        "name": "新浪财经",
+        "name": "finance.sina.com.cn",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbU93RC1VWUpoUldYMlNQaFlIaEVmNGt1NWJtVWxxbUlFb3ZVUVdtSmsxYkpBNVh5MU5TU1RBSHVJOGJGOW1Jc3lRYUE1MEk0U24tNkVQUVpwODNfVi1iaVlyU1FZTmQ5aF96ZzBrMEx5MGhxNmhldVRYRU02Vll3dl9qRWNENk0?oc=5"
       },
       "publishedAt": "2026-09-15 23:01",
@@ -385,25 +403,7 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20260922-22-deepseek要做安卓而codex",
-      "category": "AI 编程",
-      "badge": "开发工具",
-      "title": "DeepSeek要做“安卓”，而Codex要做IOS？",
-      "source": {
-        "name": "thepaper.cn",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xbjEzWHh2dFZ6dmtQd0JmcEl0b0ZQZDF4SGRQcTRDS1Y2Sm1YZV8tRVdna2hoRUcxeEQzZXFBUElrNHoxYVhZUHNCOXRRZGNYaGVjcVdmWkg3OXFvSUVmQg?oc=5"
-      },
-      "publishedAt": "2026-08-22 15:00",
-      "score": 104,
-      "oneLine": "AI 编程工具继续从代码补全走向任务执行：理解目标、改文件、跑验证、解释过程会变成基本能力。",
-      "judgment": "这类更新最值得产品经理关注，因为它能把需求讨论更快变成可演示原型；但也会放大错误执行、权限和验收问题。",
-      "capability": "能力边界正在从“写一段代码”推进到“处理一个小任务”。真正要看的是它是否能稳定读懂上下文、定位文件、修改后自检。",
-      "boundary": "不能把它当成无人值守研发。复杂架构、隐私数据、生产发布、删除操作仍需要明确权限、检查点和人工确认。",
-      "pmInsight": "你可以开始把 PRD 写成可执行任务：目标、输入、验收条件、失败回退，而不是只写页面和功能点。",
-      "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
-    },
-    {
-      "id": "20260922-23-神级反转github昨夜大规模宕机7",
+      "id": "20260923-23-神级反转github昨夜大规模宕机7",
       "category": "AI 编程",
       "badge": "开发工具",
       "title": "神级反转，GitHub 昨夜大规模宕机7小时，Cursor 火速上线Agent版代码托管平台",
@@ -421,7 +421,7 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20260922-24-jetbrainsjunievsgi",
+      "id": "20260923-24-jetbrainsjunievsgi",
       "category": "AI 编程",
       "badge": "开发工具",
       "title": "JetBrains Junie vs GitHub Copilot vs Cursor: $12 Gap [2026]",
@@ -439,12 +439,12 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20260922-25-announcingopenaigp",
+      "id": "20260923-25-announcingopenaigp",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "Announcing OpenAI GPT-6 Astra on Snowflake Cortex AI",
       "source": {
-        "name": "Snowflake",
+        "name": "snowflake.com",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5HQWl0X3FndXlsWC1iSTZHQWR4d21CYUROVTktVjJEcVhZcmoxTTRDYmFUOENJcUJZTmxVeDVrTmRxMnJLcnJHUE1MMWVZY3NHWi1fcUZhQkhULWtjZEw1dVFKVzVWaWVfNUpJN2tZeWhUeFJCMGZvdHl4dHM2Zw?oc=5"
       },
       "publishedAt": "2026-09-10 01:56",
@@ -457,12 +457,12 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20260922-26-gptversiontimeline",
+      "id": "20260923-26-gptversiontimeline",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "GPT Version Timeline: From GPT-1 to GPT-6 Explained",
       "source": {
-        "name": "timesofai.com",
+        "name": "Times Of AI",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84RXFOZ1VIMnNmaG9tUkpabDJjYjVXclhMeV8tNTNKRDJ4NHc2SU8zSFZsRjFzM1lQZkx3UnhBX0ZLZk14X2FQbFdfZm11UGtoM1ZBb2hHWkRPOHpxOFpLTThRN3FxZjFtT29zNTlLbHJkTWM?oc=5"
       },
       "publishedAt": "2026-09-10 15:00",
@@ -475,12 +475,12 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20260922-27-claude二合一背后anthrop",
+      "id": "20260923-27-claude二合一背后anthrop",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "Claude 二合一背后，Anthropic 也想锁死你的上下文",
       "source": {
-        "name": "新浪财经",
+        "name": "finance.sina.cn",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOV01NNmpJTXpIS1pMM0hZVERDRTNqSmNuQW1yaVRpV3k1cDVrakVsbHB6VlhpNDRBSWxFYmNTRlJUWmRMd1NweGt4N0hsdm94VWVWV2xLUklualdGMkV4Z3NfYVRKNXRobHBEX0RhazUyM213cHE1cF8tYTZxZGU3UGs0OFYtTFNUZ2dfcFk0aWxvWnBlQXk2QkpORmVOVjdIaFVzZXhNZw?oc=5"
       },
       "publishedAt": "2026-09-18 04:49",
@@ -493,7 +493,7 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20260922-28-谷歌deepmind已经破解rsi",
+      "id": "20260923-28-谷歌deepmind已经破解rsi",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "谷歌DeepMind，已经破解RSI?",
@@ -511,12 +511,12 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20260922-29-独家丨百度挖来deepmind核心成",
+      "id": "20260923-29-独家丨百度挖来deepmind核心成",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "独家丨百度挖来 DeepMind 核心成员 Qiyin Wu",
       "source": {
-        "name": "新浪财经",
+        "name": "finance.sina.cn",
         "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxQSjRnMFpMUVE2bjNLOGNHNTcyR0lsZm9kOHRJX1gwV3BkRGhGRWoxeHd3Z2FGYTlKYU9vWF9lRFJYQng0OGtIY0tpa0N3RlpwV3FMOEVwV1JnUUVadEZ0c21JdGtPY256SnVoQjUxYlMzU2Zua1I4cTExdWJEdEQxVjFMQUFfUW01N2lrUzdESEJUaWVnMmo4cUxCUlZvMzNCcU9ja1NweXVUaVFzTmhfRmpDWEI5aDVmaGRWSlhjcTR0WWwzZjMwYVlLVERTUEk0ZXA0MzhUd0VRMm9CbzFMUHhmV2g4ek9acnU4UE5nSUpGSWtXeDJSQmhwQ1Fkandpa1p3R1pRckhMOXFTdUYwSjVzaDRVX2VCTXdhSVJLem1zdUQ3d1d2S2V5SnJxT1Y2SS12WXdOWVhCMm1qRDVpTjluUHRfcVVxRnVxeno5NktHUGRXaHpYdTB5a3JaWkpmbThNTnByQnhfT2dVdVFqVzEydWI3TU52WU1nQkZ6Nm9qMGgtdUlsQVlOT3dnc1RiVUdIM2VBZG5YWTk3N3VOMV9kaFdSYWlOQnhZNkZZMHItSEVQUnRvODZNdTZ1elp0TFJ6RE1sZURGenc?oc=5"
       },
       "publishedAt": "2026-09-18 15:04",
@@ -529,7 +529,7 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20260922-30-刚刚gemini38live上线",
+      "id": "20260923-30-刚刚gemini38live上线",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "刚刚，Gemini 3.8 Live上线！",
@@ -547,7 +547,7 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20260922-31-大手笔openai全面开源codex",
+      "id": "20260923-31-大手笔openai全面开源codex",
       "category": "AI 编程",
       "badge": "开发工具",
       "title": "大手笔！OpenAI全面开源Codex Harness",
@@ -565,7 +565,7 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20260922-32-anthropic升级claudec",
+      "id": "20260923-32-anthropic升级claudec",
       "category": "AI 编程",
       "badge": "开发工具",
       "title": "Anthropic升级Claude Code/Cowork，可后台操控用户Mac",
@@ -583,7 +583,7 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20260922-33-扎克伯格的新ai工具登顶下载排行榜o",
+      "id": "20260923-33-扎克伯格的新ai工具登顶下载排行榜o",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "扎克伯格的新AI工具登顶下载排行榜，OpenAI急忙跟进。",
@@ -601,7 +601,7 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20260922-34-bytedancerunwayand",
+      "id": "20260923-34-bytedancerunwayand",
       "category": "影像/创作",
       "badge": "图像 / 视频",
       "title": "ByteDance, Runway and Luma Now Split the AI Video Market OpenAI Left Behind",
@@ -619,7 +619,7 @@
       "askDev": "我们能否保留真实素材与 AI 生成素材的链路？能否让用户关闭、回退或标识 AI 修改？弱网/端侧能做哪部分？"
     },
     {
-      "id": "20260922-35-deepseekstatistics",
+      "id": "20260923-35-deepseekstatistics",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "DeepSeek Statistics 2026: Users, Token Share, Pricing and Benchmark Data",
@@ -627,7 +627,7 @@
         "name": "About Chromebooks",
         "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGcEpfRUdldnJxNGpwODVuek5qeVJkTVdOQlR1YmtxMEZLdDZlN1p1eEN6RUdiWmhNS1c2MDBEYnpiWUI5TFdTeThSdVEwZnpHaC1yUUVSZWJHbGdYdDdzbms0OA?oc=5"
       },
-      "publishedAt": "2026-08-15 22:03",
+      "publishedAt": "2026-08-15 15:00",
       "score": 95,
       "oneLine": "这类动态的重点是模型能力边界是否变化：更会推理、更会用工具、更懂多模态，还是成本/速度发生变化。",
       "judgment": "模型新闻不要只看名字和榜单，要追问它新增了哪类真实任务能力，以及是否已经可用、可稳定复现。",
@@ -637,7 +637,7 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20260922-36-top15neuralnetwork",
+      "id": "20260923-36-top15neuralnetwork",
       "category": "影像/创作",
       "badge": "图像 / 视频",
       "title": "Top 15 neural networks for video creation: the best solutions from Google Veo 3.1 to Seedance",
@@ -657,7 +657,7 @@
   ],
   "deepDives": [
     {
-      "id": "20260922-01-claude主导anthropic2",
+      "id": "20260923-01-claude主导anthropic2",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "Claude“主导”Anthropic 26%的AI研发、3万Agent同时运行：当AI开始“造AI”，头部AI公司的RSI路线正在分化",
@@ -675,7 +675,7 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20260922-02-claudecode下半年格式投降o",
+      "id": "20260923-02-claudecode下半年格式投降o",
       "category": "AI 编程",
       "badge": "开发工具",
       "title": "Claude Code下半年：格式投降OpenAI，功能借鉴DeepSeek",
@@ -693,7 +693,7 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20260922-03-amazonblocksmetasm",
+      "id": "20260923-03-amazonblocksmetasm",
       "category": "AI 产品",
       "badge": "应用更新",
       "title": "Amazon blocks Meta’s Muse AI assistant in new standoff over agentic shopping",
