@@ -2,7 +2,7 @@
   "version": 2,
   "label": "AI Daily Brief",
   "date": "2026 年 9 月 24 日",
-  "updatedAt": "2026-09-24 00:07（北京时间）",
+  "updatedAt": "2026-09-24 05:05（北京时间）",
   "title": "今天值得关注的 AI 情报",
   "summary": "先扫快讯，再看重点判断。内容覆盖海外模型与产品、AI 编程、影像创作、AI 硬件和中文科技媒体信号。",
   "signals": [
@@ -138,10 +138,10 @@
       "badge": "开发工具",
       "title": "Claude Code下半年：格式投降OpenAI，功能借鉴DeepSeek",
       "source": {
-        "name": "36Kr",
+        "name": "36kr.com",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBGT0lOYVlXUk56UUJIYnF1N0RRRkFjUy1ScEFMdURnc3laTjhOMTN0TXhvNmVhdkM4azRJMmdmY1p3QzNoSjliOFFGa0RyUQ?oc=5"
       },
-      "publishedAt": "2026-09-20 15:53",
+      "publishedAt": "2026-09-20 00:53",
       "score": 114,
       "oneLine": "AI 编程工具继续从代码补全走向任务执行：理解目标、改文件、跑验证、解释过程会变成基本能力。",
       "judgment": "这类更新最值得产品经理关注，因为它能把需求讨论更快变成可演示原型；但也会放大错误执行、权限和验收问题。",
@@ -205,7 +205,25 @@
       "askDev": "哪些信息必须端侧处理？哪些可以上云？延迟预算是多少？误识别会造成什么后果？离线时如何降级？"
     },
     {
-      "id": "20260924-12-openai和claude都在干的事",
+      "id": "20260924-12-谷歌放弃前沿技术追逐deepmind",
+      "category": "中文观察",
+      "badge": "中文媒体",
+      "title": "谷歌放弃前沿技术追逐 DeepMind或迎大规模裁员潮",
+      "source": {
+        "name": "eu.36kr.com",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rOEJ6QVVHUHJHZnV5V0ZQcUxyVTRsUU5UOFktWUNJU2xnZU5VN2JyOHhKSGpXME1PREtXQnpQcFhJMmlLdU5kalZxQlNsT3ZYb3lz?oc=5"
+      },
+      "publishedAt": "2026-08-13 15:00",
+      "score": 68,
+      "oneLine": "中文媒体能补足国内模型、应用和产业落地信息，适合用来观察本土生态节奏。",
+      "judgment": "中文报道的价值在于案例密度和本土产品动态，但需要区分事实、转述和营销包装。",
+      "capability": "国内模型和应用正在快速迭代，尤其在多模态、视频生成、办公、智能硬件和企业服务上竞争明显。",
+      "boundary": "标题可能夸张，必须回到原始发布、可用入口、价格、地区、权限和真实体验验证。",
+      "pmInsight": "把中文资讯当作竞品扫描入口：先记录能力点，再用真实任务验证是否可用。",
+      "askDev": "这个能力是否已有国内可用 API/SDK？可用性、成本、合规和私有化方案如何？"
+    },
+    {
+      "id": "20260924-13-openai和claude都在干的事",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "OpenAI和Claude都在干的事，没想到Qoder在5月就上线了",
@@ -223,7 +241,7 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20260924-13-9bestaicodingtools",
+      "id": "20260924-14-9bestaicodingtools",
       "category": "AI 编程",
       "badge": "开发工具",
       "title": "9 Best AI Coding Tools in 2026: IDEs, Agents, & Copilots Compared",
@@ -241,7 +259,7 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20260924-14-introducingmusethe",
+      "id": "20260924-15-introducingmusethe",
       "category": "AI 产品",
       "badge": "应用更新",
       "title": "Introducing Muse: The World’s First Personal AI Agent Built for Everyone",
@@ -259,7 +277,7 @@
       "askDev": "这个功能依赖哪些用户数据？结果如何解释？用户能否编辑/撤回？成本是否支持高频使用？"
     },
     {
-      "id": "20260924-15-top10aivideogenera",
+      "id": "20260924-16-top10aivideogenera",
       "category": "影像/创作",
       "badge": "图像 / 视频",
       "title": "Top 10 AI Video Generators for High-Quality Results",
@@ -277,7 +295,7 @@
       "askDev": "我们能否保留真实素材与 AI 生成素材的链路？能否让用户关闭、回退或标识 AI 修改？弱网/端侧能做哪部分？"
     },
     {
-      "id": "20260924-16-metassmartglassesp",
+      "id": "20260924-17-metassmartglassesp",
       "category": "AI 硬件",
       "badge": "端侧 / 设备",
       "title": "Meta’s smart glasses privacy defense falters when AI can use camera without recording light",
@@ -295,12 +313,12 @@
       "askDev": "哪些信息必须端侧处理？哪些可以上云？延迟预算是多少？误识别会造成什么后果？离线时如何降级？"
     },
     {
-      "id": "20260924-17-坚决不用行业标准agentsmdcl",
+      "id": "20260924-18-坚决不用行业标准agentsmdcl",
       "category": "AI 编程",
       "badge": "开发工具",
       "title": "坚决不用行业标准AGENTS.md，Claude Code惹来“封杀令”：Anthropic终于回应了，但开发者更气了",
       "source": {
-        "name": "36Kr",
+        "name": "36kr.com",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9fS0h4andkeURiNm5pV1RMRXp5dUs2T3JlQWs1Q0MtQWhVaGhRWFNrR19uTlVOYnh5UE5rMnA4RmpVWDQyME1yR2VCbVBIQQ?oc=5"
       },
       "publishedAt": "2026-08-26 15:00",
@@ -313,7 +331,7 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20260924-18-ai圈上演神级互撕codexclau",
+      "id": "20260924-19-ai圈上演神级互撕codexclau",
       "category": "AI 编程",
       "badge": "开发工具",
       "title": "AI 圈上演神级互撕！Codex、Claude Code 两位负责人公开对喷",
@@ -331,7 +349,7 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20260924-19-开发者找到办法脱离anthropic",
+      "id": "20260924-20-开发者找到办法脱离anthropic",
       "category": "AI 编程",
       "badge": "开发工具",
       "title": "开发者找到办法，脱离Anthropic模型使用Claude Code",
@@ -349,12 +367,30 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20260924-20-神级反转github昨夜大规模宕机7",
+      "id": "20260924-21-claudecode推出projec",
+      "category": "AI 编程",
+      "badge": "开发工具",
+      "title": "Claude Code推出Projects：一个对话拆出并行线程，合上电脑任务仍在跑",
+      "source": {
+        "name": "富途牛牛",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOektEN1ByNmpVamdoQTJQRjVUOHhQMkVHZS16bk1VUFlVdmM3SUZhOW5TYWtEWmlMYVRwMmc5U1RDVHk5TTlZbTU3RGlNTVpadlU0b0NFOUpOX3I0eVlvRFJXaXFxemwtWlplMlBvNU9SeHlEUU1va3p3UmtaNF9yWHJwaG5NUEhGdTlnT2I2OTJXZnZMbklPNDY0UExYX2E0VElXdllnRmtxWS1YY0xnWVh4aDlBdXN6X1E?oc=5"
+      },
+      "publishedAt": "2026-09-18 05:21",
+      "score": 106,
+      "oneLine": "AI 编程工具继续从代码补全走向任务执行：理解目标、改文件、跑验证、解释过程会变成基本能力。",
+      "judgment": "这类更新最值得产品经理关注，因为它能把需求讨论更快变成可演示原型；但也会放大错误执行、权限和验收问题。",
+      "capability": "能力边界正在从“写一段代码”推进到“处理一个小任务”。真正要看的是它是否能稳定读懂上下文、定位文件、修改后自检。",
+      "boundary": "不能把它当成无人值守研发。复杂架构、隐私数据、生产发布、删除操作仍需要明确权限、检查点和人工确认。",
+      "pmInsight": "你可以开始把 PRD 写成可执行任务：目标、输入、验收条件、失败回退，而不是只写页面和功能点。",
+      "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
+    },
+    {
+      "id": "20260924-22-神级反转github昨夜大规模宕机7",
       "category": "AI 编程",
       "badge": "开发工具",
       "title": "神级反转，GitHub 昨夜大规模宕机7小时，Cursor 火速上线Agent版代码托管平台",
       "source": {
-        "name": "36Kr",
+        "name": "36kr.com",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1yeDZDV0lzYlpLeko2UEl0RWhnN1VZRVFTYWV1MExRMkRRa3BoV0NDTmI1TVNFWDF2NjRHQThPTFJmeGFOSjdPMmFPWi00QQ?oc=5"
       },
       "publishedAt": "2026-08-17 15:00",
@@ -367,7 +403,7 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20260924-21-cursoraihacktrigge",
+      "id": "20260924-23-cursoraihacktrigge",
       "category": "AI 编程",
       "badge": "开发工具",
       "title": "Cursor AI Hack Triggers 23 New AI Agent Risk Rules [2026]",
@@ -385,7 +421,7 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20260924-22-gptversiontimeline",
+      "id": "20260924-24-gptversiontimeline",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "GPT Version Timeline: From GPT-1 to GPT-6 Explained",
@@ -403,7 +439,7 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20260924-23-谷歌deepmind已经破解rsi",
+      "id": "20260924-25-谷歌deepmind已经破解rsi",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "谷歌DeepMind，已经破解RSI?",
@@ -421,7 +457,7 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20260924-24-独家丨百度挖来deepmind核心成",
+      "id": "20260924-26-独家丨百度挖来deepmind核心成",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "独家丨百度挖来 DeepMind 核心成员 Qiyin Wu",
@@ -439,7 +475,7 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20260924-25-刚刚gemini38live上线",
+      "id": "20260924-27-刚刚gemini38live上线",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "刚刚，Gemini 3.8 Live上线！",
@@ -457,7 +493,7 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20260924-26-大手笔openai全面开源codex",
+      "id": "20260924-28-大手笔openai全面开源codex",
       "category": "AI 编程",
       "badge": "开发工具",
       "title": "大手笔！OpenAI全面开源Codex Harness",
@@ -475,25 +511,7 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20260924-27-70项目注定被砍claudecode",
-      "category": "AI 编程",
-      "badge": "开发工具",
-      "title": "70%项目注定被砍？Claude Code成功背后，Anthropic养了一支“失败者”团队",
-      "source": {
-        "name": "华尔街见闻",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tdTY2ODdia1NjRUx4RWk3MlBwSFlTcFpIbUNNNkVocGxpS2pqXy1sLWhKQzF1WnJmekh2RlBEZUVqdFBiOV9wcDFkR2JDTzdhendn?oc=5"
-      },
-      "publishedAt": "2026-09-08 15:00",
-      "score": 96,
-      "oneLine": "AI 编程工具继续从代码补全走向任务执行：理解目标、改文件、跑验证、解释过程会变成基本能力。",
-      "judgment": "这类更新最值得产品经理关注，因为它能把需求讨论更快变成可演示原型；但也会放大错误执行、权限和验收问题。",
-      "capability": "能力边界正在从“写一段代码”推进到“处理一个小任务”。真正要看的是它是否能稳定读懂上下文、定位文件、修改后自检。",
-      "boundary": "不能把它当成无人值守研发。复杂架构、隐私数据、生产发布、删除操作仍需要明确权限、检查点和人工确认。",
-      "pmInsight": "你可以开始把 PRD 写成可执行任务：目标、输入、验收条件、失败回退，而不是只写页面和功能点。",
-      "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
-    },
-    {
-      "id": "20260924-28-anthropic升级claudec",
+      "id": "20260924-29-anthropic升级claudec",
       "category": "AI 编程",
       "badge": "开发工具",
       "title": "Anthropic升级Claude Code/Cowork，可后台操控用户Mac",
@@ -511,7 +529,7 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20260924-29-introducingchatgpt",
+      "id": "20260924-30-introducingchatgpt",
       "category": "影像/创作",
       "badge": "图像 / 视频",
       "title": "Introducing ChatGPT Images 2.5",
@@ -529,7 +547,7 @@
       "askDev": "我们能否保留真实素材与 AI 生成素材的链路？能否让用户关闭、回退或标识 AI 修改？弱网/端侧能做哪部分？"
     },
     {
-      "id": "20260924-30-bytedancerunwayand",
+      "id": "20260924-31-bytedancerunwayand",
       "category": "影像/创作",
       "badge": "图像 / 视频",
       "title": "ByteDance, Runway and Luma Now Split the AI Video Market OpenAI Left Behind",
@@ -547,7 +565,7 @@
       "askDev": "我们能否保留真实素材与 AI 生成素材的链路？能否让用户关闭、回退或标识 AI 修改？弱网/端侧能做哪部分？"
     },
     {
-      "id": "20260924-31-deepseekstatistics",
+      "id": "20260924-32-deepseekstatistics",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "DeepSeek Statistics 2026: Users, Token Share, Pricing and Benchmark Data",
@@ -565,12 +583,12 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20260924-32-top15neuralnetwork",
+      "id": "20260924-33-top15neuralnetwork",
       "category": "影像/创作",
       "badge": "图像 / 视频",
       "title": "Top 15 neural networks for video creation: the best solutions from Google Veo 3.1 to Seedance",
       "source": {
-        "name": "incrypted",
+        "name": "Incrypted",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5idjhUQlhtRUxxek9UZTdZTVd6dllJVXY4WUJOY2V1SEIycnV6MGs3Um1ESm8wZFRWV3p3d2JHWlJPS0ZLd1lhUEhreE1FUEFLV2xDNUw5ejVGRUpidUVMNg?oc=5"
       },
       "publishedAt": "2026-08-19 15:00",
@@ -583,7 +601,7 @@
       "askDev": "我们能否保留真实素材与 AI 生成素材的链路？能否让用户关闭、回退或标识 AI 修改？弱网/端侧能做哪部分？"
     },
     {
-      "id": "20260924-33-anthropic指中国ai公司发起",
+      "id": "20260924-34-anthropic指中国ai公司发起",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "Anthropic指中国AI公司发起蒸馏攻击 北京：反对歪曲事实",
@@ -601,7 +619,7 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20260924-34-cursor一夜干掉了github",
+      "id": "20260924-35-cursor一夜干掉了github",
       "category": "AI 编程",
       "badge": "开发工具",
       "title": "Cursor一夜“干掉了”GitHub",
@@ -619,7 +637,7 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20260924-35-aicoding提速之后如何补上稳定",
+      "id": "20260924-36-aicoding提速之后如何补上稳定",
       "category": "AI 编程",
       "badge": "开发工具",
       "title": "AI Coding 提速之后，如何补上稳定性“最后一公里”？快手柯南 AI 实践",
@@ -635,24 +653,6 @@
       "boundary": "不能把它当成无人值守研发。复杂架构、隐私数据、生产发布、删除操作仍需要明确权限、检查点和人工确认。",
       "pmInsight": "你可以开始把 PRD 写成可执行任务：目标、输入、验收条件、失败回退，而不是只写页面和功能点。",
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
-    },
-    {
-      "id": "20260924-36-黑鲸之后openai开放harnes",
-      "category": "模型/新能力",
-      "badge": "模型迭代",
-      "title": "黑鲸之后，OpenAI开放Harness，争夺“Agent运行时”",
-      "source": {
-        "name": "36Kr",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9JVDRYamd3ZG5jOVpIZFdBanY1WTRmWmJva1l6czhXMGMxNWdmQzE1WGxJX3pIZmo1cXowT1JBSFJXWnQ2ZlJRdjRRdGh0QQ?oc=5"
-      },
-      "publishedAt": "2026-08-23 15:00",
-      "score": 93,
-      "oneLine": "这类动态的重点是模型能力边界是否变化：更会推理、更会用工具、更懂多模态，还是成本/速度发生变化。",
-      "judgment": "模型新闻不要只看名字和榜单，要追问它新增了哪类真实任务能力，以及是否已经可用、可稳定复现。",
-      "capability": "模型能力通常体现在上下文长度、推理、工具调用、多模态输入输出、代码能力、成本和延迟这些维度。",
-      "boundary": "发布演示和真实产品可用性不是一回事；还要验证地区、价格、限流、幻觉率、失败恢复和数据安全。",
-      "pmInsight": "你可以把模型更新翻译成需求假设：哪些原来做不了的任务现在可能可做？哪些体验可以从人工流程变成 AI 协助？",
-      "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     }
   ],
   "deepDives": [
