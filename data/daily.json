@@ -2,7 +2,7 @@
   "version": 2,
   "label": "AI Daily Brief",
   "date": "2026 年 9 月 25 日",
-  "updatedAt": "2026-09-25 05:09（北京时间）",
+  "updatedAt": "2026-09-25 11:28（北京时间）",
   "title": "今天值得关注的 AI 情报",
   "summary": "先扫快讯，再看重点判断。内容覆盖海外模型与产品、AI 编程、影像创作、AI 硬件和中文科技媒体信号。",
   "signals": [
@@ -84,11 +84,11 @@
       "badge": "端侧 / 设备",
       "title": "Meta introduces camera-free AI glasses",
       "source": {
-        "name": "TechCrunch",
+        "name": "techcrunch.com",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBOYnhnRV84c3B1ZGtRNWh1cHV6c1dsandxa21IV25ZazN2LTIySTJtZmpmVmQ5NjY0WkN0YmZsMTlQZ0lBaFB1RnVDal90MmwxNzJQdm9pRlFvbEZObWkxcVdidHdoT3U4U0tUMWM1c2JMcDlkQ1h0RmxjYWJxQQ?oc=5"
       },
       "publishedAt": "2026-09-24 07:39",
-      "score": 111,
+      "score": 105,
       "oneLine": "AI 硬件的价值不在于塞一个聊天入口，而在于设备能理解状态、场景、传感器和可执行动作。",
       "judgment": "这是你软硬结合背景最该长期关注的方向：端侧、云端和设备上下文的分工，会直接决定体验是否可用。",
       "capability": "端侧模型、传感器理解、语音交互和云端复杂推理正在组合成新的设备体验。",
@@ -151,16 +151,16 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20260925-09-metalaunchesaiagen",
+      "id": "20260925-09-claudevsgeminismar",
       "category": "AI 产品",
       "badge": "应用更新",
-      "title": "Meta launches AI agent that can access other apps to send emails, make payments",
+      "title": "Claude vs. Gemini: Smarter Brains or Better Features?",
       "source": {
-        "name": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS195TVZPeEJJbzNYTEZ0dnI4WGxOWXF2ZlRmbDEyU1VtWnFsd012VXVDd01mRHY3Y3lDOW9pRXRYSXR6R2NqYVM3R0xwMURjZElSZHVkckZidjNoWTh5OWlNWkZGUGJpWnpDSUhUOUxBUEZDTVpwZjFXemxIdTlvanpSMXF2MXo1UkNtN2UtZVdfX3J2ZTdCekREbUxkaFo1MVpLakxOT0ZaeUVoMlhlb2E0Y0dfV2g0bXRNbw?oc=5"
+        "name": "PCMag",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ2t6TUZnSmg4TExUTjkzV09KMC1tMWUwSzU1QkpnSElYSXZtV1BVUFBpZzBrMjdvU0hQMUVYaWhPUk9WdWxJdzJYZ2FFem5LemROdENGeno2ek1QNkdTWkNCSEtkeDkzYlREeW1hTGxsaHBEbzl4X3ltYzFBQ2VQdXZSRUNsdFJ5T3JudQ?oc=5"
       },
-      "publishedAt": "2026-09-08 15:00",
-      "score": 85,
+      "publishedAt": "2026-09-02 15:00",
+      "score": 76,
       "oneLine": "AI 应用更新的核心不是“加了 AI”，而是它替用户完成了哪一步、在什么时机介入、用户如何控制。",
       "judgment": "产品经理要看的是任务链路是否真的变短，而不是宣传里的一次成功演示。",
       "capability": "AI 正在进入搜索、写作、设计、会议、浏览器和办公流，把理解、生成、调用工具组合成体验。",
@@ -174,7 +174,7 @@
       "badge": "图像 / 视频",
       "title": "Best AI Video Generators for Creators in 2026",
       "source": {
-        "name": "technology.org",
+        "name": "Technology Org",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUlJKZjB5bHRqa2dFUDlDNGdWb1VwNzJJY2ZvbkdkNGYwMzItcDA1RTRzX0VvaWhDa2RBZ2lpb0hMd3BmbU5rREFNWXQyTDFHTjNjWWVmZUxwWnJld2ZncTFubFJUQVNwTG40WERaN1JWNVRfNWU0bEwtQm16MWdVUmZMWUlLTWo5R09sQw?oc=5"
       },
       "publishedAt": "2026-09-24 18:39",
@@ -259,16 +259,16 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20260925-15-metapushesintopers",
+      "id": "20260925-15-5featuresthatgivec",
       "category": "AI 产品",
       "badge": "应用更新",
-      "title": "Meta pushes into personal AI agents as company faces public reckoning over privacy and safety",
+      "title": "5 features that give Claude the edge over ChatGPT",
       "source": {
-        "name": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOc3FnZkpVdk5HZkFnakV0N3dBWmZ6SFFjTE1DLWlsUGQ0N1Y3SlhiTGFzVkFQQnY2cHkxSzd2YlpwOERKLVZOOGtkdThRTzloZzBBUWlpWmUyS2UzU3J3QjhPUkFhR1pROW9ybW1JNWpMSmZWdjRwV0cyY3Atcnh1c3E1Q28zVnRGLTlmS1ZGQkRPY0xYVjU40gGcAUFVX3lxTE05R3lsWEZfZjV6WkRZNndRZU8wZWhUZDViT0tYYU1VWlpSTUpFNkpra2EzS0JCcl9ySzRCWTR4enJoVDdoTXFfcElqQ0hJZ0JVeXRWSU11ZWlnOElBbW9XYjFLVEtybktUMWlhU01DOC1VcVFGaktNeTl1eFNGYmowYjZZTzY5SnkzcllGdUl5N1NfWlprVmh2TFVoeQ?oc=5"
+        "name": "tomsguide.com",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPR1BEOXM1ZUNtbHc1TlNjcGZ3QVMzODhtak9KV2phcmhTaUJwOGRydVU5SU5ob2FhTVAzdUM3Q0VSUHZWb2xLZ096ajlvc1ctckRTLTdsZFoyVGpydGZEOWFKVEpqQkpnU2VwMVQ4Ny1mMU1LSFMtY25yTTdJNEJhY0xZcmdxZEtOY1QtSWtn?oc=5"
       },
-      "publishedAt": "2026-09-08 15:00",
-      "score": 85,
+      "publishedAt": "2026-08-18 15:00",
+      "score": 76,
       "oneLine": "AI 应用更新的核心不是“加了 AI”，而是它替用户完成了哪一步、在什么时机介入、用户如何控制。",
       "judgment": "产品经理要看的是任务链路是否真的变短，而不是宣传里的一次成功演示。",
       "capability": "AI 正在进入搜索、写作、设计、会议、浏览器和办公流，把理解、生成、调用工具组合成体验。",
@@ -295,16 +295,16 @@
       "askDev": "我们能否保留真实素材与 AI 生成素材的链路？能否让用户关闭、回退或标识 AI 修改？弱网/端侧能做哪部分？"
     },
     {
-      "id": "20260925-17-metasnewsmartglass",
+      "id": "20260925-17-snapdragonsoundeli",
       "category": "AI 硬件",
       "badge": "端侧 / 设备",
-      "title": "Meta’s New Smart Glasses Ditch the Camera Amid Privacy Backlash",
+      "title": "Snapdragon Sound Elite Gen 2 Advances Intelligent Audio Wearables for the Agentic Age",
       "source": {
-        "name": "Vogue",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWXAtRnFRS3pibVZRd0FwUVQ4YUYtbGR4cXQxTVdTRDJKMmhuQ180WXZlSzlwR1lXQmxVeDFXbjdSTWRJVUdIb05sSHN6dFdZMERFLXA0NE9CZXlhZ2RXc1NucENKWXc2eXlZY3BBaHM3bXNIYUJFcEt2c3ltOVhLTFJNUEl4QlZBSndkaXV0WmZlNGh0My1v?oc=5"
+        "name": "Qualcomm",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUW9BVE9aYndmNmpTLVR1a3phc0g2UEhRd0FTYUY0TUVreEJPUnFYa1BfVFh5SFo5VlRnR016TEc0M2dsaW9zS2NBU05iNk5MNzlWeEdXLW9jcjdWYnlpbjFScTVuZ0ZfWnFxRVV2djgtM21NbGpNYmhhM0pvSDI1RjJZOVFINlYzdTdKZWRnd3MxXzEwcWNvYmdNOTBRaTYzSXM3bWxiY0lhRUk0eXluSQ?oc=5"
       },
-      "publishedAt": "2026-09-24 08:00",
-      "score": 101,
+      "publishedAt": "2026-09-23 18:00",
+      "score": 97,
       "oneLine": "AI 硬件的价值不在于塞一个聊天入口，而在于设备能理解状态、场景、传感器和可执行动作。",
       "judgment": "这是你软硬结合背景最该长期关注的方向：端侧、云端和设备上下文的分工，会直接决定体验是否可用。",
       "capability": "端侧模型、传感器理解、语音交互和云端复杂推理正在组合成新的设备体验。",
@@ -462,7 +462,7 @@
       "badge": "模型迭代",
       "title": "OpenAI和Claude都在干的事，没想到Qoder在5月就上线了",
       "source": {
-        "name": "新浪财经",
+        "name": "新浪财经_金融信息服务商",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0tOUhvMnp2ZFlRMlFwS01xRkUwdWdIdmpuZEI0eE1SeFE0VERTa2pmMURwb0FwZlVLeDJyOGxrVVhmZFl5NjFsSXRkY0x4a3VQT0ZqeFR0Qmw2VVVuV2FOeXNkcHZKSEJLc0tUQW9ZNXNpYkpsZ3JjTkU3V0s?oc=5"
       },
       "publishedAt": "2026-09-21 10:03",
@@ -498,7 +498,7 @@
       "badge": "模型迭代",
       "title": "独家丨百度挖来 DeepMind 核心成员 Qiyin Wu",
       "source": {
-        "name": "新浪财经",
+        "name": "新浪财经_金融信息服务商",
         "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxQSjRnMFpMUVE2bjNLOGNHNTcyR0lsZm9kOHRJX1gwV3BkRGhGRWoxeHd3Z2FGYTlKYU9vWF9lRFJYQng0OGtIY0tpa0N3RlpwV3FMOEVwV1JnUUVadEZ0c21JdGtPY256SnVoQjUxYlMzU2Zua1I4cTExdWJEdEQxVjFMQUFfUW01N2lrUzdESEJUaWVnMmo4cUxCUlZvMzNCcU9ja1NweXVUaVFzTmhfRmpDWEI5aDVmaGRWSlhjcTR0WWwzZjMwYVlLVERTUEk0ZXA0MzhUd0VRMm9CbzFMUHhmV2g4ek9acnU4UE5nSUpGSWtXeDJSQmhwQ1Fkandpa1p3R1pRckhMOXFTdUYwSjVzaDRVX2VCTXdhSVJLem1zdUQ3d1d2S2V5SnJxT1Y2SS12WXdOWVhCMm1qRDVpTjluUHRfcVVxRnVxeno5NktHUGRXaHpYdTB5a3JaWkpmbThNTnByQnhfT2dVdVFqVzEydWI3TU52WU1nQkZ6Nm9qMGgtdUlsQVlOT3dnc1RiVUdIM2VBZG5YWTk3N3VOMV9kaFdSYWlOQnhZNkZZMHItSEVQUnRvODZNdTZ1elp0TFJ6RE1sZURGenc?oc=5"
       },
       "publishedAt": "2026-09-18 15:04",
@@ -552,7 +552,7 @@
       "badge": "开发工具",
       "title": "Anthropic升级Claude Code/Cowork，可后台操控用户Mac",
       "source": {
-        "name": "TradingView",
+        "name": "tradingview.com",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GWG1FakRzaGs3WnVJN010WXN2b1JwbTFIMUg4Vm10S1lDOEJGMHdQM0trcjlac3hxaDNmeGdPRU9iYmkwdEdmcW9Ib0FOMVk3TkFkV2JRU0RiQXF1S044N3BqaDFCSzQ?oc=5"
       },
       "publishedAt": "2026-09-02 15:00",
@@ -619,7 +619,25 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20260925-35-top15neuralnetwork",
+      "id": "20260925-35-metasmuseaiagentdo",
+      "category": "模型/新能力",
+      "badge": "模型迭代",
+      "title": "Meta's Muse AI agent downloads are surging. Here's how it compares to ChatGPT, Grok and Claude",
+      "source": {
+        "name": "CNBC",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2MWNvQml5ZUQzbFhpU1lMenVhSHNTN2pPWDd3cHhSdTZ0enFlaXdEWThSODNpX0RlUno4TFJXSXlYVmwyX3J5bFNVdXZ4b3dFMHloR3AzeDZaMmxDQjd5SXhNQUZNM2xoak9NSWlEUG0yZU4xLW9TcVZqSC1KVzTSAYQBQVVfeXFMUDhTVzJFMThuYm0tUlNDTGFzeTdiTkJ0MWtjbkpLVVpuM3UtUVl0RDlmQmh5R08wZ3B0R0tGTjNuYmpPUlZuTWJuNUF4Z0F3NU0tbVN2X1k3bVh0aklkSkJVX08yaGt1NC0wSnpRd0hsMEwtQm5nRlYxMEU0eWlFenRfVVpI?oc=5"
+      },
+      "publishedAt": "2026-09-22 02:28",
+      "score": 95,
+      "oneLine": "这类动态的重点是模型能力边界是否变化：更会推理、更会用工具、更懂多模态，还是成本/速度发生变化。",
+      "judgment": "模型新闻不要只看名字和榜单，要追问它新增了哪类真实任务能力，以及是否已经可用、可稳定复现。",
+      "capability": "模型能力通常体现在上下文长度、推理、工具调用、多模态输入输出、代码能力、成本和延迟这些维度。",
+      "boundary": "发布演示和真实产品可用性不是一回事；还要验证地区、价格、限流、幻觉率、失败恢复和数据安全。",
+      "pmInsight": "你可以把模型更新翻译成需求假设：哪些原来做不了的任务现在可能可做？哪些体验可以从人工流程变成 AI 协助？",
+      "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
+    },
+    {
+      "id": "20260925-36-top15neuralnetwork",
       "category": "影像/创作",
       "badge": "图像 / 视频",
       "title": "Top 15 neural networks for video creation: the best solutions from Google Veo 3.1 to Seedance",
@@ -635,24 +653,6 @@
       "boundary": "动作真实性、人物一致性、版权、商用授权和 AI 生成标识仍是高风险点。生成得好看不代表事实可信。",
       "pmInsight": "可以优先考虑“AI 剪辑助理 / 高光筛选 / 标题字幕 / 风格预览”，而不是一上来做完全自动生成大片。",
       "askDev": "我们能否保留真实素材与 AI 生成素材的链路？能否让用户关闭、回退或标识 AI 修改？弱网/端侧能做哪部分？"
-    },
-    {
-      "id": "20260925-36-metalaunchesaigadg",
-      "category": "AI 硬件",
-      "badge": "端侧 / 设备",
-      "title": "Meta launches AI gadget Charm as race for post-smartphone hardware heats up",
-      "source": {
-        "name": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObE05WERqVUVFa0UtVllxdVlwckduNFR2RGNDQ0Y4ZmJFVW4xOW8ybWR0bGwza3dMbnFzSFFmQWdmTnJDM1o4RDZZN21Zajk0aDJIcHFnZlRGZXJxYXkxaXBBR2dVZXM3ZUN1R1pjdW1faTIzOE9ucEQ2d1lFOEVkT0FuZlBrd0YxNUplS1htRXFGVVNwQTZENVl3S3JHWGVEb1N5eWxQbUo4REJLOUtMTjNOdklDUWc?oc=5"
-      },
-      "publishedAt": "2026-09-23 18:02",
-      "score": 95,
-      "oneLine": "AI 硬件的价值不在于塞一个聊天入口，而在于设备能理解状态、场景、传感器和可执行动作。",
-      "judgment": "这是你软硬结合背景最该长期关注的方向：端侧、云端和设备上下文的分工，会直接决定体验是否可用。",
-      "capability": "端侧模型、传感器理解、语音交互和云端复杂推理正在组合成新的设备体验。",
-      "boundary": "功耗、散热、时延、离线、隐私、误触发和安全确认会限制真实落地，演示效果不能代表量产体验。",
-      "pmInsight": "做硬件 AI 需求时，先定义场景触发、设备状态、用户确认和失败回退，再讨论模型能力。",
-      "askDev": "哪些信息必须端侧处理？哪些可以上云？延迟预算是多少？误识别会造成什么后果？离线时如何降级？"
     }
   ],
   "deepDives": [
