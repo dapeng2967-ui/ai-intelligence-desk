@@ -2,7 +2,7 @@
   "version": 2,
   "label": "AI Daily Brief",
   "date": "2026 年 10 月 2 日",
-  "updatedAt": "2026-10-02 06:20（北京时间）",
+  "updatedAt": "2026-10-02 12:06（北京时间）",
   "title": "今天值得关注的 AI 情报",
   "summary": "先扫快讯，再看重点判断。内容覆盖海外模型与产品、AI 编程、影像创作、AI 硬件和中文科技媒体信号。",
   "signals": [
@@ -156,7 +156,7 @@
       "badge": "图像 / 视频",
       "title": "Detroit Free Press. . Meta unveiled camera-free smart glasses on Sept. 23. The glasses are designed to ease the privacy concerns about devices that can take pictures and video without consent.",
       "source": {
-        "name": "facebook.com",
+        "name": "Facebook",
         "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZTBRUC1sYVlCcXo1UkkwOGxwdlhlbEd4Yl9TUnNObFFvOFBzWDZjTG8tVzFKVmdua0NFaldEYnNnNXhVLTlJOW4tc1dTYVJFalRhQ1VIRkdjN2pUd0JHLTA4X3ZpRE5tMGFTYkllWDB3SjNPVzE4ckxESTA0YWFwN2d0TGRoSHF6TUhlM014Q1VHblBoODFrSzliLUI2bVdvQWt5UzdnSnNHaG9kTWlUbHZSckN2WXF5N2k5NEU4azFGLWZ3SV9zeG5HOHFFY3RuUmhmWmFFRGlIeGVuQkFJUg?oc=5"
       },
       "publishedAt": "2026-09-29 23:30",
@@ -187,16 +187,16 @@
       "askDev": "哪些信息必须端侧处理？哪些可以上云？延迟预算是多少？误识别会造成什么后果？离线时如何降级？"
     },
     {
-      "id": "20261002-11-introducingdots",
+      "id": "20261002-11-谷歌deepmind研究员宣称gem",
       "category": "模型/新能力",
       "badge": "模型迭代",
-      "title": "Introducing dots",
+      "title": "谷歌DeepMind研究员宣称Gemini 4已实现RSI！",
       "source": {
-        "name": "OpenAI",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MVUVlaTV5ZFFBUnVJMFZDWTJIRGg5R20zQXpKU0tENk5PMXR0TEZ0N2VqRXpsOHdrazZKYS1QaUFNZ2tzN0c4Tnk0UjBjRmtFX0RjRw?oc=5"
+        "name": "新浪财经",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZUs5M1lsbl9uZHJFYXI1ZmJRczZWUDZPY2dlWmM4MkNUOWFYSlBTbnNUTnZENVhQUVU2b2Y3YndVVk95OHdRczhNbTZTLUZ0VzBHNm9WWDdCUlhab25SNVp3LXl1cG9CblFUdTJwUTBqME8wOE5HOUFPV3lDTFpUNUhJQnpPYWQyTGgwVGwtQUZEczFwd25WWHVfc1htS3VXbGkwTkt5UXFqWmZjWVFBY2F3?oc=5"
       },
-      "publishedAt": "2026-09-29 06:23",
-      "score": 108,
+      "publishedAt": "2026-10-01 18:51",
+      "score": 107,
       "oneLine": "这类动态的重点是模型能力边界是否变化：更会推理、更会用工具、更懂多模态，还是成本/速度发生变化。",
       "judgment": "模型新闻不要只看名字和榜单，要追问它新增了哪类真实任务能力，以及是否已经可用、可稳定复现。",
       "capability": "模型能力通常体现在上下文长度、推理、工具调用、多模态输入输出、代码能力、成本和延迟这些维度。",
@@ -277,25 +277,7 @@
       "askDev": "哪些信息必须端侧处理？哪些可以上云？延迟预算是多少？误识别会造成什么后果？离线时如何降级？"
     },
     {
-      "id": "20261002-16-谷歌deepmind研究员宣称gem",
-      "category": "模型/新能力",
-      "badge": "模型迭代",
-      "title": "谷歌DeepMind研究员宣称Gemini 4已实现RSI！",
-      "source": {
-        "name": "新浪财经",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZUs5M1lsbl9uZHJFYXI1ZmJRczZWUDZPY2dlWmM4MkNUOWFYSlBTbnNUTnZENVhQUVU2b2Y3YndVVk95OHdRczhNbTZTLUZ0VzBHNm9WWDdCUlhab25SNVp3LXl1cG9CblFUdTJwUTBqME8wOE5HOUFPV3lDTFpUNUhJQnpPYWQyTGgwVGwtQUZEczFwd25WWHVfc1htS3VXbGkwTkt5UXFqWmZjWVFBY2F3?oc=5"
-      },
-      "publishedAt": "2026-10-01 18:51",
-      "score": 107,
-      "oneLine": "这类动态的重点是模型能力边界是否变化：更会推理、更会用工具、更懂多模态，还是成本/速度发生变化。",
-      "judgment": "模型新闻不要只看名字和榜单，要追问它新增了哪类真实任务能力，以及是否已经可用、可稳定复现。",
-      "capability": "模型能力通常体现在上下文长度、推理、工具调用、多模态输入输出、代码能力、成本和延迟这些维度。",
-      "boundary": "发布演示和真实产品可用性不是一回事；还要验证地区、价格、限流、幻觉率、失败恢复和数据安全。",
-      "pmInsight": "你可以把模型更新翻译成需求假设：哪些原来做不了的任务现在可能可做？哪些体验可以从人工流程变成 AI 协助？",
-      "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
-    },
-    {
-      "id": "20261002-17-英伟达联手anthropic发布ai",
+      "id": "20261002-16-英伟达联手anthropic发布ai",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "英伟达联手Anthropic发布AI Agent安全工具，称可阻止Hugging Face式攻击",
@@ -313,7 +295,7 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20261002-18-claude主导anthropic2",
+      "id": "20261002-17-claude主导anthropic2",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "Claude“主导”Anthropic 26%的AI研发、3万Agent同时运行：当AI开始“造AI”，头部AI公司的RSI路线正在分化",
@@ -331,7 +313,7 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20261002-19-anthropicclaudecod",
+      "id": "20261002-18-anthropicclaudecod",
       "category": "AI 编程",
       "badge": "开发工具",
       "title": "Anthropic Claude Code 云会话正式上线，Pro / Max 用户可领 100~250 美元额度",
@@ -349,7 +331,7 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20261002-20-openai把codex做成apia",
+      "id": "20261002-19-openai把codex做成apia",
       "category": "AI 编程",
       "badge": "开发工具",
       "title": "OpenAI 把 Codex 做成API：Agents API 开放托管会话与沙箱- OSCHINA - 开源 × AI · 开发者生态社区",
@@ -367,7 +349,7 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20261002-21-deepseek要做安卓而codex",
+      "id": "20261002-20-deepseek要做安卓而codex",
       "category": "AI 编程",
       "badge": "开发工具",
       "title": "DeepSeek要做“安卓”，而Codex要做IOS？",
@@ -385,12 +367,12 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20261002-22-cursor最新动态最新更新与发布说",
+      "id": "20261002-21-cursor最新动态最新更新与发布说",
       "category": "AI 编程",
       "badge": "开发工具",
       "title": "Cursor 最新动态 — 最新更新与发布说明",
       "source": {
-        "name": "Cursor",
+        "name": "cursor.com",
         "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0td3NNU1BMUDUybHM4MEp0RnFEaUlXSXJIOWgxeFBRM2FqNG83d3V0VVQ4U0ZTYUtTVC1KczRfYkpkWm9pUHc?oc=5"
       },
       "publishedAt": "2026-09-23 08:00",
@@ -403,7 +385,7 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20261002-23-deepkeep为ai编码代理添加运",
+      "id": "20261002-22-deepkeep为ai编码代理添加运",
       "category": "AI 编程",
       "badge": "开发工具",
       "title": "DeepKeep 为 AI 编码代理添加运行时护栏，推出 AI Lens for Developers",
@@ -419,6 +401,24 @@
       "boundary": "不能把它当成无人值守研发。复杂架构、隐私数据、生产发布、删除操作仍需要明确权限、检查点和人工确认。",
       "pmInsight": "你可以开始把 PRD 写成可执行任务：目标、输入、验收条件、失败回退，而不是只写页面和功能点。",
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
+    },
+    {
+      "id": "20261002-23-introducingdots",
+      "category": "模型/新能力",
+      "badge": "模型迭代",
+      "title": "Introducing dots",
+      "source": {
+        "name": "OpenAI",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MVUVlaTV5ZFFBUnVJMFZDWTJIRGg5R20zQXpKU0tENk5PMXR0TEZ0N2VqRXpsOHdrazZKYS1QaUFNZ2tzN0c4Tnk0UjBjRmtFX0RjRw?oc=5"
+      },
+      "publishedAt": "2026-09-29 06:23",
+      "score": 104,
+      "oneLine": "这类动态的重点是模型能力边界是否变化：更会推理、更会用工具、更懂多模态，还是成本/速度发生变化。",
+      "judgment": "模型新闻不要只看名字和榜单，要追问它新增了哪类真实任务能力，以及是否已经可用、可稳定复现。",
+      "capability": "模型能力通常体现在上下文长度、推理、工具调用、多模态输入输出、代码能力、成本和延迟这些维度。",
+      "boundary": "发布演示和真实产品可用性不是一回事；还要验证地区、价格、限流、幻觉率、失败恢复和数据安全。",
+      "pmInsight": "你可以把模型更新翻译成需求假设：哪些原来做不了的任务现在可能可做？哪些体验可以从人工流程变成 AI 协助？",
+      "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
       "id": "20261002-24-aicodingagentsfore",
@@ -642,7 +642,7 @@
       "badge": "图像 / 视频",
       "title": "Top 15 neural networks for video creation: the best solutions from Google Veo 3.1 to Seedance",
       "source": {
-        "name": "Incrypted",
+        "name": "incrypted.com",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5idjhUQlhtRUxxek9UZTdZTVd6dllJVXY4WUJOY2V1SEIycnV6MGs3Um1ESm8wZFRWV3p3d2JHWlJPS0ZLd1lhUEhreE1FUEFLV2xDNUw5ejVGRUpidUVMNg?oc=5"
       },
       "publishedAt": "2026-08-19 15:00",
