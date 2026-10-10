@@ -2,21 +2,21 @@
   "version": 2,
   "label": "AI Daily Brief",
   "date": "2026 年 10 月 11 日",
-  "updatedAt": "2026-10-11 00:59（北京时间）",
+  "updatedAt": "2026-10-11 05:10（北京时间）",
   "title": "今天值得关注的 AI 情报",
   "summary": "先扫快讯，再看重点判断。内容覆盖海外模型与产品、AI 编程、影像创作、AI 硬件和中文科技媒体信号。",
   "signals": [
     {
-      "id": "20261011-01-polloaiturnscreati",
+      "id": "20261011-01-claudemd还是agentsmd",
       "category": "模型/新能力",
       "badge": "模型迭代",
-      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "title": "CLAUDE.md 还是 AGENTS.md？Anthropic 的答案是：以后都不用",
       "source": {
-        "name": "OpenAI",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBOdExScjJHVHppUWxYLXBCT05xMGRwOWpQYmdkblAwdFM0alZ3SXlSUkNFbFFVUnJQM1hVSXA3d0JsWDh5U2dOZFhB?oc=5"
+        "name": "InfoQ-CN",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8ta05iWjRDMXBQMVJDSHIzWmJCcWZqc1pLVFJ4ZzVxVjk4RHhWWUpQNXdqY0lrZko1SjBzUmU5cnJMaTU1OUw1cjhXTXhXRkpVM2NOMjY5cmpqMGFZeUE?oc=5"
       },
-      "publishedAt": "2026-10-09 00:50",
-      "score": 119,
+      "publishedAt": "2026-10-10 17:50",
+      "score": 116,
       "oneLine": "这类动态的重点是模型能力边界是否变化：更会推理、更会用工具、更懂多模态，还是成本/速度发生变化。",
       "judgment": "模型新闻不要只看名字和榜单，要追问它新增了哪类真实任务能力，以及是否已经可用、可稳定复现。",
       "capability": "模型能力通常体现在上下文长度、推理、工具调用、多模态输入输出、代码能力、成本和延迟这些维度。",
@@ -97,16 +97,16 @@
       "askDev": "哪些信息必须端侧处理？哪些可以上云？延迟预算是多少？误识别会造成什么后果？离线时如何降级？"
     },
     {
-      "id": "20261011-06-claudemd还是agentsmd",
+      "id": "20261011-06-introducinggpt6sol",
       "category": "模型/新能力",
       "badge": "模型迭代",
-      "title": "CLAUDE.md 还是 AGENTS.md？Anthropic 的答案是：以后都不用",
+      "title": "Introducing GPT-6 Sol and Luna",
       "source": {
-        "name": "InfoQ-CN",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8ta05iWjRDMXBQMVJDSHIzWmJCcWZqc1pLVFJ4ZzVxVjk4RHhWWUpQNXdqY0lrZko1SjBzUmU5cnJMaTU1OUw1cjhXTXhXRkpVM2NOMjY5cmpqMGFZeUE?oc=5"
+        "name": "OpenAI",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5"
       },
-      "publishedAt": "2026-10-10 17:50",
-      "score": 116,
+      "publishedAt": "2026-10-07 20:00",
+      "score": 115,
       "oneLine": "这类动态的重点是模型能力边界是否变化：更会推理、更会用工具、更懂多模态，还是成本/速度发生变化。",
       "judgment": "模型新闻不要只看名字和榜单，要追问它新增了哪类真实任务能力，以及是否已经可用、可稳定复现。",
       "capability": "模型能力通常体现在上下文长度、推理、工具调用、多模态输入输出、代码能力、成本和延迟这些维度。",
@@ -277,25 +277,7 @@
       "askDev": "哪些信息必须端侧处理？哪些可以上云？延迟预算是多少？误识别会造成什么后果？离线时如何降级？"
     },
     {
-      "id": "20261011-16-anthropic为claude上线",
-      "category": "模型/新能力",
-      "badge": "模型迭代",
-      "title": "Anthropic为Claude上线动态工作流 可并行调度千个AI代理",
-      "source": {
-        "name": "亿邦动力",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvOWZkSVpaYlJWaUFJOWltMURBNDRTbU0yZmpua2hHMk5hYXpUMmo3dl9xQUVQbzhWQjlKYkM1UTV0WjVEODhZZzJEd0pEWFZrTDlDY1B3?oc=5"
-      },
-      "publishedAt": "2026-10-10 09:20",
-      "score": 107,
-      "oneLine": "这类动态的重点是模型能力边界是否变化：更会推理、更会用工具、更懂多模态，还是成本/速度发生变化。",
-      "judgment": "模型新闻不要只看名字和榜单，要追问它新增了哪类真实任务能力，以及是否已经可用、可稳定复现。",
-      "capability": "模型能力通常体现在上下文长度、推理、工具调用、多模态输入输出、代码能力、成本和延迟这些维度。",
-      "boundary": "发布演示和真实产品可用性不是一回事；还要验证地区、价格、限流、幻觉率、失败恢复和数据安全。",
-      "pmInsight": "你可以把模型更新翻译成需求假设：哪些原来做不了的任务现在可能可做？哪些体验可以从人工流程变成 AI 协助？",
-      "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
-    },
-    {
-      "id": "20261011-17-claudecode的乐高模式让程序",
+      "id": "20261011-16-claudecode的乐高模式让程序",
       "category": "AI 编程",
       "badge": "开发工具",
       "title": "Claude Code 的「乐高」模式，让程序员彻底玩「上头」了",
@@ -313,7 +295,7 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20261011-18-openai把codex做成apia",
+      "id": "20261011-17-openai把codex做成apia",
       "category": "AI 编程",
       "badge": "开发工具",
       "title": "OpenAI 把 Codex 做成API：Agents API 开放托管会话与沙箱- OSCHINA - 开源 × AI · 开发者生态社区",
@@ -331,7 +313,7 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20261011-19-坚决不用行业标准agentsmdcl",
+      "id": "20261011-18-坚决不用行业标准agentsmdcl",
       "category": "AI 编程",
       "badge": "开发工具",
       "title": "坚决不用行业标准AGENTS.md，Claude Code惹来“封杀令”：Anthropic终于回应了，但开发者更气了",
@@ -349,7 +331,7 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20261011-20-claudecode下半年格式投降o",
+      "id": "20261011-19-claudecode下半年格式投降o",
       "category": "AI 编程",
       "badge": "开发工具",
       "title": "Claude Code下半年：格式投降OpenAI，功能借鉴DeepSeek",
@@ -367,7 +349,7 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20261011-21-introducingdots",
+      "id": "20261011-20-introducingdots",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "Introducing dots",
@@ -385,7 +367,7 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20261011-22-cursororigin上线gith",
+      "id": "20261011-21-cursororigin上线gith",
       "category": "AI 编程",
       "badge": "开发工具",
       "title": "Cursor Origin 上线，GitHub 的老玩法还够用吗？",
@@ -403,7 +385,7 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20261011-23-chinanarrowingaiga",
+      "id": "20261011-22-chinanarrowingaiga",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "China narrowing AI gap with US",
@@ -421,7 +403,7 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20261011-24-gemini4即将发布deepmin",
+      "id": "20261011-23-gemini4即将发布deepmin",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "Gemini 4即将发布，DeepMind新掌门透露最新进展-模型",
@@ -439,7 +421,7 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20261011-25-谷歌发布gemini4argon输出",
+      "id": "20261011-24-谷歌发布gemini4argon输出",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "谷歌发布Gemini 4 Argon 输出Token上限扩至100万|DeepMind|Google|网络安全|Google AI|基准_手机新浪网",
@@ -457,7 +439,7 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20261011-26-谷歌deepmind研究员宣称gem",
+      "id": "20261011-25-谷歌deepmind研究员宣称gem",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "谷歌DeepMind研究员宣称Gemini 4已实现RSI！",
@@ -467,6 +449,24 @@
       },
       "publishedAt": "2026-10-01 15:00",
       "score": 97,
+      "oneLine": "这类动态的重点是模型能力边界是否变化：更会推理、更会用工具、更懂多模态，还是成本/速度发生变化。",
+      "judgment": "模型新闻不要只看名字和榜单，要追问它新增了哪类真实任务能力，以及是否已经可用、可稳定复现。",
+      "capability": "模型能力通常体现在上下文长度、推理、工具调用、多模态输入输出、代码能力、成本和延迟这些维度。",
+      "boundary": "发布演示和真实产品可用性不是一回事；还要验证地区、价格、限流、幻觉率、失败恢复和数据安全。",
+      "pmInsight": "你可以把模型更新翻译成需求假设：哪些原来做不了的任务现在可能可做？哪些体验可以从人工流程变成 AI 协助？",
+      "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
+    },
+    {
+      "id": "20261011-26-anthropic接受openai标",
+      "category": "模型/新能力",
+      "badge": "模型迭代",
+      "title": "Anthropic接受OpenAI标准，智能体从此共用一份AGENTS.md",
+      "source": {
+        "name": "新浪财经",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5waW1sOFdFeGdReGpVbE5idTBPVDVIazJBNkJGdzRRSHhFekFoOHI4cmZCZFpYbjJ0MTZsWUkxdEtjZGRvTVVKM01HekVyRnpnc1A2cXF4TzdUWVpuTG5xOUVkS1pLdG4xdGs0X3lST3NVb3Q4WXZoVk5vREltdkU?oc=5"
+      },
+      "publishedAt": "2026-09-19 15:00",
+      "score": 96,
       "oneLine": "这类动态的重点是模型能力边界是否变化：更会推理、更会用工具、更懂多模态，还是成本/速度发生变化。",
       "judgment": "模型新闻不要只看名字和榜单，要追问它新增了哪类真实任务能力，以及是否已经可用、可稳定复现。",
       "capability": "模型能力通常体现在上下文长度、推理、工具调用、多模态输入输出、代码能力、成本和延迟这些维度。",
@@ -583,25 +583,7 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20261011-33-anthropic接受openai标",
-      "category": "模型/新能力",
-      "badge": "模型迭代",
-      "title": "Anthropic接受OpenAI标准，智能体从此共用一份AGENTS.md",
-      "source": {
-        "name": "新浪财经",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5waW1sOFdFeGdReGpVbE5idTBPVDVIazJBNkJGdzRRSHhFekFoOHI4cmZCZFpYbjJ0MTZsWUkxdEtjZGRvTVVKM01HekVyRnpnc1A2cXF4TzdUWVpuTG5xOUVkS1pLdG4xdGs0X3lST3NVb3Q4WXZoVk5vREltdkU?oc=5"
-      },
-      "publishedAt": "2026-09-19 15:00",
-      "score": 93,
-      "oneLine": "这类动态的重点是模型能力边界是否变化：更会推理、更会用工具、更懂多模态，还是成本/速度发生变化。",
-      "judgment": "模型新闻不要只看名字和榜单，要追问它新增了哪类真实任务能力，以及是否已经可用、可稳定复现。",
-      "capability": "模型能力通常体现在上下文长度、推理、工具调用、多模态输入输出、代码能力、成本和延迟这些维度。",
-      "boundary": "发布演示和真实产品可用性不是一回事；还要验证地区、价格、限流、幻觉率、失败恢复和数据安全。",
-      "pmInsight": "你可以把模型更新翻译成需求假设：哪些原来做不了的任务现在可能可做？哪些体验可以从人工流程变成 AI 协助？",
-      "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
-    },
-    {
-      "id": "20261011-34-判断用不用你的软件agent只需50",
+      "id": "20261011-33-判断用不用你的软件agent只需50",
       "category": "AI 编程",
       "badge": "开发工具",
       "title": "判断用不用你的软件，Agent 只需 500 个 Token",
@@ -619,7 +601,7 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20261011-35-bytedanceecosystem",
+      "id": "20261011-34-bytedanceecosystem",
       "category": "影像/创作",
       "badge": "图像 / 视频",
       "title": "ByteDance Ecosystem AI Education Strategy: From \"Tool-Focused\" Phase to \"Classroom-Centric\" Evolution",
@@ -637,7 +619,7 @@
       "askDev": "我们能否保留真实素材与 AI 生成素材的链路？能否让用户关闭、回退或标识 AI 修改？弱网/端侧能做哪部分？"
     },
     {
-      "id": "20261011-36-gptversiontimeline",
+      "id": "20261011-35-gptversiontimeline",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "GPT Version Timeline: From GPT-1 to GPT-6 Explained",
@@ -653,20 +635,38 @@
       "boundary": "发布演示和真实产品可用性不是一回事；还要验证地区、价格、限流、幻觉率、失败恢复和数据安全。",
       "pmInsight": "你可以把模型更新翻译成需求假设：哪些原来做不了的任务现在可能可做？哪些体验可以从人工流程变成 AI 协助？",
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
+    },
+    {
+      "id": "20261011-36-openai和claude都在干的事",
+      "category": "模型/新能力",
+      "badge": "模型迭代",
+      "title": "OpenAI和Claude都在干的事，没想到Qoder在5月就上线了",
+      "source": {
+        "name": "新浪财经",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0tOUhvMnp2ZFlRMlFwS01xRkUwdWdIdmpuZEI0eE1SeFE0VERTa2pmMURwb0FwZlVLeDJyOGxrVVhmZFl5NjFsSXRkY0x4a3VQT0ZqeFR0Qmw2VVVuV2FOeXNkcHZKSEJLc0tUQW9ZNXNpYkpsZ3JjTkU3V0s?oc=5"
+      },
+      "publishedAt": "2026-09-20 15:00",
+      "score": 87,
+      "oneLine": "这类动态的重点是模型能力边界是否变化：更会推理、更会用工具、更懂多模态，还是成本/速度发生变化。",
+      "judgment": "模型新闻不要只看名字和榜单，要追问它新增了哪类真实任务能力，以及是否已经可用、可稳定复现。",
+      "capability": "模型能力通常体现在上下文长度、推理、工具调用、多模态输入输出、代码能力、成本和延迟这些维度。",
+      "boundary": "发布演示和真实产品可用性不是一回事；还要验证地区、价格、限流、幻觉率、失败恢复和数据安全。",
+      "pmInsight": "你可以把模型更新翻译成需求假设：哪些原来做不了的任务现在可能可做？哪些体验可以从人工流程变成 AI 协助？",
+      "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     }
   ],
   "deepDives": [
     {
-      "id": "20261011-01-polloaiturnscreati",
+      "id": "20261011-01-claudemd还是agentsmd",
       "category": "模型/新能力",
       "badge": "模型迭代",
-      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "title": "CLAUDE.md 还是 AGENTS.md？Anthropic 的答案是：以后都不用",
       "source": {
-        "name": "OpenAI",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBOdExScjJHVHppUWxYLXBCT05xMGRwOWpQYmdkblAwdFM0alZ3SXlSUkNFbFFVUnJQM1hVSXA3d0JsWDh5U2dOZFhB?oc=5"
+        "name": "InfoQ-CN",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8ta05iWjRDMXBQMVJDSHIzWmJCcWZqc1pLVFJ4ZzVxVjk4RHhWWUpQNXdqY0lrZko1SjBzUmU5cnJMaTU1OUw1cjhXTXhXRkpVM2NOMjY5cmpqMGFZeUE?oc=5"
       },
-      "publishedAt": "2026-10-09 00:50",
-      "score": 119,
+      "publishedAt": "2026-10-10 17:50",
+      "score": 116,
       "oneLine": "这类动态的重点是模型能力边界是否变化：更会推理、更会用工具、更懂多模态，还是成本/速度发生变化。",
       "judgment": "模型新闻不要只看名字和榜单，要追问它新增了哪类真实任务能力，以及是否已经可用、可稳定复现。",
       "capability": "模型能力通常体现在上下文长度、推理、工具调用、多模态输入输出、代码能力、成本和延迟这些维度。",
