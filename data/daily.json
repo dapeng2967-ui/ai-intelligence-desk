@@ -2,20 +2,20 @@
   "version": 2,
   "label": "AI Daily Brief",
   "date": "2026 年 10 月 20 日",
-  "updatedAt": "2026-10-20 05:59（北京时间）",
+  "updatedAt": "2026-10-20 11:26（北京时间）",
   "title": "今天值得关注的 AI 情报",
   "summary": "先扫快讯，再看重点判断。内容覆盖海外模型与产品、AI 编程、影像创作、AI 硬件和中文科技媒体信号。",
   "signals": [
     {
-      "id": "20261020-01-introducinggpt6sol",
+      "id": "20261020-01-gpt6andintelligent",
       "category": "模型/新能力",
       "badge": "模型迭代",
-      "title": "Introducing GPT-6 Sol and Luna",
+      "title": "GPT-6 and Intelligent UI for everyone",
       "source": {
         "name": "OpenAI",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZcDg5SXNmVWFZbnFGQkVMYjVFNjBxeUVDWlN2RFJNREhRb0xXbmRsUWhWRnkzOWNHSjgxT3ROQk96VkZ3OHR4X2JrZDNmUThOa3ZJWU9zcw?oc=5"
       },
-      "publishedAt": "2026-10-16 03:00",
+      "publishedAt": "2026-10-07 15:00",
       "score": 115,
       "oneLine": "这类动态的重点是模型能力边界是否变化：更会推理、更会用工具、更懂多模态，还是成本/速度发生变化。",
       "judgment": "模型新闻不要只看名字和榜单，要追问它新增了哪类真实任务能力，以及是否已经可用、可稳定复现。",
@@ -657,15 +657,15 @@
   ],
   "deepDives": [
     {
-      "id": "20261020-01-introducinggpt6sol",
+      "id": "20261020-01-gpt6andintelligent",
       "category": "模型/新能力",
       "badge": "模型迭代",
-      "title": "Introducing GPT-6 Sol and Luna",
+      "title": "GPT-6 and Intelligent UI for everyone",
       "source": {
         "name": "OpenAI",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZcDg5SXNmVWFZbnFGQkVMYjVFNjBxeUVDWlN2RFJNREhRb0xXbmRsUWhWRnkzOWNHSjgxT3ROQk96VkZ3OHR4X2JrZDNmUThOa3ZJWU9zcw?oc=5"
       },
-      "publishedAt": "2026-10-16 03:00",
+      "publishedAt": "2026-10-07 15:00",
       "score": 115,
       "oneLine": "这类动态的重点是模型能力边界是否变化：更会推理、更会用工具、更懂多模态，还是成本/速度发生变化。",
       "judgment": "模型新闻不要只看名字和榜单，要追问它新增了哪类真实任务能力，以及是否已经可用、可稳定复现。",
