@@ -2,7 +2,7 @@
   "version": 2,
   "label": "AI Daily Brief",
   "date": "2026 年 11 月 13 日",
-  "updatedAt": "2026-11-13 07:13（北京时间）",
+  "updatedAt": "2026-11-13 13:07（北京时间）",
   "title": "今天值得关注的 AI 情报",
   "summary": "先扫快讯，再看重点判断。内容覆盖海外模型与产品、AI 编程、影像创作、AI 硬件和中文科技媒体信号。",
   "signals": [
@@ -313,7 +313,25 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20261113-18-为什么codingagent首选no",
+      "id": "20261113-18-nodejs为何主宰codingag",
+      "category": "AI 编程",
+      "badge": "开发工具",
+      "title": "Node.js 为何主宰 coding agent？异步生态与 TypeScript 的全面解析",
+      "source": {
+        "name": "CSDN",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12SXZHOFFhSldOMzRucXFWMTNrUDZVemxfMmIxWTBSS2RKUFFjdkJwbWNFUUQwY2RmajNWMllBd0Y1Z0dEZHcyOVgxb3UxUHNwT0E3YzgtUGtJdGtPTWF3cg?oc=5"
+      },
+      "publishedAt": "2026-11-12 14:24",
+      "score": 113,
+      "oneLine": "AI 编程工具继续从代码补全走向任务执行：理解目标、改文件、跑验证、解释过程会变成基本能力。",
+      "judgment": "这类更新最值得产品经理关注，因为它能把需求讨论更快变成可演示原型；但也会放大错误执行、权限和验收问题。",
+      "capability": "能力边界正在从“写一段代码”推进到“处理一个小任务”。真正要看的是它是否能稳定读懂上下文、定位文件、修改后自检。",
+      "boundary": "不能把它当成无人值守研发。复杂架构、隐私数据、生产发布、删除操作仍需要明确权限、检查点和人工确认。",
+      "pmInsight": "你可以开始把 PRD 写成可执行任务：目标、输入、验收条件、失败回退，而不是只写页面和功能点。",
+      "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
+    },
+    {
+      "id": "20261113-19-为什么codingagent首选no",
       "category": "AI 编程",
       "badge": "开发工具",
       "title": "为什么 coding agent 首选 Node.js？从事件驱动到 npm 生态的深度拆解",
@@ -331,7 +349,7 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20261113-19-claudecode产品负责人cat",
+      "id": "20261113-20-claudecode产品负责人cat",
       "category": "AI 编程",
       "badge": "开发工具",
       "title": "Claude Code 产品负责人 Cat Wu 离开 Anthropic",
@@ -349,7 +367,7 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20261113-20-谷歌deepmind发布新一代vla",
+      "id": "20261113-21-谷歌deepmind发布新一代vla",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "谷歌 DeepMind发布新一代VLA模型",
@@ -367,7 +385,7 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20261113-21-openai揭秘万级agent实测狂",
+      "id": "20261113-22-openai揭秘万级agent实测狂",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "OpenAI揭秘万级Agent实测！狂飙36小时，狂吞1万亿Token",
@@ -385,7 +403,7 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20261113-22-claude开始自己写程序管理age",
+      "id": "20261113-23-claude开始自己写程序管理age",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "Claude 开始自己写程序管理 Agent 了：Anthropic 披露动态工作流架构",
@@ -403,7 +421,7 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20261113-23-claudesonnet55发布速度",
+      "id": "20261113-24-claudesonnet55发布速度",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "Claude Sonnet 5.5 发布：速度快3 成、Agent 编程评测从10% 跳到70% - OSCHINA - 开源 × AI · 开发者生态社区",
@@ -421,7 +439,7 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20261113-24-万字复盘codex一个在模型公司如何",
+      "id": "20261113-25-万字复盘codex一个在模型公司如何",
       "category": "AI 编程",
       "badge": "开发工具",
       "title": "万字复盘 Codex：一个在模型公司如何做产品的「典型」故事",
@@ -439,7 +457,7 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20261113-25-补位100美元档位openai连夜抄",
+      "id": "20261113-26-补位100美元档位openai连夜抄",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "补位100美元档位，OpenAI连夜抄作业防守Claude",
@@ -455,24 +473,6 @@
       "boundary": "发布演示和真实产品可用性不是一回事；还要验证地区、价格、限流、幻觉率、失败恢复和数据安全。",
       "pmInsight": "你可以把模型更新翻译成需求假设：哪些原来做不了的任务现在可能可做？哪些体验可以从人工流程变成 AI 协助？",
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
-    },
-    {
-      "id": "20261113-26-从记忆到自进化agent走向rsi的",
-      "category": "AI 编程",
-      "badge": "开发工具",
-      "title": "从记忆到自进化：Agent 走向 RSI 的关键一步",
-      "source": {
-        "name": "QQ News",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5OERqbnBGLUMyc0Qxbk1IMWZTYWpqQjk5MGhwNzdRUUtqZmswVkhBWmZEOUNZcXo0OUU1SU5RdzFCdlNXTm01Q0ZDV0tKb1ZGd0dGdzJn?oc=5"
-      },
-      "publishedAt": "2026-10-10 15:00",
-      "score": 93,
-      "oneLine": "AI 编程工具继续从代码补全走向任务执行：理解目标、改文件、跑验证、解释过程会变成基本能力。",
-      "judgment": "这类更新最值得产品经理关注，因为它能把需求讨论更快变成可演示原型；但也会放大错误执行、权限和验收问题。",
-      "capability": "能力边界正在从“写一段代码”推进到“处理一个小任务”。真正要看的是它是否能稳定读懂上下文、定位文件、修改后自检。",
-      "boundary": "不能把它当成无人值守研发。复杂架构、隐私数据、生产发布、删除操作仍需要明确权限、检查点和人工确认。",
-      "pmInsight": "你可以开始把 PRD 写成可执行任务：目标、输入、验收条件、失败回退，而不是只写页面和功能点。",
-      "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
       "id": "20261113-27-midjourney依然是ai图像生",
