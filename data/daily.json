@@ -2,7 +2,7 @@
   "version": 2,
   "label": "AI Daily Brief",
   "date": "2026 年 11 月 16 日",
-  "updatedAt": "2026-11-16 06:28（北京时间）",
+  "updatedAt": "2026-11-16 12:47（北京时间）",
   "title": "今天值得关注的 AI 情报",
   "summary": "先扫快讯，再看重点判断。内容覆盖海外模型与产品、AI 编程、影像创作、AI 硬件和中文科技媒体信号。",
   "signals": [
@@ -187,15 +187,15 @@
       "askDev": "我们能否保留真实素材与 AI 生成素材的链路？能否让用户关闭、回退或标识 AI 修改？弱网/端侧能做哪部分？"
     },
     {
-      "id": "20261116-11-googlesynapticssr2",
+      "id": "20261116-11-aismartglasseswill",
       "category": "AI 硬件",
       "badge": "端侧 / 设备",
-      "title": "Google, Synaptics SR250 AI Chips Hit 400 GOPS [2026]",
+      "title": "AI Smart Glasses Will Be Huge. But Meta Faces A Problem.",
       "source": {
-        "name": "shattered.io",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwTlJwb3FZaFB4XzV0eEVndnZjNGdQT1pkbG5DTldNLXVmLTVnX2pjcVV3TkxNREc4NXJ2WnRBNTdiY1FfVGZBUWxLXzBHZ2wzVV9xb3Y2cmtyWnlreDU1N0MteHNXWVZyVUlPRDFMdkl6NzQ?oc=5"
+        "name": "Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ01waENaUm04VEROanhTdjFTWno5UkZyams0RVJueVZLRDlsNzRXNEF4YkdRUk51UDQ5YmgtbnBwRFdBbWJfeElUS1VxOXo2ZFNwR1M3SFBfZkl0bEpXVm9hbXZkZkZoaGhlTFJQanU5R204WF9sbERuQTAtbmZsa0VUSHdQYzNxQlE4NVVHVFZIdUxfcjNzMnhrQ3lYbGFNYmpKN2VudmM3dDI4eUE?oc=5"
       },
-      "publishedAt": "2026-10-22 15:00",
+      "publishedAt": "2026-10-08 15:00",
       "score": 74,
       "oneLine": "AI 硬件的价值不在于塞一个聊天入口，而在于设备能理解状态、场景、传感器和可执行动作。",
       "judgment": "这是你软硬结合背景最该长期关注的方向：端侧、云端和设备上下文的分工，会直接决定体验是否可用。",
@@ -277,15 +277,15 @@
       "askDev": "我们能否保留真实素材与 AI 生成素材的链路？能否让用户关闭、回退或标识 AI 修改？弱网/端侧能做哪部分？"
     },
     {
-      "id": "20261116-16-humandatarobothand",
+      "id": "20261116-16-googlesynapticssr2",
       "category": "AI 硬件",
       "badge": "端侧 / 设备",
-      "title": "Human Data, Robot Hands: Where Automation Goes Next",
+      "title": "Google, Synaptics SR250 AI Chips Hit 400 GOPS [2026]",
       "source": {
-        "name": "ETF Database",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZHg0MTdud1JLQ2d5NnFqeWJLS2JheGpBd21lT05BVGtKdDhXS3VGYTlQX212bzd6TndIbHd2Wlhqa0VVZmhlOFlNN04zR0NOb2xtZTdEemc2SFlQX2lWQ3FTZG04M01BZGVvZnhOaG9EYUZDLUdEOXRUMWlFeENjN3l6TVdlLUhac3h0Zlc5S1hQaEZod0o1SkQ1VUVUbWJwLU55aA?oc=5"
+        "name": "shattered.io",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwTlJwb3FZaFB4XzV0eEVndnZjNGdQT1pkbG5DTldNLXVmLTVnX2pjcVV3TkxNREc4NXJ2WnRBNTdiY1FfVGZBUWxLXzBHZ2wzVV9xb3Y2cmtyWnlreDU1N0MteHNXWVZyVUlPRDFMdkl6NzQ?oc=5"
       },
-      "publishedAt": "2026-10-21 15:00",
+      "publishedAt": "2026-10-22 15:00",
       "score": 74,
       "oneLine": "AI 硬件的价值不在于塞一个聊天入口，而在于设备能理解状态、场景、传感器和可执行动作。",
       "judgment": "这是你软硬结合背景最该长期关注的方向：端侧、云端和设备上下文的分工，会直接决定体验是否可用。",
@@ -295,13 +295,13 @@
       "askDev": "哪些信息必须端侧处理？哪些可以上云？延迟预算是多少？误识别会造成什么后果？离线时如何降级？"
     },
     {
-      "id": "20261116-17-claudecode产品负责人cat",
+      "id": "20261116-17-anthropic产品团队出现人事变",
       "category": "AI 编程",
       "badge": "开发工具",
-      "title": "Claude Code 产品负责人 Cat Wu 离开 Anthropic",
+      "title": "Anthropic产品团队出现人事变动，Claude Code负责人离开",
       "source": {
-        "name": "DoNews",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvcHZROU54LTZGNVg5Y2ZxS0Z6OEJkbG5wLXY0QlYyZE5RWUdRbGZUenBMYjZzVDlSQWFHdmFvSkFVSzk5cFo4QzBIa2xZR0NZc3d0WjNaTk5zZUppQ0E?oc=5"
+        "name": "AIBase",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yV2VkQXFTNDhsWWY1TFc3RVFaRWN1RmZBbEpTRTMxLXc0U0E5MzdoNXZGVkdOTURXTGxvLW5nT2tuenBXWndEcVBCLXJWdw?oc=5"
       },
       "publishedAt": "2026-11-04 16:00",
       "score": 106,
@@ -385,25 +385,7 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20261116-22-openai揭秘万级agent实测狂",
-      "category": "模型/新能力",
-      "badge": "模型迭代",
-      "title": "OpenAI揭秘万级Agent实测！狂飙36小时，狂吞1万亿Token",
-      "source": {
-        "name": "智源社区",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBydkhyTnN0SV85Y2FTVmhJYXR2UkFzeG9BeUJJU2V3TEtiNUUyLUYtM2NRMGRnUnRVN1NxMWlEdzZ6clM5NFlRSg?oc=5"
-      },
-      "publishedAt": "2026-10-16 15:00",
-      "score": 96,
-      "oneLine": "这类动态的重点是模型能力边界是否变化：更会推理、更会用工具、更懂多模态，还是成本/速度发生变化。",
-      "judgment": "模型新闻不要只看名字和榜单，要追问它新增了哪类真实任务能力，以及是否已经可用、可稳定复现。",
-      "capability": "模型能力通常体现在上下文长度、推理、工具调用、多模态输入输出、代码能力、成本和延迟这些维度。",
-      "boundary": "发布演示和真实产品可用性不是一回事；还要验证地区、价格、限流、幻觉率、失败恢复和数据安全。",
-      "pmInsight": "你可以把模型更新翻译成需求假设：哪些原来做不了的任务现在可能可做？哪些体验可以从人工流程变成 AI 协助？",
-      "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
-    },
-    {
-      "id": "20261116-23-claudemd还是agentsmd",
+      "id": "20261116-22-claudemd还是agentsmd",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "CLAUDE.md 还是 AGENTS.md？Anthropic 的答案是：以后都不用",
@@ -421,7 +403,7 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20261116-24-anthropic推出主动式aiag",
+      "id": "20261116-23-anthropic推出主动式aiag",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "Anthropic 推出“主动式 AI Agent” Claude Duet——无需等你开口就干活、关键操作先问批准",
@@ -439,7 +421,7 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20261116-25-万字复盘codex一个在模型公司如何",
+      "id": "20261116-24-万字复盘codex一个在模型公司如何",
       "category": "AI 编程",
       "badge": "开发工具",
       "title": "万字复盘 Codex：一个在模型公司如何做产品的「典型」故事",
@@ -457,7 +439,7 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20261116-26-补位100美元档位openai连夜抄",
+      "id": "20261116-25-补位100美元档位openai连夜抄",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "补位100美元档位，OpenAI连夜抄作业防守Claude",
@@ -475,7 +457,7 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20261116-27-aicoding时代程序员如何转型从",
+      "id": "20261116-26-aicoding时代程序员如何转型从",
       "category": "AI 编程",
       "badge": "开发工具",
       "title": "AI Coding时代程序员如何转型：从写代码到解决问题",
@@ -493,7 +475,7 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20261116-28-从记忆到自进化agent走向rsi的",
+      "id": "20261116-27-从记忆到自进化agent走向rsi的",
       "category": "AI 编程",
       "badge": "开发工具",
       "title": "从记忆到自进化：Agent 走向 RSI 的关键一步",
@@ -511,7 +493,7 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20261116-29-vscode1137putsaiag",
+      "id": "20261116-28-vscode1137putsaiag",
       "category": "AI 编程",
       "badge": "开发工具",
       "title": "VS Code 1.137 Puts AI Agents in Dev Containers [2026]",
@@ -529,7 +511,7 @@
       "askDev": "这个 Agent 最多能操作哪些文件/系统？每一步如何留痕？测试失败时会停止还是继续？人工确认点放在哪里？"
     },
     {
-      "id": "20261116-30-gpt61terra首批网友实测来了",
+      "id": "20261116-29-gpt61terra首批网友实测来了",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "GPT-6.1 Terra首批网友实测来了！1折价格获得Astra级电脑操作能力",
@@ -547,7 +529,7 @@
       "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
     },
     {
-      "id": "20261116-31-aiweekinreview2610",
+      "id": "20261116-30-aiweekinreview2610",
       "category": "模型/新能力",
       "badge": "模型迭代",
       "title": "AI Week in Review 26.10.10",
@@ -556,6 +538,24 @@
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QVVBLanJBazZrWXJ5QzR5MkFSMFloSTV0bENxUkZZNWhaSzBZT2lFSWNKNlAyNVJHcWVpdXdzcmJ0RHRyOGtZd3hIQ29tQ3kzWHFWUzhNZ0hHQVRXeXMwaWFnZ09zQmdZcEN3eWx3?oc=5"
       },
       "publishedAt": "2026-10-10 15:00",
+      "score": 87,
+      "oneLine": "这类动态的重点是模型能力边界是否变化：更会推理、更会用工具、更懂多模态，还是成本/速度发生变化。",
+      "judgment": "模型新闻不要只看名字和榜单，要追问它新增了哪类真实任务能力，以及是否已经可用、可稳定复现。",
+      "capability": "模型能力通常体现在上下文长度、推理、工具调用、多模态输入输出、代码能力、成本和延迟这些维度。",
+      "boundary": "发布演示和真实产品可用性不是一回事；还要验证地区、价格、限流、幻觉率、失败恢复和数据安全。",
+      "pmInsight": "你可以把模型更新翻译成需求假设：哪些原来做不了的任务现在可能可做？哪些体验可以从人工流程变成 AI 协助？",
+      "askDev": "这个模型相对现有方案强在哪个指标？API 是否可用？成本/延迟能否支撑高频使用？失败时如何检测和兜底？"
+    },
+    {
+      "id": "20261116-31-claudevschatgptvsg",
+      "category": "模型/新能力",
+      "badge": "模型迭代",
+      "title": "Claude vs ChatGPT vs Gemini: Price Gap Hits 20x [2026]",
+      "source": {
+        "name": "shattered.io",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5aM0NfWWpkX3o0eWlQV1BPVU1lZk9zLWN6eUJ6dHRhZDNobWdnVzlkcGM4RGh3ajNYMUF5Wld3TnJxYXJnbEEzd1FuektKUkJtVWlKQnVod0F0MnVGcXh6ZVA5Z1VVNkwtVzgtVTdtNWhqdw?oc=5"
+      },
+      "publishedAt": "2026-10-25 15:00",
       "score": 87,
       "oneLine": "这类动态的重点是模型能力边界是否变化：更会推理、更会用工具、更懂多模态，还是成本/速度发生变化。",
       "judgment": "模型新闻不要只看名字和榜单，要追问它新增了哪类真实任务能力，以及是否已经可用、可稳定复现。",
